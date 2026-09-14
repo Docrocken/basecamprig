@@ -17,7 +17,7 @@ OLLAMA_MODEL = "qwen2.5:7b"
 INTERVAL_SECONDS = 180 * 60  # 180 minutes
 ARTICLES_PER_BATCH = 3
 
-# --- 15,000+ COMBINATION MATRIX (ENGLISH OUTDOOR & BASECAMP GEAR) ---
+# --- COMBINATION MATRIX ---
 EQUIPMENT_CORE = [
     "2-person backpacking tent", "4-season expedition tunnel tent", "ultralight freestanding dome tent",
     "geodesic alpine storm tent", "ultralight silnylon tarp 10x10", "hot tent with stove jack",
@@ -54,14 +54,13 @@ FOCUS_ANGLES = [
 ]
 
 BUYABLE_TERMS = [
-    "backpacking tent", "tunnel tent", "4 season tent", "camping tarp", "down sleeping bag",
-    "synthetic sleeping bag", "sleeping pad", "insulated sleeping mat", "hardshell jacket",
-    "trekking pants", "hiking boots", "trail running shoes", "merino base layer", "wool socks",
-    "down jacket", "fleece pullover", "gaiters", "camp stove", "backpacking stove", "multi fuel stove",
-    "headlamp", "trekking poles", "hiking backpack", "daypack", "dry bag", "water filter",
-    "bushcraft knife", "folding saw", "camp hatchet", "power bank", "solar charger",
-    "insulated thermos", "tent stakes", "paracord", "compass", "first aid kit", "mosquito net",
-    "freeze dried meals", "titanium cookware", "camping hammock", "stuff sack", "bivy sack"
+    "tent", "tents", "sleeping bag", "sleeping bags", "sleeping pad", "sleeping pads",
+    "tarp", "tarps", "mat", "pad", "booties", "jacket", "jackets", "pants", "trousers",
+    "boots", "shoes", "socks", "base layer", "fleece", "gaiters", "stove", "stoves",
+    "burner", "cookware", "pot", "headlamp", "trekking poles", "backpack", "pack",
+    "dry bag", "water filter", "knife", "blade", "saw", "hatchet", "axe", "power bank",
+    "solar charger", "thermos", "stakes", "paracord", "rope", "compass", "first aid kit",
+    "hammock", "quilt", "bivy", "sunglasses", "matches", "water bladder"
 ]
 
 def generate_topic():
@@ -95,34 +94,32 @@ def query_ollama(prompt):
         return None
 
 def inject_affiliate_links(markdown_text, min_links=8, max_links=15):
-    """Replaces between 8 and 15 unique buyable terms with Amazon search links."""
     target_count = random.randint(min_links, max_links)
-    chosen_terms = random.sample(BUYABLE_TERMS, min(target_count, len(BUYABLE_TERMS)))
+    shuffled_terms = random.sample(BUYABLE_TERMS, len(BUYABLE_TERMS))
     
     injected = 0
     lines = markdown_text.split("\n")
     processed_lines = []
 
     for line in lines:
-        # Avoid headings, frontmatter, and already linked table rows
-        if line.startswith("#") or line.startswith("---") or "| [" in line:
+        if line.startswith("#") or line.startswith("---") or line.startswith("|"):
             processed_lines.append(line)
             continue
 
-        for term in list(chosen_terms):
+        for term in list(shuffled_terms):
             if injected >= target_count:
                 break
             
-            # Match whole word, ensure not already inside markdown link
+            # Match standalone term not already linked
             pattern = rf'(?i)\b({re.escape(term)})\b(?![^\[]*\])'
             match = re.search(pattern, line)
             if match:
                 matched_word = match.group(1)
-                search_query = urllib.parse.quote_plus(matched_word.lower())
-                aff_url = f"https://www.amazon.se/s?k={search_query}&tag={AFFILIATE_TAG}"
+                search_query = urllib.parse.quote_plus(matched_word.lower() + " outdoor gear")
+                aff_url = f"https://www.amazon.com/s?k={search_query}&tag={AFFILIATE_TAG}"
                 replacement = f"[{matched_word}]({aff_url})"
                 line = line[:match.start()] + replacement + line[match.end():]
-                chosen_terms.remove(term)
+                shuffled_terms.remove(term)
                 injected += 1
 
         processed_lines.append(line)
@@ -159,7 +156,6 @@ Requirements:
         print("[Error] Ollama returned insufficient content.")
         return False
 
-    # Inject affiliate links
     final_content, link_count = inject_affiliate_links(raw_content, min_links=8, max_links=15)
     print(f"[Affiliate] Injected {link_count} affiliate links.")
 

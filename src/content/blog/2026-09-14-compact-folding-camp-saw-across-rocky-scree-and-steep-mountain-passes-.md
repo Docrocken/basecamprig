@@ -29,7 +29,7 @@ When the saw becomes wet, it is essential to dry it promptly to avoid damage fro
 
 - **Air Drying**: Allow the saw to air dry in a well-ventilated area out of direct sunlight.
 - **Cloth Drying**: Use a clean, soft cloth to wipe down the blade and handle, then hang the saw vertically to allow water to drain from the blade.
-- **Heat Drying**: Place the saw in a warm environment, such as a car interior or tent with a dehumidifier. Avoid using direct heat sources like a hair dryer or stove as they can warp the metal.
+- **Heat Drying**: Place the saw in a warm environment, such as a car interior or [tent](https://www.amazon.com/s?k=tent+outdoor+gear&tag=basecamprig-21) with a dehumidifier. Avoid using direct heat sources like a hair dryer or stove as they can warp the metal.
 
 ### Tear Repair Guide
 
@@ -60,3 +60,19 @@ Below are four key items that complement the compact folding camp saw for outdoo
 4. **Portable Camp Stove** - Choose a stove with a windscreen and a high-efficiency burner to quickly prepare meals in rugged environments.
 
 By following these detailed maintenance protocols and choosing appropriate gear, you can ensure that your compact folding camp saw remains functional and reliable during challenging outdoor expeditions through rocky scree and steep mountain passes.
+
+
+### Recommended Field Rig Equipment
+Field-tested gear setups and verified configurations available on Amazon:
+
+- [Hardshell jacket Field Gear Selection](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21)
+- [Trekking pants Field Gear Selection](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21)
+- [Dry bag Field Gear Selection](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21)
+- [Paracord Field Gear Selection](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)
+- [Gloves Field Gear Selection](https://www.amazon.com/s?k=gloves+outdoor+gear&tag=basecamprig-21)
+- [Titanium pot Field Gear Selection](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21)
+- [Bear canister Field Gear Selection](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21)
+- [Backpacking stove Field Gear Selection](https://www.amazon.com/s?k=backpacking+stove+outdoor+gear&tag=basecamprig-21)
+- [Bushcraft knife Field Gear Selection](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21)
+- [Power bank Field Gear Selection](https://www.amazon.com/s?k=power+bank+outdoor+gear&tag=basecamprig-21)
+- [First aid kit Field Gear Selection](https://www.amazon.com/s?k=first+aid+kit+outdoor+gear&tag=basecamprig-21)
