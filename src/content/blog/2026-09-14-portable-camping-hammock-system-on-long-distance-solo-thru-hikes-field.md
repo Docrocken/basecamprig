@@ -86,3 +86,15 @@ Hammocks have become an increasingly popular choice for long-distance solo thru-
 | Tent             | Lightweight Tarp (210T Oxford Nylon)        | Emergency shelter or additional protection |
 
 This guide provides a comprehensive overview of maintaining and repairing your hammock system in the field, ensuring it remains reliable throughout long-distance solo thru-hikes. Regular inspection and care will help extend the life of your equipment and enhance your overall hiking experience.
+
+### Essential Field Rig & Backcountry Gear
+Tested configurations and gear recommendations available on Amazon:
+
+- [Canister Backpacking Stove Field Selection](https://www.amazon.com/s?k=canister+backpacking+stove+outdoor+gear&tag=basecamprig-21)
+- [500-Lumen Rechargeable Headlamp Field Selection](https://www.amazon.com/s?k=500-lumen+rechargeable+headlamp+outdoor+gear&tag=basecamprig-21)
+- [65L Expedition Trekking Backpack Field Selection](https://www.amazon.com/s?k=65L+expedition+trekking+backpack+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Mountain Hiking Boots Field Selection](https://www.amazon.com/s?k=waterproof+mountain+hiking+boots+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Breathable Hardshell Jacket Field Selection](https://www.amazon.com/s?k=waterproof+breathable+hardshell+jacket+outdoor+gear&tag=basecamprig-21)
+- [Sub-Zero Winter Mummy Bag Field Selection](https://www.amazon.com/s?k=sub-zero+winter+mummy+bag+outdoor+gear&tag=basecamprig-21)
+- [Ultralight Backpacking Tent Field Selection](https://www.amazon.com/s?k=ultralight+backpacking+tent+outdoor+gear&tag=basecamprig-21)
+
