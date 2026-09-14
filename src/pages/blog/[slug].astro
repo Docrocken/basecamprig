@@ -1,0 +1,79 @@
+﻿---
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => {
+    const slugValue = (post.id ? post.id.replace(/\.[^/.]+$/, '') : post.slug);
+    return {
+      params: { slug: slugValue },
+      props: { post },
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{post.data.title} - BasecampRig</title>
+  <meta name="description" content={post.data.description} />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem;
+      line-height: 1.7;
+      color: #24292e;
+      background-color: #fff;
+    }
+    .nav-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; }
+    .back-link { color: #0366d6; text-decoration: none; font-weight: 500; font-size: 0.95rem; }
+    .back-link:hover { text-decoration: underline; }
+    article h1 { font-size: 2.2rem; margin-bottom: 1.25rem; color: #111; line-height: 1.25; }
+    article h2 { font-size: 1.4rem; margin-top: 2rem; margin-bottom: 0.75rem; color: #222; border-bottom: 1px solid #eaecef; padding-bottom: 0.3rem; }
+    article h3 { font-size: 1.15rem; margin-top: 1.5rem; color: #333; }
+    article p { margin-bottom: 1.1rem; }
+    article ul, article ol { padding-left: 1.5rem; margin-bottom: 1.25rem; }
+    article li { margin-bottom: 0.4rem; }
+    article table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.95rem; }
+    article th, article td { border: 1px solid #dfe2e5; padding: 10px 14px; text-align: left; }
+    article th { background-color: #f6f8fa; font-weight: 600; }
+    article a { color: #0366d6; text-decoration: underline; }
+    #google_translate_element { font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <div class="nav-header">
+    <a href="/" id="back-btn" class="back-link">← Back to all guides</a>
+    <div id="google_translate_element"></div>
+  </div>
+  <main>
+    <article>
+      <Content />
+    </article>
+  </main>
+
+  <script>
+    const userLang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+    if (userLang.startsWith('sv')) {
+      document.getElementById('back-btn').innerText = '← Tillbaka till alla guider';
+    }
+  </script>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'en',
+        includedLanguages: 'sv,en,no,da,de',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+      }, 'google_translate_element');
+    }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+</html>
