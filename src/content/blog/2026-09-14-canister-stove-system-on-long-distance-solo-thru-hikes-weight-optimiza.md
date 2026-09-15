@@ -61,4 +61,11 @@ Below is a list of recommended gear for weight optimization while ensuring safet
 | Wind Shield      | Optimus Helius Extreme       | 42         | Advanced wind protection   |
 | Fuel Cartridge   | Snow Peak Insulated Canister | 170        | Retains internal temperature |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Foam Mat](https://www.amazon.com/s?k=foam+mat+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 By carefully selecting and managing the components of your canister stove system, you can achieve significant weight reductions without compromising on performance or safety. This approach is particularly beneficial for long-distance solo thru-hikes where every ounce counts towards overall pack weight.
+
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Outdoor Knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

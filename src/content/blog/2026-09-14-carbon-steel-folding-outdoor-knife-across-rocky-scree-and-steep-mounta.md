@@ -9,11 +9,17 @@ category: "Gear & Field Setups"
 
 ### Introduction to Materials and Specifications
 
-When venturing into rocky scree and steep mountain passes, the choice of a reliable carbon steel folding outdoor knife is crucial. The blade should be robust enough to withstand the harsh terrain while being versatile for various tasks such as cutting rope, prying loose rocks, or creating a makeshift shelter. A common choice in this context is the CRUX 1 by Victorinox, known for its 420HC stainless steel blade that can hold an edge well and resist corrosion. The knife also features a comfortable ergonomic handle designed to reduce hand fatigue during extended use.
+When venturing into rocky scree and steep mountain passes, the choice of a reliable carbon steel folding [outdoor knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) is crucial. The blade should be robust enough to withstand the harsh terrain while being versatile for various tasks such as cutting rope, prying loose rocks, or creating a makeshift shelter. A common choice in this context is the CRUX 1 by Victorinox, known for its 420HC stainless steel blade that can hold an edge well and resist corrosion. The knife also features a comfortable ergonomic handle designed to reduce hand fatigue during extended use.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Modular Rig Configuration
 
 A modular rig configuration allows you to carry essential tools in a way that maximizes both utility and comfort while minimizing weight. Components such as carabiners, knife sheaths, and webbing are crucial for securing gear securely to your harness or pack without compromising mobility. For instance, using a 20mm nylon webbing loop secured with locking carabiners can provide a secure attachment point for tools like the CRUX 1 while ensuring they do not rub against clothing during movement.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Cook Pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Essential Accessories
 
@@ -47,7 +53,7 @@ Apply a thin layer of beeswax or silicone-based lubricant to the handle periodic
 
 ### Technical Comparison Table
 
-| Feature                | CRUX 1 by Victorinox           | Benchmade Bushcraft Knife     |
+| Feature                | CRUX 1 by Victorinox           | Benchmade [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21)     |
 |------------------------|-------------------------------|------------------------------|
 | Blade Material         | 420HC Stainless Steel          | S35VN Stainless Steel        |
 | Blade Length (Open)    | 8.9 cm                        | 7.6 cm                       |
@@ -56,15 +62,24 @@ Apply a thin layer of beeswax or silicone-based lubricant to the handle periodic
 | Blade Thickness       | 3.5 mm                        | 4.5 mm                       |
 | Edge Retention        | Excellent                      | Good                         |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Core Gear Recommendations
 
 Below are four to five core gear items that complement the carbon steel folding outdoor knife for rocky scree and steep mountain passes, along with their field roles:
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 1. **Carabiner**
    - **Role:** Securely attach the knife and other tools to your harness or pack.
    
 2. **Knife Sheath**
    - **Role:** Protects the blade when not in use and provides quick access.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Axe](https://www.amazon.com/s?k=camp+axe+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 3. **Webbing Loops**
    - **Role:** Flexible attachment points for various tools, enhancing modularity and organization.
@@ -78,14 +93,4 @@ Below are four to five core gear items that complement the carbon steel folding 
 By following these guidelines and recommendations, you can ensure that your carbon steel folding outdoor knife is a reliable partner in any challenging terrain.
 
 
-### Recommended Field Rig Equipment
-Field-tested gear setups and verified configurations available on Amazon:
-
-- [Folding saw Field Gear Selection](https://www.amazon.com/s?k=folding+saw+outdoor+gear&tag=basecamprig-21)
-- [Trekking pants Field Gear Selection](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21)
-- [Backpacking stove Field Gear Selection](https://www.amazon.com/s?k=backpacking+stove+outdoor+gear&tag=basecamprig-21)
-- [Hardshell jacket Field Gear Selection](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21)
-- [Fleece hoodie Field Gear Selection](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21)
-- [Camp axe Field Gear Selection](https://www.amazon.com/s?k=camp+axe+outdoor+gear&tag=basecamprig-21)
-- [Gloves Field Gear Selection](https://www.amazon.com/s?k=gloves+outdoor+gear&tag=basecamprig-21)
-- [Lantern Field Gear Selection](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

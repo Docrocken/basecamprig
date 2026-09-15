@@ -9,11 +9,17 @@ category: "Gear & Field Setups"
 
 ### Introduction to the Compact Folding Camp Saw
 
-The compact folding camp saw is an indispensable tool for outdoor enthusiasts, particularly those navigating rocky scree and steep mountain passes. Designed for portability and ease of use in rugged terrains, this saw can be a lifesaver when faced with challenging tasks such as cutting firewood or constructing temporary shelters. However, maintaining the saw's functionality under harsh field conditions is crucial to ensure reliable performance.
+The compact folding [camp saw](https://www.amazon.com/s?k=camp+saw+outdoor+gear&tag=basecamprig-21) is an indispensable tool for outdoor enthusiasts, particularly those navigating rocky scree and steep mountain passes. Designed for portability and ease of use in rugged terrains, this saw can be a lifesaver when faced with challenging tasks such as cutting firewood or constructing temporary shelters. However, maintaining the saw's functionality under harsh field conditions is crucial to ensure reliable performance.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hot Tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Material Specifications
 
 The compact folding camp saw features a lightweight aluminum alloy frame that typically weighs between 0.5 to 1 kg, making it easy to carry on extended hikes. The blade is made from high-carbon steel, providing durability and sharpness retention for various cutting tasks. The handle is crafted from ergonomic rubber or polyurethane, ensuring secure grip even when wet.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Field Maintenance Protocols
 
@@ -50,29 +56,16 @@ Tears and minor cuts on the handle or sheath can be repaired using specialized m
 | Drying Time            | 1-4 hours (depending on severity of wetness)|
 | Maintenance Effort     | Low to moderate                          |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Recommended Core Gear Choices
 
 Below are four key items that complement the compact folding camp saw for outdoor and basecamp use:
 
-1. **Lightweight Backpacking Tent** - A durable, waterproof tent with a 4000mm hydrostatic head rating is essential for shelter during inclement weather.
-2. **Insulated Down Sleeping Bag** - Opt for a sleeping bag with a fill power of at least 650 and an R-value of 10 to ensure warmth in cold conditions.
+1. **Lightweight [Backpacking Tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)** - A durable, waterproof tent with a 4000mm hydrostatic head rating is essential for shelter during inclement weather.
+2. **Insulated Down [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)** - Opt for a sleeping bag with a fill power of at least 650 and an R-value of 10 to ensure warmth in cold conditions.
 3. **Hydrophobic Tent Fly** - A water-repellent tent fly increases resistance against rain penetration, enhancing the overall waterproofing of your basecamp setup.
-4. **Portable Camp Stove** - Choose a stove with a windscreen and a high-efficiency burner to quickly prepare meals in rugged environments.
+4. **Portable [Camp Stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21)** - Choose a stove with a windscreen and a high-efficiency burner to quickly prepare meals in rugged environments.
 
 By following these detailed maintenance protocols and choosing appropriate gear, you can ensure that your compact folding camp saw remains functional and reliable during challenging outdoor expeditions through rocky scree and steep mountain passes.
-
-
-### Recommended Field Rig Equipment
-Field-tested gear setups and verified configurations available on Amazon:
-
-- [Hardshell jacket Field Gear Selection](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21)
-- [Trekking pants Field Gear Selection](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21)
-- [Dry bag Field Gear Selection](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21)
-- [Paracord Field Gear Selection](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)
-- [Gloves Field Gear Selection](https://www.amazon.com/s?k=gloves+outdoor+gear&tag=basecamprig-21)
-- [Titanium pot Field Gear Selection](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21)
-- [Bear canister Field Gear Selection](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21)
-- [Backpacking stove Field Gear Selection](https://www.amazon.com/s?k=backpacking+stove+outdoor+gear&tag=basecamprig-21)
-- [Bushcraft knife Field Gear Selection](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21)
-- [Power bank Field Gear Selection](https://www.amazon.com/s?k=power+bank+outdoor+gear&tag=basecamprig-21)
-- [First aid kit Field Gear Selection](https://www.amazon.com/s?k=first+aid+kit+outdoor+gear&tag=basecamprig-21)

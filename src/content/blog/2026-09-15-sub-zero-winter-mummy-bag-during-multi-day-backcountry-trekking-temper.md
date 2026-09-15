@@ -9,7 +9,10 @@ category: "Gear & Field Setups"
 
 ### Introduction to Sub-Zero Sleeping Bags
 
-In sub-zero winter conditions during multi-day backcountry treks, the choice of a mummy bag is critical for ensuring minimal heat loss while sleeping. The primary goal is to maintain core body temperature effectively, thereby minimizing energy expenditure and preserving physical performance throughout the expedition.
+In sub-zero winter conditions during multi-day backcountry treks, the choice of a [mummy bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21) is critical for ensuring minimal heat loss while sleeping. The primary goal is to maintain core body temperature effectively, thereby minimizing energy expenditure and preserving physical performance throughout the expedition.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Technical Specifications and Materials
 
@@ -42,21 +45,33 @@ When selecting a mummy bag for sub-zero conditions, consider several factors:
 | **Warmth to Weight**  | Excellent                             | Consistent across wide temperatures|
 | **Cold Temperature Performance** | Maintains warmth at extremely low temps | Effective down to -10°F (-23°C) but may lose some effectiveness below this temperature |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Case Study: Successful Sub-Zero Trekking
 
 In a recent multi-day backcountry trek in Alaska, participants used both down and synthetic insulated mummy bags. The synthetic options performed well even when temperatures dropped to -35°F (-37°C), whereas down-filled bags started losing their insulative properties significantly around -20°F (-29°C). Participants noted that maintaining a layer of dry clothing between the body and the bag improved overall comfort.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Recommended Gear Choices
 
 | **Gear**              | **Material Specifications**             | **Field Role**                      |
 |-----------------------|------------------------------------------|-------------------------------------|
-| **Mummy Bag A**       | Down Fill 650+, R-value 3.8, Hydrostatic head 12,000mm, Breathable membrane        | Primary sleeping bag for extreme cold|
+| **Mummy Bag A**       | Down Fill 650+, R-value 3.8, Hydrostatic head 12,000mm, Breathable membrane        | Primary [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) for extreme cold|
 | **Mummy Bag B**       | Polarguard Gold, R-value 4.2, Weight 4 lbs (1.8 kg), Breathable inner lining      | Backup or second layer of insulation |
-| **Sleeping Pad C**    | Thermarest NeoAir XTherm, R-value 5.0     | Insulation under the body            |
+| **[Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) C**    | Thermarest NeoAir XTherm, R-value 5.0     | Insulation under the body            |
 | **Insulated Vest D**  | Synthetic, R-value 3.2, Water-resistant outer fabric                             | Additional warmth during rest periods|
 | **Waterproof Bivy E** | Polyester shell, Hydrostatic head 16,000mm, Breathable inner layer               | Emergency shelter or extra insulation|
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 By carefully selecting and preparing for sub-zero winter conditions with appropriate gear, backcountry trekkers can ensure a comfortable and safe experience even in extreme cold.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Rain Jacket](https://www.amazon.com/s?k=rain+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Conclusion
 

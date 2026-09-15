@@ -11,6 +11,9 @@ category: "Gear & Field Setups"
 
 When embarking on fast-and-light packrafting expeditions, the choice of shelter is crucial. A hot [tent](https://www.amazon.com/s?k=tent+outdoor+gear&tag=basecamprig-21) equipped with a [stove](https://www.amazon.com/s?k=stove+outdoor+gear&tag=basecamprig-21) jack can significantly enhance comfort by providing warmth in colder conditions. This guide focuses on selecting suitable [tents](https://www.amazon.com/s?k=tents+outdoor+gear&tag=basecamprig-21) for such endeavors, emphasizing temperature ratings and true comfort limits.
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 #### Material Specifications
 - **Tent Fabric**: The outer fabric should have a hydrostatic head (HH) of at least 3000 mm to ensure it is waterproof. A higher HH indicates better water resistance.
 - **Waterproof Breathable Membrane**: Look for a membrane with a breathability rating of at least 15,000 g/m²/day. This ensures moisture can escape while keeping the tent dry from rain.
@@ -41,8 +44,8 @@ When embarking on fast-and-light packrafting expeditions, the choice of shelter 
 | Item                | Brand and Model                  | Key Features                                                                                      |
 |---------------------|---------------------------------|---------------------------------------------------------------------------------------------------|
 | Tent                | North Face Prodigy 2            | Hydrostatic head 4000 mm, 15,000 g/m²/day breathability, 600D nylon ripstop outer fabric           |
-| Sleeping Pad        | Therm-a-Rest Ridge Rest 3       | 3-season rated with R-value of 5.5                                                               |
-| Sleeping Bag        | Kelty Trailmaster 20            | Down fill, 750+ fill power, temperature rating to -10°C (20°F)                                    |
+| [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21)        | Therm-a-Rest Ridge Rest 3       | 3-season rated with R-value of 5.5                                                               |
+| [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)        | Kelty Trailmaster 20            | Down fill, 750+ fill power, temperature rating to -10°C (20°F)                                    |
 | Stove Jack          | Coleman Propane Burner          | Compact and efficient with integrated venting for proper combustion                              |
 | Stove               | MSR WhisperLite                | Lightweight, high-efficiency propane stove with easy setup                                        |
 
@@ -50,4 +53,4 @@ By carefully selecting and setting up your gear based on the specifications and 
 
 ### Conclusion
 
-Choosing the right hot tent with a stove jack is essential for maintaining comfort during fast-and-light packrafting expeditions. By understanding key material specs, temperature ratings, and field protocols, adventurers can optimize their experience, ensuring warmth and safety without compromising on weight or portability.
+Choosing the right [hot tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) with a stove jack is essential for maintaining comfort during fast-and-light packrafting expeditions. By understanding key material specs, temperature ratings, and field protocols, adventurers can optimize their experience, ensuring warmth and safety without compromising on weight or portability.

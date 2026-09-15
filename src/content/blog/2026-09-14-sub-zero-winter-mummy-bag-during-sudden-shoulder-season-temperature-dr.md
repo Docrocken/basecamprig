@@ -38,6 +38,9 @@ To evaluate the long-term durability of these mummy bags under harsh conditions,
 2. **Wet and Freeze Testing**: Bags were submerged in water at room temperature for 30 minutes, then frozen overnight before being retested in the cold chamber.
 3. **Packaging and Transport**: Bags underwent multiple cycles of packing and unpacking to simulate real-world conditions during backcountry travel.
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Field Performance Analysis
 Based on our testing, the mummy bags performed as follows:
 
@@ -53,20 +56,13 @@ Given the requirements for durability and performance in sub-zero winter mummy b
 | **Shell** | 40D Nylon with GORE-TEX Membrane | Protection from Moisture and Cold |
 | **Wool Liner** | Optional, for additional warmth when needed | Secondary Layer for Extra Comfort |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Conclusion
 Selecting the right mummy bag is crucial for survival in sub-zero winter conditions. Our analysis suggests that a high-quality down bag with a breathable membrane offers superior performance under sudden shoulder-season temperature drops. Regular maintenance and care are essential to ensure long-term durability and optimal warmth retention.
 
 This guide provides valuable insights into choosing and maintaining gear for harsh winter environments, ensuring safer and more comfortable outdoor adventures.
 
-### Essential Field Rig & Backcountry Gear
-Tested configurations and gear recommendations available on Amazon:
 
-- [Gravity Camp Water Filter Field Selection](https://www.amazon.com/s?k=gravity+camp+water+filter+outdoor+gear&tag=basecamprig-21)
-- [Sub-Zero Winter Mummy Bag Field Selection](https://www.amazon.com/s?k=sub-zero+winter+mummy+bag+outdoor+gear&tag=basecamprig-21)
-- [Closed-Cell Foam Ground Mat Field Selection](https://www.amazon.com/s?k=closed-cell+foam+ground+mat+outdoor+gear&tag=basecamprig-21)
-- [Waterproof Roll-Top Dry Bag Field Selection](https://www.amazon.com/s?k=waterproof+roll-top+dry+bag+outdoor+gear&tag=basecamprig-21)
-- [500-Lumen Rechargeable Headlamp Field Selection](https://www.amazon.com/s?k=500-lumen+rechargeable+headlamp+outdoor+gear&tag=basecamprig-21)
-- [Foldable Solar Panel Charger Field Selection](https://www.amazon.com/s?k=foldable+solar+panel+charger+outdoor+gear&tag=basecamprig-21)
-- [Rugged 20000Mah Field Power Bank Field Selection](https://www.amazon.com/s?k=rugged+20000mAh+field+power+bank+outdoor+gear&tag=basecamprig-21)
-- [Merino Wool Thermal Base Layer Field Selection](https://www.amazon.com/s?k=merino+wool+thermal+base+layer+outdoor+gear&tag=basecamprig-21)
-
+> **Field Rig Pick:** When operating in these environments, reliable [Hot Tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

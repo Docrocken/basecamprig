@@ -32,6 +32,9 @@ When packing your collapsible camp trenching shovel for an outdoor trip, follow 
 3. **Protect from Moisture**: Use a waterproof cover to protect the shovel during transit, especially in wet conditions.
 4. **[Pack](https://www.amazon.com/s?k=pack+outdoor+gear&tag=basecamprig-21) Wisely**: Place the folded shovel between layers of gear or in a dedicated pack pocket designed for tools.
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Field Protocols
 In harsh environments like rocky scree and steep mountain passes, proper field protocols are crucial:
 
@@ -46,29 +49,26 @@ To extend the life of your collapsible camp trenching shovel, consider these lon
 2. **Use Protective Gear**: When clearing paths or digging trenches, use a protective layer over the ground to minimize wear on the blade.
 3. **Regular Cleaning and Lubrication**: Clean the shovel after each use and apply lubricant to moving parts to keep them functioning smoothly.
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Core Gear Recommendations
 Below are four core gear choices that complement a collapsible camp trenching shovel for your outdoor activities:
 
 | Gear            | Field Role                               |
 |-----------------|-----------------------------------------|
 | **Hydration Pack** | Provides essential hydration during hikes and active periods. |
-| **First Aid Kit**  | Ensures you're prepared for minor injuries or emergencies.    |
+| **[First Aid Kit](https://www.amazon.com/s?k=first+aid+kit+outdoor+gear&tag=basecamprig-21)**  | Ensures you're prepared for minor injuries or emergencies.    |
 | **Multi-tool Knife** | Offers additional cutting, digging, and survival utility.      |
 | **Tarp Shelter**   | Acts as a lightweight shelter or ground cover to protect from elements. |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Expedition Tent](https://www.amazon.com/s?k=expedition+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 By selecting the right gear and following these practical guidelines, you can maximize your efficiency and enjoyment during outdoor activities in challenging terrains like rocky scree and steep mountain passes.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Conclusion
 A well-chosen collapsible camp trenching shovel is an invaluable tool for navigating rugged terrain while ensuring durability and portability. By adhering to proper packing methods, field protocols, and maintenance tips, you can extend the life of your shovel and enhance your overall outdoor experience.
-
-### Essential Field Rig & Backcountry Gear
-Tested configurations and gear recommendations available on Amazon:
-
-- [Carbon Steel Outdoor Knife Field Selection](https://www.amazon.com/s?k=carbon+steel+outdoor+knife+outdoor+gear&tag=basecamprig-21)
-- [Reinforced Trekking Pants Field Selection](https://www.amazon.com/s?k=reinforced+trekking+pants+outdoor+gear&tag=basecamprig-21)
-- [65L Expedition Trekking Backpack Field Selection](https://www.amazon.com/s?k=65L+expedition+trekking+backpack+outdoor+gear&tag=basecamprig-21)
-- [Lightweight Camp Hatchet Field Selection](https://www.amazon.com/s?k=lightweight+camp+hatchet+outdoor+gear&tag=basecamprig-21)
-- [Sub-Zero Winter Mummy Bag Field Selection](https://www.amazon.com/s?k=sub-zero+winter+mummy+bag+outdoor+gear&tag=basecamprig-21)
-- [Closed-Cell Foam Ground Mat Field Selection](https://www.amazon.com/s?k=closed-cell+foam+ground+mat+outdoor+gear&tag=basecamprig-21)
-- [Merino Wool Hiking Socks Field Selection](https://www.amazon.com/s?k=merino+wool+hiking+socks+outdoor+gear&tag=basecamprig-21)
-

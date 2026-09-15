@@ -16,7 +16,7 @@ The 3-season 800-fill down [sleeping bag](https://www.amazon.com/s?k=sleeping+ba
     - **Inner Liner**: The inner liner is constructed with a soft, smooth polyester material that prevents direct contact between the down and skin, reducing body heat loss.
 
 - **Technical Comparison Table**
-    | Specification      | Down Sleeping Bag                 | Synthetic Sleeping Bag       |
+    | Specification      | Down [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)                 | Synthetic Sleeping Bag       |
     |--------------------|----------------------------------|-----------------------------|
     | Fill Power         | 800                              | N/A                         |
     | R-value            | ~5.2                             | ~3.1                        |
@@ -69,7 +69,14 @@ Tears in your sleeping bag are common when navigating rocky terrains and steep m
 | **3-season 800-fill down sleeping bag**    | Primary warmth source in cold conditions   |
 | **Insulated jacket and pants**            | Additional insulation against the elements |
 | **Waterproof/breathable rain shell**      | Protection from precipitation             |
-| **Backpack with hydration system**        | Carrying essentials, including extra gear  |
+| **[Backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21) with hydration system**        | Carrying essentials, including extra gear  |
 | **Tactical knife or multi-tool**          | Repair tools for minor field maintenance  |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 By adhering to these guidelines and recommendations, outdoor enthusiasts can maximize the performance and longevity of their 3-season 800-fill down sleeping bag in challenging environments like rocky scree and steep mountain passes.
+
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Power Bank](https://www.amazon.com/s?k=power+bank+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

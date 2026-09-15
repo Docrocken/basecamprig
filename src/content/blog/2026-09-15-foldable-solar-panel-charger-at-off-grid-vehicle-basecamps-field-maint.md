@@ -9,16 +9,25 @@ category: "Gear & Field Setups"
 
 ### Introduction to Foldable Solar Panels for Basecamp Use
 
-Foldable solar panels have become an indispensable tool in off-grid vehicle basecamps, providing a renewable source of energy that is both lightweight and portable. These panels are typically designed with durability in mind but require regular maintenance to ensure optimal performance over extended periods. This guide aims to provide detailed, practical instructions for maintaining, drying, and repairing tear damage on foldable solar panels.
+Foldable [solar panels](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) have become an indispensable tool in off-grid vehicle basecamps, providing a renewable source of energy that is both lightweight and portable. These panels are typically designed with durability in mind but require regular maintenance to ensure optimal performance over extended periods. This guide aims to provide detailed, practical instructions for maintaining, drying, and repairing tear damage on foldable solar panels.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Material Specifications
 
 Foldable solar panels commonly use high-quality materials such as polyvinyl fluoride (PVF) film for the outer layer, which offers excellent UV resistance and tear strength. The cells themselves are often made from monocrystalline silicon due to their efficiency in converting sunlight into electricity. The backsheet is typically a flexible polymer designed to withstand various environmental conditions.
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 Key specifications include:
 - **Outer Layer Material**: Polyvinyl fluoride (PVF) film, 200 microns thick
 - **Cell Type**: Monocrystalline silicon cells with an efficiency rating of approximately 18%
 - **Backsheet Material**: Flexible polymer, hydrostatic head: 500 mm
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Tunnel Tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Field Maintenance Protocols
 
@@ -70,10 +79,20 @@ Below is a comparison table of four core gear choices, highlighting their field 
 | **Charge Controller C**  | Regulate Solar Panel Output            | - MPPT technology <br> - Over/under-voltage protection   |
 | **Battery D**            | Store Energy for Night Use or Backup   | - Lithium-ion battery <br> - Long cycle life             |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Conclusion
 
 Proper maintenance, drying, and repair are essential to maximize the lifespan and performance of foldable solar panels in off-grid vehicle basecamps. By following these guidelines, you can ensure a reliable source of renewable energy for your outdoor activities.
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ---
 
 This guide provides a comprehensive approach to managing foldable solar panels under field conditions, equipping users with the knowledge needed to maintain their equipment effectively.
+
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

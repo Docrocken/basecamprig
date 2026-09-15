@@ -11,6 +11,9 @@ category: "Gear & Field Setups"
 
 Hammocks have become an increasingly popular choice for long-distance solo thru-hikers due to their lightweight nature, compact size, and ability to provide a comfortable sleeping platform. However, maintaining and repairing this gear during extended hikes is crucial to ensure safety and continued functionality. This guide covers essential field maintenance techniques, including drying procedures and tear repair methods, tailored specifically for outdoor adventurers.
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ## Material Specifications
 
 ### Hammock Fabric
@@ -46,6 +49,9 @@ Hammocks have become an increasingly popular choice for long-distance solo thru-
    - Hang the hammock in a shady area if sun-drying isn't possible.
    - Use clips or carabiners to secure the hammock to trees, avoiding heavy branches that might break.
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Folding Saw](https://www.amazon.com/s?k=folding+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Cleaning
 
 - **Regular Clean**: Use a damp cloth with mild soap for light cleaning. Avoid harsh chemicals as they can damage the material.
@@ -63,6 +69,9 @@ Hammocks have become an increasingly popular choice for long-distance solo thru-
    - Clean the tear area with alcohol to remove any dirt.
    - Apply sealant liberally over the tear using a brush or applicator.
    - Allow it to dry completely before resuming use.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Expedition Tent](https://www.amazon.com/s?k=expedition+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Technical Comparison Table
 
@@ -82,19 +91,7 @@ Hammocks have become an increasingly popular choice for long-distance solo thru-
 | Hammock          | Dupont Ripstop Nylon (600D/840D)           | Primary sleeping surface; comfort, weight reduction |
 | Suspension Straps| Dyneema or Spectra Fiber (12 kN)           | Load-bearing support; strength, longevity       |
 | Compression Sack | Polyurethane Coating                       | Waterproof storage during transit; quick-dry        |
-| Sleeping Bag     | Synthetic Fill, R-value 5.0                | Cold weather insulation               |
+| [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)     | Synthetic Fill, R-value 5.0                | Cold weather insulation               |
 | Tent             | Lightweight Tarp (210T Oxford Nylon)        | Emergency shelter or additional protection |
 
-This guide provides a comprehensive overview of maintaining and repairing your hammock system in the field, ensuring it remains reliable throughout long-distance solo thru-hikes. Regular inspection and care will help extend the life of your equipment and enhance your overall hiking experience.
-
-### Essential Field Rig & Backcountry Gear
-Tested configurations and gear recommendations available on Amazon:
-
-- [Canister Backpacking Stove Field Selection](https://www.amazon.com/s?k=canister+backpacking+stove+outdoor+gear&tag=basecamprig-21)
-- [500-Lumen Rechargeable Headlamp Field Selection](https://www.amazon.com/s?k=500-lumen+rechargeable+headlamp+outdoor+gear&tag=basecamprig-21)
-- [65L Expedition Trekking Backpack Field Selection](https://www.amazon.com/s?k=65L+expedition+trekking+backpack+outdoor+gear&tag=basecamprig-21)
-- [Waterproof Mountain Hiking Boots Field Selection](https://www.amazon.com/s?k=waterproof+mountain+hiking+boots+outdoor+gear&tag=basecamprig-21)
-- [Waterproof Breathable Hardshell Jacket Field Selection](https://www.amazon.com/s?k=waterproof+breathable+hardshell+jacket+outdoor+gear&tag=basecamprig-21)
-- [Sub-Zero Winter Mummy Bag Field Selection](https://www.amazon.com/s?k=sub-zero+winter+mummy+bag+outdoor+gear&tag=basecamprig-21)
-- [Ultralight Backpacking Tent Field Selection](https://www.amazon.com/s?k=ultralight+backpacking+tent+outdoor+gear&tag=basecamprig-21)
-
+This guide provides a comprehensive overview of maintaining and repairing your [hammock system](https://www.amazon.com/s?k=hammock+system+outdoor+gear&tag=basecamprig-21) in the field, ensuring it remains reliable throughout long-distance solo thru-hikes. Regular inspection and care will help extend the life of your equipment and enhance your overall hiking experience.

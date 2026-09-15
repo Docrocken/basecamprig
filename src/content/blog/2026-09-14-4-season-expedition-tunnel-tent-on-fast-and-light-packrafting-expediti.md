@@ -7,7 +7,10 @@ category: "Gear & Field Setups"
 
 ## Membrane Breathability vs Wind Resistance: A Technical Comparison for 4-Season Expedition Tunnel Tents on Fast-and-Light Packrafting Expeditions
 
-When planning multi-season packraft expeditions, the choice of a tunnel [tent](https://www.amazon.com/s?k=tent+outdoor+gear&tag=basecamprig-21) is critical. The balance between membrane breathability and wind resistance is paramount to ensuring comfort and safety during extended periods in various weather conditions. This guide delves into the technical specifications and practical considerations for selecting a 4-season expedition tunnel tent that excels on fast-and-light packrafting expeditions.
+When planning multi-season packraft expeditions, the choice of a tunnel [tent](https://www.amazon.com/s?k=tent+outdoor+gear&tag=basecamprig-21) is critical. The balance between membrane breathability and wind resistance is paramount to ensuring comfort and safety during extended periods in various weather conditions. This guide delves into the technical specifications and practical considerations for selecting a 4-season expedition [tunnel tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) that excels on fast-and-light packrafting expeditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Key Material Specifications
 
@@ -31,6 +34,9 @@ Wind resistance is vital for minimizing heat loss through convection. This can b
 | **Gore-Tex Pro**      | 30,000                            | 20,000                | Medium                   |
 | **eVent**             | 50,000                            | 14,000                | High                     |
 | **Polartec Neoshell** | 28,000                            | 9,000                 | Moderate                 |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Foam Mat](https://www.amazon.com/s?k=foam+mat+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Field Protocols
 
@@ -59,8 +65,14 @@ Below are core gear choices with their field roles:
 | **Guylines**           | Dyneema             | Tensile strength for securing setup    |
 | **Stakes & Ground Anchors** | Silicone-treated metal or carbon fiber | Secure anchoring in various terrain |
 
+
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
 ### Conclusion
 
 Selecting the right 4-season expedition tunnel tent is a balancing act between breathability and wind resistance. By understanding the technical specifications of different materials, you can make informed decisions to ensure optimal performance during fast-and-light packrafting expeditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 This guide provides essential insights into choosing the best membrane for your specific needs, ensuring that you are well-prepared for any weather condition encountered on your expedition.
