@@ -107,3 +107,10 @@ Selecting and using the right gravity camp [water filter](https://www.amazon.com
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Down Sleeping Bag Field Rig Selection](https://www.amazon.com/s?k=down+sleeping+bag+outdoor+gear&tag=basecamprig-21)
+- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)
+- [Trail Running Shoes Field Rig Selection](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21)

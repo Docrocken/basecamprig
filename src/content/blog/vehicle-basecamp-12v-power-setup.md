@@ -28,3 +28,10 @@ Reliable auxiliary power is the backbone of any remote basecamp. Powering 12V co
 - **12V Fridge:** 30–45 Ah/day depending on ambient summer temperature.
 - **LED Lighting & Device Charging:** 10–15 Ah/day.
 - **Diesel Air Heater (Start/Run):** 15–25 Ah/night during shoulder seasons.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Rechargeable Headlamp Field Rig Selection](https://www.amazon.com/s?k=rechargeable+headlamp+outdoor+gear&tag=basecamprig-21)
+- [Gravity Camp Water Filter Field Rig Selection](https://www.amazon.com/s?k=gravity+camp+water+filter+outdoor+gear&tag=basecamprig-21)
+- [Winter Mummy Bag Field Rig Selection](https://www.amazon.com/s?k=winter+mummy+bag+outdoor+gear&tag=basecamprig-21)

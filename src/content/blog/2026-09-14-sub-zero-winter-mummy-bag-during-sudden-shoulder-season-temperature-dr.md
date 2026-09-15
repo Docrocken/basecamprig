@@ -66,3 +66,12 @@ This guide provides valuable insights into choosing and maintaining gear for har
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Hot Tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
+- [Packable Down Jacket Field Rig Selection](https://www.amazon.com/s?k=packable+down+jacket+outdoor+gear&tag=basecamprig-21)
+- [Canister Backpacking Stove Field Rig Selection](https://www.amazon.com/s?k=canister+backpacking+stove+outdoor+gear&tag=basecamprig-21)
+- [Silnylon Rain Tarp Field Rig Selection](https://www.amazon.com/s?k=silnylon+rain+tarp+outdoor+gear&tag=basecamprig-21)
+- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)

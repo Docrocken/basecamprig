@@ -7,17 +7,15 @@ import subprocess
 import urllib.parse
 import requests
 
-# --- CONFIGURATION ---
 REPO_DIR = r"C:\Automation\basecamprig"
 BLOG_DIR = os.path.join(REPO_DIR, "src", "content", "blog")
 PROCESSED_FILE = os.path.join(REPO_DIR, "generated_slugs.txt")
 AFFILIATE_TAG = "basecamprig-21"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "qwen2.5:7b"
-INTERVAL_SECONDS = 180 * 60  # 180 minutes
+INTERVAL_SECONDS = 180 * 60
 ARTICLES_PER_BATCH = 3
 
-# --- COMBINATION MATRIX ---
 EQUIPMENT_CORE = [
     "2-person backpacking tent", "4-season expedition tunnel tent", "ultralight freestanding dome tent",
     "geodesic alpine storm tent", "ultralight silnylon tarp 10x10", "hot tent with stove jack",
@@ -47,20 +45,23 @@ CONDITIONS_CONTEXT = [
 
 FOCUS_ANGLES = [
     "complete field selection and material breakdown", "waterproof hydrostatic head and abrasion test",
-    "weight optimization without sacrificing safety", "field maintenance, drying and tear repair guide",
+    "weight optimization without sacrificing safety", "field maintenance drying and tear repair guide",
     "preventing internal condensation and moisture buildup", "packing methodology and gear longevity tips",
     "membrane breathability vs wind resistance comparison", "temperature ratings and true comfort limits",
     "long-term durability analysis in harsh conditions", "essential accessories and modular rig configuration"
 ]
 
-BUYABLE_TERMS = [
-    "tent", "tents", "sleeping bag", "sleeping bags", "sleeping pad", "sleeping pads",
-    "tarp", "tarps", "mat", "pad", "booties", "jacket", "jackets", "pants", "trousers",
-    "boots", "shoes", "socks", "base layer", "fleece", "gaiters", "stove", "stoves",
-    "burner", "cookware", "pot", "headlamp", "trekking poles", "backpack", "pack",
-    "dry bag", "water filter", "knife", "blade", "saw", "hatchet", "axe", "power bank",
-    "solar charger", "thermos", "stakes", "paracord", "rope", "compass", "first aid kit",
-    "hammock", "quilt", "bivy", "sunglasses", "matches", "water bladder"
+TARGET_PHRASES = [
+    "backpacking tent", "expedition tent", "tunnel tent", "dome tent", "hot tent", "silnylon tarp",
+    "sleeping bag", "mummy bag", "down quilt", "sleeping pad", "foam mat", "camp booties",
+    "hardshell jacket", "rain jacket", "down jacket", "fleece hoodie", "merino wool base layer",
+    "merino wool", "trekking pants", "hiking boots", "trail running shoes", "merino socks",
+    "hiking socks", "gaiters", "camp stove", "backpacking stove", "titanium pot", "cook pot",
+    "water filter", "water purification tablets", "gravity water filter", "headlamp", "lantern",
+    "power bank", "solar panel", "satellite communicator", "bushcraft knife", "outdoor knife",
+    "folding knife", "camp saw", "folding saw", "camp axe", "multitool", "paracord",
+    "trekking poles", "backpack", "daypack", "dry bag", "bear canister", "first aid kit",
+    "bivy sack", "hammock system"
 ]
 
 def generate_topic():
@@ -80,10 +81,7 @@ def query_ollama(prompt):
         "model": OLLAMA_MODEL,
         "prompt": prompt,
         "stream": False,
-        "options": {
-            "temperature": 0.7,
-            "top_p": 0.9
-        }
+        "options": {"temperature": 0.7, "top_p": 0.9}
     }
     try:
         resp = requests.post(OLLAMA_URL, json=payload, timeout=600)
@@ -93,38 +91,58 @@ def query_ollama(prompt):
         print(f"[Ollama Error] {e}")
         return None
 
-def inject_affiliate_links(markdown_text, min_links=8, max_links=15):
-    target_count = random.randint(min_links, max_links)
-    shuffled_terms = random.sample(BUYABLE_TERMS, len(BUYABLE_TERMS))
-    
-    injected = 0
-    lines = markdown_text.split("\n")
-    processed_lines = []
+def build_amazon_url(term):
+    encoded = urllib.parse.quote_plus(f"{term} outdoor gear")
+    return f"[https://www.amazon.com/s?k=](https://www.amazon.com/s?k=){encoded}&tag={AFFILIATE_TAG}"
 
-    for line in lines:
-        if line.startswith("#") or line.startswith("---") or line.startswith("|"):
-            processed_lines.append(line)
+def inject_inline_links(text, min_links=8, max_links=14):
+    target_count = random.randint(min_links, max_links)
+    sorted_phrases = sorted(TARGET_PHRASES, key=len, reverse=True)
+    random.shuffle(sorted_phrases)
+
+    injected = 0
+    used_terms = set()
+    paragraphs = text.split("\n\n")
+    new_paragraphs = []
+
+    for p in paragraphs:
+        if p.strip().startswith("---") or p.strip().startswith("```") or p.strip().startswith("#"):
+            new_paragraphs.append(p)
             continue
 
-        for term in list(shuffled_terms):
+        for phrase in sorted_phrases:
             if injected >= target_count:
                 break
-            
-            # Match standalone term not already linked
-            pattern = rf'(?i)\b({re.escape(term)})\b(?![^\[]*\])'
-            match = re.search(pattern, line)
+            if phrase in used_terms:
+                continue
+
+            pattern = rf'(?<!\[)(?<!\w)\b({re.escape(phrase)}s?)\b(?!\w)(?![^\[]*\])'
+            match = re.search(pattern, p, flags=re.IGNORECASE)
             if match:
                 matched_word = match.group(1)
-                search_query = urllib.parse.quote_plus(matched_word.lower() + " outdoor gear")
-                aff_url = f"https://www.amazon.com/s?k={search_query}&tag={AFFILIATE_TAG}"
-                replacement = f"[{matched_word}]({aff_url})"
-                line = line[:match.start()] + replacement + line[match.end():]
-                shuffled_terms.remove(term)
+                url = build_amazon_url(phrase)
+                p = re.sub(pattern, f'[{matched_word}]({url})', p, count=1, flags=re.IGNORECASE)
+                used_terms.add(phrase)
                 injected += 1
 
-        processed_lines.append(line)
+        new_paragraphs.append(p)
 
-    return "\n".join(processed_lines), injected
+    if injected < min_links:
+        available_fallback = [t for t in TARGET_PHRASES if t not in used_terms]
+        random.shuffle(available_fallback)
+        final_paragraphs = []
+        for p in new_paragraphs:
+            final_paragraphs.append(p)
+            if injected < min_links and len(p) > 150 and not p.strip().startswith(("#", "-", "*", ">")):
+                if available_fallback:
+                    term = available_fallback.pop()
+                    url = build_amazon_url(term)
+                    gear_note = f"\n> **Field Rig Pick:** For harsh field exposure, verified [{term.title()}]({url}) provides reliable durability and safety margins."
+                    final_paragraphs.append(gear_note)
+                    injected += 1
+        new_paragraphs = final_paragraphs
+
+    return "\n\n".join(new_paragraphs), injected
 
 def create_article():
     title, main_eq = generate_topic()
@@ -137,30 +155,30 @@ def create_article():
             slug_history = set(f.read().splitlines())
 
     if slug in slug_history:
-        print(f"Skipping duplicate slug: {slug}")
+        print(f"Skipping duplicate: {slug}")
         return False
 
-    prompt = f"""Write an in-depth, highly technical and practical outdoor and basecamp field guide in English with the title: "{title}".
+    prompt = f"""Write an in-depth, highly technical outdoor and basecamp field guide in English with the title: "{title}".
 
 Requirements:
-1. Write at least 750 words in fluent, professional English.
-2. Use clean Markdown structure with headings (## and ###), bullet lists, and at least one technical comparison table.
-3. Mention exact material specs (e.g., hydrostatic head mm, Denier ratings, R-value, fill power down vs synthetic, membrane breathability) and hands-on field protocols.
-4. DO NOT write fluff intros like "Welcome to this guide" or meta summaries. Start immediately with a hard-hitting, fact-dense first paragraph.
-5. Toward the bottom, include a Markdown table recommending 4-5 core gear choices with their field roles.
+1. Write 750-1000 words in fluent, authoritative English.
+2. Structure with clean Markdown (## and ### headings, technical breakdown, specification table).
+3. Mention exact engineering specs (hydrostatic head mm, fabric Denier, R-value, fill power, breathability).
+4. Do NOT use introductory fluff like "In this article". Start directly with high-density field analysis.
+5. In the body text, naturally mention relevant gear items (tents, boots, hardshell jackets, camp stoves, sleeping bags, backpacks, headlamps, water filters).
 """
 
     print(f"\n[Ollama] Generating: {title}")
     raw_content = query_ollama(prompt)
     if not raw_content or len(raw_content) < 300:
-        print("[Error] Ollama returned insufficient content.")
+        print("[Error] Incomplete output from Ollama.")
         return False
 
-    final_content, link_count = inject_affiliate_links(raw_content, min_links=8, max_links=15)
-    print(f"[Affiliate] Injected {link_count} affiliate links.")
+    final_content, link_count = inject_inline_links(raw_content, min_links=8, max_links=14)
+    print(f"[Affiliate] Injected {link_count} inline Amazon links.")
 
     date_now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    description = f"Technical field guide on {main_eq}. Engineering parameters, gear setups, and durability optimizations for harsh conditions."
+    description = f"Technical field guide on {main_eq}. Engineering parameters, gear setups, and durability optimizations for harsh backcountry conditions."
 
     frontmatter = f"""---
 title: "{title.replace('\"', '')}"
@@ -191,18 +209,16 @@ def git_sync():
         commit_msg = f"Auto-publish batch: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}"
         subprocess.run(["git", "commit", "-m", commit_msg], cwd=REPO_DIR, check=True)
         subprocess.run(["git", "push", "origin", "main"], cwd=REPO_DIR, check=True)
-        print("[Git] Push completed. Cloudflare Pages build triggered.")
+        print("[Git] Push completed.")
     except subprocess.CalledProcessError as e:
         print(f"[Git Error] {e}")
 
 def run_loop():
-    print("=== BasecampRig pSEO Engine Started ===")
-    print(f"Generating {ARTICLES_PER_BATCH} English guides every {INTERVAL_SECONDS // 60} minutes.")
-    
+    print("=== BasecampRig pSEO Engine Started (Inline Affiliate Injection) ===")
     while True:
         created = 0
         for i in range(ARTICLES_PER_BATCH):
-            print(f"\nGenerating article {i+1}/{ARTICLES_PER_BATCH}...")
+            print(f"\n[Batch Item {i+1}/{ARTICLES_PER_BATCH}]")
             if create_article():
                 created += 1
             time.sleep(5)
@@ -210,7 +226,7 @@ def run_loop():
         if created > 0:
             git_sync()
 
-        print(f"\n[Sleeping] Batch complete. Pausing for {INTERVAL_SECONDS // 60} minutes until next cycle...")
+        print(f"\n[Sleeping] Pausing {INTERVAL_SECONDS // 60} minutes until next cycle...")
         time.sleep(INTERVAL_SECONDS)
 
 if __name__ == "__main__":
