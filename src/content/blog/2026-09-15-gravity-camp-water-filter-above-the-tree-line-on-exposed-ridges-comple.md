@@ -104,3 +104,14 @@ This guide serves as a comprehensive resource for outdoor enthusiasts and profes
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Insulated Sleeping Pad Field Rig Selection](https://www.amazon.com/s?k=insulated+sleeping+pad+outdoor+gear&tag=basecamprig-21)
+- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)
+- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
+- [Bushcraft Fixed Blade Knife Field Rig Selection](https://www.amazon.com/s?k=bushcraft+fixed+blade+knife+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Roll-Top Dry Bag Field Rig Selection](https://www.amazon.com/s?k=waterproof+roll-top+dry+bag+outdoor+gear&tag=basecamprig-21)
+- [Titanium Cook Pot Field Rig Selection](https://www.amazon.com/s?k=titanium+cook+pot+outdoor+gear&tag=basecamprig-21)
+- [Foldable Solar Panel Charger Field Rig Selection](https://www.amazon.com/s?k=foldable+solar+panel+charger+outdoor+gear&tag=basecamprig-21)

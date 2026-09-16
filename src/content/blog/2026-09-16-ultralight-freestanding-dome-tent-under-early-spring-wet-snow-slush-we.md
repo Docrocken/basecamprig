@@ -63,3 +63,9 @@ The tent comes equipped with four pre-buried stakes that can be easily extended 
 
 ## Conclusion
 Selecting an ultralight freestanding dome tent under early spring wet snow slush requires careful consideration of material properties, durability, and weight optimization. By focusing on these critical aspects, outdoor enthusiasts can ensure a safe and comfortable camping experience while minimizing the overall load carried into the field. Always prioritize safety by choosing gear that meets or exceeds industry standards for performance and reliability.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Merino Wool Hiking Socks Field Rig Selection](https://www.amazon.com/s?k=merino+wool+hiking+socks+outdoor+gear&tag=basecamprig-21)
+- [Merino Wool Thermal Base Layer Field Rig Selection](https://www.amazon.com/s?k=merino+wool+thermal+base+layer+outdoor+gear&tag=basecamprig-21)

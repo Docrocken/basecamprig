@@ -70,3 +70,13 @@ By selecting the right pump based on temperature ratings and ensuring regular ma
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Sub-Zero Winter Mummy Bag Field Rig Selection](https://www.amazon.com/s?k=sub-zero+winter+mummy+bag+outdoor+gear&tag=basecamprig-21)
+- [Titanium Cook Pot Field Rig Selection](https://www.amazon.com/s?k=titanium+cook+pot+outdoor+gear&tag=basecamprig-21)
+- [Compact Folding Camp Saw Field Rig Selection](https://www.amazon.com/s?k=compact+folding+camp+saw+outdoor+gear&tag=basecamprig-21)
+- [4-Season Expedition Tent Field Rig Selection](https://www.amazon.com/s?k=4-season+expedition+tent+outdoor+gear&tag=basecamprig-21)
+- [Ultralight Silnylon Tarp Field Rig Selection](https://www.amazon.com/s?k=ultralight+silnylon+tarp+outdoor+gear&tag=basecamprig-21)
+- [Insulated Sleeping Pad Field Rig Selection](https://www.amazon.com/s?k=insulated+sleeping+pad+outdoor+gear&tag=basecamprig-21)

@@ -93,3 +93,14 @@ This guide provides the technical foundation for configuring an effective sub-ze
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Fleece Hoodie]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)fleece+hoodie+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Lightweight Camp Hatchet Field Rig Selection](https://www.amazon.com/s?k=lightweight+camp+hatchet+outdoor+gear&tag=basecamprig-21)
+- [Titanium Cook Pot Field Rig Selection](https://www.amazon.com/s?k=titanium+cook+pot+outdoor+gear&tag=basecamprig-21)
+- [Bear-Resistant Food Canister Field Rig Selection](https://www.amazon.com/s?k=bear-resistant+food+canister+outdoor+gear&tag=basecamprig-21)
+- [4-Season Expedition Tent Field Rig Selection](https://www.amazon.com/s?k=4-season+expedition+tent+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Rain Jacket Field Rig Selection](https://www.amazon.com/s?k=waterproof+rain+jacket+outdoor+gear&tag=basecamprig-21)
+- [Insulated Sleeping Pad Field Rig Selection](https://www.amazon.com/s?k=insulated+sleeping+pad+outdoor+gear&tag=basecamprig-21)
+- [Water Purification Tablets Field Rig Selection](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21)

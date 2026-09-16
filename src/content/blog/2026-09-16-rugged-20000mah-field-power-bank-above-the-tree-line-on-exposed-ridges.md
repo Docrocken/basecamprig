@@ -123,3 +123,10 @@ By understanding the detailed engineering and material specifications of this po
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Bushcraft Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bushcraft+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)
+- [Rugged Field Power Bank Field Rig Selection](https://www.amazon.com/s?k=rugged+field+power+bank+outdoor+gear&tag=basecamprig-21)
+- [Gravity Camp Water Filter Field Rig Selection](https://www.amazon.com/s?k=gravity+camp+water+filter+outdoor+gear&tag=basecamprig-21)

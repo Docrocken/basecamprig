@@ -86,3 +86,9 @@ Choosing an expedition stove with high hydrostatic head and abrasion resistance 
 - **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: A high-quality backpack with durable materials and a comfortable design is essential for carrying your gear comfortably over long distances.
 
 By carefully considering these factors, solo thru-hikers can ensure they are well-prepared for any challenges that arise during their journey.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Wilderness Trauma Medical Kit Field Rig Selection](https://www.amazon.com/s?k=wilderness+trauma+medical+kit+outdoor+gear&tag=basecamprig-21)
+- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)

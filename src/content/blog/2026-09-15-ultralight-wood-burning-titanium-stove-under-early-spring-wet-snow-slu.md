@@ -65,3 +65,15 @@ This guide provides a comprehensive approach to dealing with moisture buildup wh
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [4-Season Expedition Tent Field Rig Selection](https://www.amazon.com/s?k=4-season+expedition+tent+outdoor+gear&tag=basecamprig-21)
+- [Down Sleeping Bag Field Rig Selection](https://www.amazon.com/s?k=down+sleeping+bag+outdoor+gear&tag=basecamprig-21)
+- [Lightweight Camp Hatchet Field Rig Selection](https://www.amazon.com/s?k=lightweight+camp+hatchet+outdoor+gear&tag=basecamprig-21)
+- [Reinforced Trekking Pants Field Rig Selection](https://www.amazon.com/s?k=reinforced+trekking+pants+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Hiking Boots Field Rig Selection](https://www.amazon.com/s?k=waterproof+hiking+boots+outdoor+gear&tag=basecamprig-21)
+- [Merino Wool Hiking Socks Field Rig Selection](https://www.amazon.com/s?k=merino+wool+hiking+socks+outdoor+gear&tag=basecamprig-21)
+- [Carbon Steel Folding Knife Field Rig Selection](https://www.amazon.com/s?k=carbon+steel+folding+knife+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Rain Jacket Field Rig Selection](https://www.amazon.com/s?k=waterproof+rain+jacket+outdoor+gear&tag=basecamprig-21)

@@ -83,3 +83,9 @@ This guide provides a comprehensive analysis of the ultralight [bivy sack]([http
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Tunnel Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Trail Running Shoes Field Rig Selection](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21)
+- [Water Purification Tablets Field Rig Selection](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21)

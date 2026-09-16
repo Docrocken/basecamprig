@@ -84,3 +84,13 @@ A reliable headlamp ensures visibility and safety during night hikes. Opt for mo
 Carrying a water filter is crucial to ensure safe drinking water, especially in areas where potable water sources are scarce or contaminated.
 
 By selecting gear that meets these criteria, long-distance solo thru-hikers can enhance their comfort, safety, and overall experience on the trail.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
+- [Emergency Storm Shelter Bivy Field Rig Selection](https://www.amazon.com/s?k=emergency+storm+shelter+bivy+outdoor+gear&tag=basecamprig-21)
+- [3-Layer Hardshell Jacket Field Rig Selection](https://www.amazon.com/s?k=3-layer+hardshell+jacket+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Rain Jacket Field Rig Selection](https://www.amazon.com/s?k=waterproof+rain+jacket+outdoor+gear&tag=basecamprig-21)
+- [Rugged Field Power Bank Field Rig Selection](https://www.amazon.com/s?k=rugged+field+power+bank+outdoor+gear&tag=basecamprig-21)
+- [65L Internal Frame Trekking Pack Field Rig Selection](https://www.amazon.com/s?k=65L+internal+frame+trekking+pack+outdoor+gear&tag=basecamprig-21)

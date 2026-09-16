@@ -98,3 +98,10 @@ This technical guide provides a comprehensive overview of the design and functio
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Titanium Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)titanium+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Hiking Boots Field Rig Selection](https://www.amazon.com/s?k=waterproof+hiking+boots+outdoor+gear&tag=basecamprig-21)
+- [Trail Running Shoes Field Rig Selection](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21)

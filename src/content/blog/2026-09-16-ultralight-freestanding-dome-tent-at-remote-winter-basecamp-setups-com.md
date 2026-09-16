@@ -73,3 +73,14 @@ This guide provides a detailed breakdown of the key features and materials neede
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
+- [Gravity Camp Water Filter Field Rig Selection](https://www.amazon.com/s?k=gravity+camp+water+filter+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Hiking Boots Field Rig Selection](https://www.amazon.com/s?k=waterproof+hiking+boots+outdoor+gear&tag=basecamprig-21)
+- [Emergency Storm Shelter Bivy Field Rig Selection](https://www.amazon.com/s?k=emergency+storm+shelter+bivy+outdoor+gear&tag=basecamprig-21)
+- [Down Sleeping Bag Field Rig Selection](https://www.amazon.com/s?k=down+sleeping+bag+outdoor+gear&tag=basecamprig-21)
+- [Carbon Fiber Trekking Poles Field Rig Selection](https://www.amazon.com/s?k=carbon+fiber+trekking+poles+outdoor+gear&tag=basecamprig-21)
+- [Insulated Sleeping Pad Field Rig Selection](https://www.amazon.com/s?k=insulated+sleeping+pad+outdoor+gear&tag=basecamprig-21)

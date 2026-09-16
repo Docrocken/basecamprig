@@ -74,3 +74,15 @@ By integrating these practices and selecting appropriate gear, hikers can signif
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [Carbon Steel Folding Knife Field Rig Selection](https://www.amazon.com/s?k=carbon+steel+folding+knife+outdoor+gear&tag=basecamprig-21)
+- [Titanium Cook Pot Field Rig Selection](https://www.amazon.com/s?k=titanium+cook+pot+outdoor+gear&tag=basecamprig-21)
+- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)
+- [Waterproof Rain Jacket Field Rig Selection](https://www.amazon.com/s?k=waterproof+rain+jacket+outdoor+gear&tag=basecamprig-21)
+- [Emergency Storm Shelter Bivy Field Rig Selection](https://www.amazon.com/s?k=emergency+storm+shelter+bivy+outdoor+gear&tag=basecamprig-21)
+- [Trail Running Shoes Field Rig Selection](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21)
+- [Down Sleeping Bag Field Rig Selection](https://www.amazon.com/s?k=down+sleeping+bag+outdoor+gear&tag=basecamprig-21)
+- [Lightweight Camp Hatchet Field Rig Selection](https://www.amazon.com/s?k=lightweight+camp+hatchet+outdoor+gear&tag=basecamprig-21)

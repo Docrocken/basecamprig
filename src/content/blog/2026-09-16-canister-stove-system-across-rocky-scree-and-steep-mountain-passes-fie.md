@@ -105,3 +105,12 @@ By staying prepared with the right gear and following these maintenance procedur
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+
+### Essential Field Rig Equipment
+Field-verified components and high-durability gear configurations:
+
+- [65L Internal Frame Trekking Pack Field Rig Selection](https://www.amazon.com/s?k=65L+internal+frame+trekking+pack+outdoor+gear&tag=basecamprig-21)
+- [Rechargeable Headlamp Field Rig Selection](https://www.amazon.com/s?k=rechargeable+headlamp+outdoor+gear&tag=basecamprig-21)
+- [Wilderness Trauma Medical Kit Field Rig Selection](https://www.amazon.com/s?k=wilderness+trauma+medical+kit+outdoor+gear&tag=basecamprig-21)
+- [Lightweight Camp Hatchet Field Rig Selection](https://www.amazon.com/s?k=lightweight+camp+hatchet+outdoor+gear&tag=basecamprig-21)
+- [Gravity Camp Water Filter Field Rig Selection](https://www.amazon.com/s?k=gravity+camp+water+filter+outdoor+gear&tag=basecamprig-21)
