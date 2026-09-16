@@ -57,7 +57,6 @@ for fpath, count in status_report:
         shuffled = list(GEAR_TERMS)
         random.shuffle(shuffled)
         
-        # Försök 1: Ersätt befintliga termer snyggt i brödtexten
         paragraphs = content.split("\n\n")
         new_paragraphs = []
         added = 0
@@ -85,7 +84,6 @@ for fpath, count in status_report:
 
         content = "\n\n".join(new_paragraphs)
 
-        # Försök 2: Om det fortfarande saknas länkar, lägg till riggrekommendationer
         if (count + added) < 8:
             still_needed = 9 - (count + added)
             rig_bullets = []
