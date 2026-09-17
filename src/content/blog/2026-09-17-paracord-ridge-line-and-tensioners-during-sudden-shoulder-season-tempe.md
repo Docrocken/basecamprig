@@ -18,7 +18,7 @@ The shoulder seasons—spring and fall—are notorious for their unpredictable w
 
 #### Ridge Line Construction
 
-Ridge lines are critical for stabilizing tents during severe weather conditions. They are typically constructed using strong yet lightweight materials such as [paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21). The key specifications include:
+Ridge lines are critical for stabilizing tents during severe weather conditions. They are typically constructed using strong yet lightweight materials such as [paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21). The key specifications include:
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -39,7 +39,7 @@ Tensioners are used to maintain the structural integrity of a ridge line by dist
   - **Strength**: Typically rated for at least 20 kN (4,500 lbs).
   - **Corrosion Resistance**: Stainless steel resists rust and corrosion better than aluminum.
 - **Aluminum Carabiners with Nylon Webbing**:
-  - **Weight**: Lightweight, making them easier to carry in [backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21).
+  - **Weight**: Lightweight, making them easier to carry in [backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21).
   - **Strength**: Good tensile strength but may be less durable over time.
 
 ### Membrane Breathability vs Wind Resistance
@@ -80,8 +80,8 @@ For a comprehensive setup during shoulder season:
 1. **Tent Setup**: Use a tent with a Silnylon outer shell for its high wind resistance and breathable membrane.
 2. **Backpacks**: Choose a backpack made from HydroSeal material to ensure it remains dry in light rain or drizzle, yet allows some airflow.
 3. **Boots**: Opt for waterproof boots with good breathability features to prevent moisture build-up inside the footwear.
-4. **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: Invest in a high-quality hardshell jacket that offers both wind resistance and breathability.
-5. **Sleeping Bag**: Use a synthetic sleeping bag rated for -20°C (-4°F) with at least 650 fill power.
+4. **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: Invest in a high-quality [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) that offers both wind resistance and breathability.
+5. **[Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Use a synthetic sleeping bag rated for -20°C (-4°F) with at least 650 fill power.
 
 ### Conclusion
 

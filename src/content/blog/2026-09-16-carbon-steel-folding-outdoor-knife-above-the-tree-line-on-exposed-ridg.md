@@ -24,6 +24,9 @@ Internal condensation occurs when humid air comes into contact with cold surface
    - **Tape and Gaskets**: Applying waterproof tape or gasket materials around the moving parts can also provide an additional barrier.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Rain Jacket](https://www.amazon.com/s?k=rain+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

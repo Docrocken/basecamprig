@@ -74,7 +74,7 @@ Choosing a 500-lumen rechargeable headlamp for remote winter basecamp setups is 
 | **LED Lifespan**        | Over 50,000 hours                                                        |
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Solar Panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
@@ -82,7 +82,7 @@ Choosing a 500-lumen rechargeable headlamp for remote winter basecamp setups is 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-This guide aims to provide an in-depth understanding of the factors that contribute to the reliability and performance of [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) in remote winter environments.
+This guide aims to provide an in-depth understanding of the factors that contribute to the reliability and performance of [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) in remote winter environments.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [First Aid Kit](https://www.amazon.com/s?k=first+aid+kit+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

@@ -19,7 +19,7 @@ The compact folding [camp saw](https://www.amazon.com/s?k=camp+saw+outdoor+gear&
 The compact folding [camp saw](https://www.amazon.com/s?k=camp+saw+outdoor+gear&tag=basecamprig-21) features a lightweight aluminum alloy frame that typically weighs between 0.5 to 1 kg, making it easy to carry on extended hikes. The blade is made from high-carbon steel, providing durability and sharpness retention for various cutting tasks. The handle is crafted from ergonomic rubber or polyurethane, ensuring secure grip even when wet.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Field Maintenance Protocols
 
@@ -46,7 +46,7 @@ Tears and minor cuts on the handle or sheath can be repaired using specialized m
 
 ### Technical Comparison Table
 
-| Feature                | Compact Folding Camp Saw Specifications |
+| Feature                | Compact Folding [Camp Saw](https://www.amazon.com/s?k=camp+saw+outdoor+gear&tag=basecamprig-21) Specifications |
 |------------------------|-----------------------------------------|
 | Blade Material         | High-carbon steel                        |
 | Handle Material        | Ergonomic rubber or polyurethane         |

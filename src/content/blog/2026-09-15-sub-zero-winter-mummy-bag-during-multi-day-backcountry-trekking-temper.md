@@ -50,7 +50,7 @@ When selecting a [mummy bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&t
 
 ### Case Study: Successful Sub-Zero Trekking
 
-In a recent multi-day backcountry trek in Alaska, participants used both down and synthetic insulated mummy bags. The synthetic options performed well even when temperatures dropped to -35°F (-37°C), whereas down-filled bags started losing their insulative properties significantly around -20°F (-29°C). Participants noted that maintaining a layer of dry clothing between the body and the bag improved overall comfort.
+In a recent multi-day backcountry trek in Alaska, participants used both down and synthetic insulated [mummy bags](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21). The synthetic options performed well even when temperatures dropped to -35°F (-37°C), whereas down-filled bags started losing their insulative properties significantly around -20°F (-29°C). Participants noted that maintaining a layer of dry clothing between the body and the bag improved overall comfort.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

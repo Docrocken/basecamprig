@@ -92,6 +92,9 @@ Navigating sub-zero winter conditions requires meticulous planning and the right
 This guide provides the technical foundation for configuring an effective sub-zero winter [mummy bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)mummy+bag+outdoor+gear&tag=basecamprig-21) rig, allowing solo thru-hikers to tackle long-distance journeys with confidence and safety.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

@@ -57,7 +57,7 @@ Carry a reliable navigation tool such as a GPS or map and compass. A headlamp wi
 Carbon fiber [trekking poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) are an indispensable piece of gear for solo thru-hikers undertaking long-distance treks. By understanding their technical specifications and implementing proper packing methodology and maintenance practices, hikers can maximize the longevity and performance of these valuable tools. Always prioritize safety and comfort during your journey to ensure a successful and enjoyable adventure.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Cook Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

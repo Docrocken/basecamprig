@@ -53,6 +53,9 @@ Consider a freestanding dome tent with the following specifications:
 In torrential rain conditions, the tent is set up on a rainfly with a waterproof groundsheet underneath. The sleeping area is equipped with a vapor barrier under the [sleeping pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21) to prevent moisture conduction. During setup, the mesh panels are left open slightly for initial drying but closed as soon as the tent dries out.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Booties](https://www.amazon.com/s?k=camp+booties+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Technical Breakdown

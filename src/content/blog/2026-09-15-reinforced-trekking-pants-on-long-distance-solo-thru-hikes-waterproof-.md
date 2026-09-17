@@ -17,6 +17,9 @@ Hydrostatic head (HH) is a key measure of how effective a fabric is at resisting
 For long-distance solo thru-hikes, [trekking pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) with an HH rating between 15kPa and 20kPa are generally recommended. For extremely harsh conditions, a minimum of 25kPa is advised. This ensures that the pants will not be compromised by heavy rainfall or prolonged exposure to moisture.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Wool Base Layer](https://www.amazon.com/s?k=merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

@@ -71,4 +71,7 @@ Selecting a canister stove system that balances membrane breathability and wind 
 By carefully considering these factors and understanding the trade-offs between breathability and wind resistance, you can optimize your packrafting gear for efficiency and comfort in even the harshest conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Bivy Sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

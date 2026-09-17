@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 When venturing into rocky scree and steep mountain passes, the choice of a reliable carbon steel folding [outdoor knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) is crucial. The blade should be robust enough to withstand the harsh terrain while being versatile for various tasks such as cutting rope, prying loose rocks, or creating a makeshift shelter. A common choice in this context is the CRUX 1 by Victorinox, known for its 420HC stainless steel blade that can hold an edge well and resist corrosion. The knife also features a comfortable ergonomic handle designed to reduce hand fatigue during extended use.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Modular Rig Configuration
 
@@ -63,11 +63,11 @@ Apply a thin layer of beeswax or silicone-based lubricant to the handle periodic
 | Edge Retention        | Excellent                      | Good                         |
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Core Gear Recommendations
 
-Below are four to five core gear items that complement the carbon steel folding outdoor knife for rocky scree and steep mountain passes, along with their field roles:
+Below are four to five core gear items that complement the carbon steel folding [outdoor knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) for rocky scree and steep mountain passes, along with their field roles:
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Trekking Poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

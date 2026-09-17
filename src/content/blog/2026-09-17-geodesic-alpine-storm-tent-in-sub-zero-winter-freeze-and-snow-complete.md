@@ -59,6 +59,9 @@ Proper ventilation is crucial in preventing condensation buildup, which can lead
 | **Ventilation System**     | Vent locations: Top and sides of the tent; Control mechanisms: Velcro or zippered vents |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Poles]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+poles+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Gear Recommendations

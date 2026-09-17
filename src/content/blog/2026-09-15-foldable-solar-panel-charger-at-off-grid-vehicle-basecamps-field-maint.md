@@ -16,10 +16,10 @@ Foldable [solar panels](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=
 
 ### Material Specifications
 
-Foldable solar panels commonly use high-quality materials such as polyvinyl fluoride (PVF) film for the outer layer, which offers excellent UV resistance and tear strength. The cells themselves are often made from monocrystalline silicon due to their efficiency in converting sunlight into electricity. The backsheet is typically a flexible polymer designed to withstand various environmental conditions.
+Foldable [solar panels](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) commonly use high-quality materials such as polyvinyl fluoride (PVF) film for the outer layer, which offers excellent UV resistance and tear strength. The cells themselves are often made from monocrystalline silicon due to their efficiency in converting sunlight into electricity. The backsheet is typically a flexible polymer designed to withstand various environmental conditions.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=[multitool](https://www.amazon.com/s?k=[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 Key specifications include:
 - **Outer Layer Material**: Polyvinyl fluoride (PVF) film, 200 microns thick
@@ -80,7 +80,7 @@ Below is a comparison table of four core gear choices, highlighting their field 
 | **Battery D**            | Store Energy for Night Use or Backup   | - Lithium-ion battery <br> - Long cycle life             |
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Conclusion
 

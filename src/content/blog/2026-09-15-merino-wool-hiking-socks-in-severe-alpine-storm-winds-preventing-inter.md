@@ -14,7 +14,7 @@ category: "Gear & Field Setups"
 
 ### Moisture Management in Alpine Conditions
 
-In severe alpine storms, low temperatures combined with high humidity create an environment where moisture can rapidly accumulate within socks, leading to discomfort and potential hypothermia. The key to managing this issue lies in understanding the mechanics of moisture transfer through fabrics and how merino wool stands out from other materials.
+In severe alpine storms, low temperatures combined with high humidity create an environment where moisture can rapidly accumulate within socks, leading to discomfort and potential hypothermia. The key to managing this issue lies in understanding the mechanics of moisture transfer through fabrics and how [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) stands out from other materials.
 
 Merino wool has a unique ability to manage moisture effectively due to its microstructure. Each fiber contains tiny air pockets that allow for the absorption and evaporation of sweat, keeping the sock dry against the skin despite external wet conditions. This natural wicking action is crucial in preventing internal condensation.
 
