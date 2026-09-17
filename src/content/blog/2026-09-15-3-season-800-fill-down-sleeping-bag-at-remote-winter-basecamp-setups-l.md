@@ -10,7 +10,7 @@ category: "Gear & Field Setups"
 A 3-season 800-fill down [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) is an essential piece of equipment for remote winter basecamps, where conditions can be extremely harsh. This guide delves into the long-term durability analysis and practical considerations necessary to ensure that such a [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) performs reliably over extended periods in cold, potentially wet environments.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Material Specifications and Durability Analysis
 
@@ -27,7 +27,7 @@ The inner insulation layer uses high-quality down clusters that have been treate
 
 1. **Dry Storage**: Store the [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) in a waterproof stuff sack to prevent moisture from entering.
 2. **Regular Inspection**: Check for any signs of damage, especially at stress points like zippers and seams, before each use.
-3. **Proper Ventilation**: After use, allow the sleeping bag to air out fully to minimize moisture accumulation.
+3. **Proper Ventilation**: After use, allow the [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) to air out fully to minimize moisture accumulation.
 4. **Caring Practices**: Avoid washing with harsh detergents; instead, use specialized down cleaning products.
 
 

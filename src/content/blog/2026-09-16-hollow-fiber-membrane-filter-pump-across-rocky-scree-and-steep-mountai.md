@@ -45,7 +45,7 @@ At higher temperatures, heat can degrade filter membranes over time. Ensuring th
 ### Comfort Considerations
 Comfort during extended use of a hollow fiber membrane filter pump is crucial for maintaining morale and productivity in outdoor activities.
 
-- **Weight Distribution**: Distribute the weight evenly between your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) straps to prevent strain on one shoulder.
+- **Weight Distribution**: Distribute the weight evenly between your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) straps to prevent strain on one shoulder.
 - **Handle Ergonomics**: A well-designed handle should be easily accessible, providing a comfortable grip. Some models offer adjustable handles that can be customized to fit various hand sizes.
 - **Intake Tube Positioning**: Place the intake tube in a location where it is easy to reach and clean without disturbing your balance.
 
@@ -72,4 +72,4 @@ By selecting the right pump based on temperature ratings and ensuring regular ma
 > **Field Rig Pick:** When operating in these environments, reliable [Trekking Poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

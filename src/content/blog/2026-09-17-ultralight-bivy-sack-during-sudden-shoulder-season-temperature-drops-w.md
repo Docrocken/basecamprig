@@ -38,7 +38,7 @@ Abrasion testing measures how well a material resists wear and tear from frictio
 The [bivy sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) uses Cordura 600D for its exterior, which has passed a rigorous 3,000 cycle abrasion test. This ensures that the material can withstand repeated exposure to friction and rough conditions without tearing or breaking down.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Insulation and Breathability
 Insulation is crucial in maintaining body heat during sudden temperature drops. The bivy sack uses synthetic insulation for its interior lining, providing warmth without adding excessive weight.
@@ -47,7 +47,7 @@ Insulation is crucial in maintaining body heat during sudden temperature drops. 
 - **Insulation Type**: PrimaLoft Gold
 - **R-value (Thermal Resistance)**: 3.0
 
-PrimaLoft Gold provides excellent thermal performance with a high R-value of 3.0. This synthetic insulation is highly compressible and quick-drying, making it ideal for use in bivy sacks.
+PrimaLoft Gold provides excellent thermal performance with a high R-value of 3.0. This synthetic insulation is highly compressible and quick-drying, making it ideal for use in [bivy sacks](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21).
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Titanium Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)titanium+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

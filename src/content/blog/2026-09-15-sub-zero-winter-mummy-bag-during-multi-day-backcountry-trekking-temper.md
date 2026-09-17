@@ -30,7 +30,7 @@ Inner linings are crucial for comfort and can be made from materials like silk o
 
 ### Field Protocols and Practical Considerations
 
-When selecting a mummy bag for sub-zero conditions, consider several factors:
+When selecting a [mummy bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21) for sub-zero conditions, consider several factors:
 
 - **Temperature Rating**: Bags are rated based on the coldest temperature they can effectively maintain. Ensure the chosen bag’s lower limit is at least 20°F (-6°C) below your expected minimum nighttime temperatures.
 - **Weight and Volume**: A lighter and more compressible bag allows for easier packing but may compromise insulation quality if not carefully selected.

@@ -93,7 +93,7 @@ In desert canyon flash-freeze environments, where temperatures can plummet from 
 
 ## Conclusion
 
-Designing a full-tang bushcraft fixed blade for desert canyon flash-freeze environments requires careful consideration of both safety and weight optimization. By selecting appropriate materials and incorporating robust features, this knife ensures reliable performance in challenging conditions while maintaining lightness. Pair it with other essential gear like hardshell jackets, boots, and camp stoves to create a well-rounded outdoor kit.
+Designing a full-tang bushcraft fixed blade for desert canyon flash-freeze environments requires careful consideration of both safety and weight optimization. By selecting appropriate materials and incorporating robust features, this knife ensures reliable performance in challenging conditions while maintaining lightness. Pair it with other essential gear like [hardshell jackets](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21), boots, and [camp stoves](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) to create a well-rounded outdoor kit.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

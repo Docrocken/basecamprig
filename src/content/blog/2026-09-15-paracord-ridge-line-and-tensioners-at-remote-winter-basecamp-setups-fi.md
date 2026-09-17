@@ -24,7 +24,7 @@ In winter basecamps where extreme cold temperatures and harsh weather conditions
 ### Drying Procedures
 When setting up your basecamp, ensure that all paracord components are thoroughly dried before use. This prevents moisture from weakening the cord over time. Here’s how to dry out paracord:
 
-1. **Hang and Air Dry:** Use a line or hook to hang the [paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) in a well-ventilated area away from direct sunlight.
+1. **Hang and Air Dry:** Use a line or hook to hang the [paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) in a well-ventilated area away from direct sunlight.
 2. **Heat Drying:** For faster drying, use a hairdryer set on cool or a low heat setting to gently blow air through the cord. Avoid high temperatures that could melt the nylon.
 3. **UV Light Exposure:** UV light can help break down moisture molecules, accelerating the drying process without damaging the paracord.
 
@@ -82,4 +82,4 @@ Proper maintenance, drying, and repair procedures are critical for ensuring the 
 By being prepared with the right tools and knowledge, you can minimize downtime and maximize your expedition's efficiency in remote winter environments.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

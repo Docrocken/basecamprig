@@ -39,6 +39,9 @@ To evaluate the long-term durability of these mummy bags under harsh conditions,
 3. **Packaging and Transport**: Bags underwent multiple cycles of packing and unpacking to simulate real-world conditions during backcountry travel.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dry Bag](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

@@ -19,6 +19,9 @@ The BMW M57 diesel engine is equipped with several ECUs that interface with each
 The I2C communication protocol is critical for synchronizing operations between these ECUs and managing sensor data, fuel injection timing, and other essential functions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dry Bag](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Symptoms and Impact

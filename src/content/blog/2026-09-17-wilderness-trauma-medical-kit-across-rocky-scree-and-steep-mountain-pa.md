@@ -47,9 +47,9 @@ Wind resistance is the ability of a material to prevent air from passing through
   
 - **Boots and Hardshell Jackets:** These items require high breathability to keep feet and upper body dry while hiking through rugged terrains. Wind resistance is also important to prevent cold air from entering the boots and jackets.
 
-- **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** While not directly related, camp stoves often use waterproof membranes for their fuel lines to ensure reliable operation in wet conditions. The design must balance breathability with wind resistance to function optimally.
+- **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** While not directly related, [camp stoves](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) often use waterproof membranes for their fuel lines to ensure reliable operation in wet conditions. The design must balance breathability with wind resistance to function optimally.
 
-- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** In cold climates, sleeping bags need both high breathability (to allow moisture to escape) and good insulation properties (high R-value and fill power). MemBrain is a good compromise as it provides both sufficient breathability for internal moisture management and effective wind resistance to maintain core warmth.
+- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** In cold climates, [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) need both high breathability (to allow moisture to escape) and good insulation properties (high R-value and fill power). MemBrain is a good compromise as it provides both sufficient breathability for internal moisture management and effective wind resistance to maintain core warmth.
 
 ### Case Study: A Wilderness Trauma Medical Kit
 For a wilderness trauma medical kit, consider using a combination of breathable and wind-resistant materials:

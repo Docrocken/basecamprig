@@ -71,6 +71,9 @@ Choosing and maintaining breathable trail running shoes for torrential continuou
 For additional support, consider consulting with outdoor gear experts or reviewing detailed product reviews to find the best options for your specific needs.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Wool Base Layer](https://www.amazon.com/s?k=merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

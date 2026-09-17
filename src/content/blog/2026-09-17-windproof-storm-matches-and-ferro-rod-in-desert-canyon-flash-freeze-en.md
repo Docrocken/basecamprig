@@ -62,8 +62,11 @@ Both windproof storm matches and ferro rods performed well under the test condit
 
 1. **Tents**: In desert canyons, keeping a tent warm and dry is crucial. Windproof storm matches and ferro rods provide reliable fire-starting options for drying out wet gear or creating additional warmth.
 2. **Boots**: Ensuring that boots stay dry in heavy rain can prevent hypothermia. Having a reliable fire source like these tools can help start fires to keep feet warm.
-3. **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: In cold, windy conditions, a hardshell jacket is essential for insulation. A reliable fire starter ensures warmth and comfort during overnight stays or extended hikes.
-4. **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: While modern camp stoves are highly effective, having windproof storm matches and ferro rods as backup can be lifesaving in unexpected situations where the stove fails to ignite.
+3. **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: In cold, windy conditions, a [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for insulation. A reliable fire starter ensures warmth and comfort during overnight stays or extended hikes.
+4. **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: While modern [camp stoves](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) are highly effective, having windproof storm matches and ferro rods as backup can be lifesaving in unexpected situations where the stove fails to ignite.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Satellite Communicator]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)satellite+communicator+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -72,6 +75,9 @@ Both windproof storm matches and ferro rods performed well under the test condit
 Windproof storm matches and ferro rods are indispensable tools for outdoor enthusiasts operating in desert canyon environments prone to flash-freezing. Their robust waterproof hydrostatic head and high abrasion resistance ensure reliable performance under harsh conditions, making them essential components of any well-equipped backcountry kit.
 
 By adhering to the engineering specifications outlined above, users can confidently rely on these tools to maintain warmth, dryness, and safety in challenging environments.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Booties]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+booties+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

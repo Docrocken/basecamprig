@@ -17,6 +17,9 @@ Hydrostatic head (HH) is a key measure of how effective a fabric is at resisting
 For long-distance solo thru-hikes, [trekking pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) with an HH rating between 15kPa and 20kPa are generally recommended. For extremely harsh conditions, a minimum of 25kPa is advised. This ensures that the pants will not be compromised by heavy rainfall or prolonged exposure to moisture.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
@@ -50,6 +53,9 @@ Comfort is subjective but can be influenced by factors such as fit, material thi
 | **Breathability (g/m²/24h)** | 15,000 - 25,000 for effective moisture management |
 | **Abrasion Resistance (cycles)** | At least 10,000 cycles to ensure long-lasting durability |
 | **Tensile Strength** | Warp: 120N; Weft: 90N for robust performance |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

@@ -25,6 +25,9 @@ The key to success in bog and swamp environments lies in selecting appropriate g
 | Hydrostatic Test       | 10 mm                |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

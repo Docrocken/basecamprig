@@ -18,10 +18,10 @@ Packrafting requires highly specialized gear that can withstand the rigors of fa
 
 ### Wool Composition
 
-Merino wool is renowned for its superior comfort and moisture management properties due to the unique crimp structure that allows it to absorb and wick away moisture. The finer fibers of merino wool (typically 18-21 microns in diameter) make them more comfortable against the skin compared to coarser wools.
+[Merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) is renowned for its superior comfort and moisture management properties due to the unique crimp structure that allows it to absorb and wick away moisture. The finer fibers of merino wool (typically 18-21 microns in diameter) make them more comfortable against the skin compared to coarser wools.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Fabric Specifications
 

@@ -32,7 +32,7 @@ When your tent becomes wet due to rain or snow, it's crucial to dry it quickly t
 ### Drying Process
 
 1. **Remove Tent from Ground**: Carefully unroll the tent to avoid damaging any seams or poles.
-2. **Inspect Interior for Condensation**: Use a [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) to check for moisture inside, especially around zippers and vents.
+2. **Inspect Interior for Condensation**: Use a [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) to check for moisture inside, especially around zippers and vents.
 3. **Ventilate**: Open all doors and windows if possible to allow air circulation.
 4. **Direct Sunlight**: Place the tent in direct sunlight, ensuring it is completely dry before storing or packing.
 
