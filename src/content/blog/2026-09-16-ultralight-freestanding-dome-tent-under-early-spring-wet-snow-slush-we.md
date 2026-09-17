@@ -41,11 +41,11 @@ In case of unexpected severe weather, having an emergency shelter feature is cru
 |-----------------------|-------------------------------|
 | Tent                  | Lightweight freestanding dome, Hydrostatic head: 4000 mm, Denier: 70D (main body) / 150D (rainfly), Breathability: 3500 g/m²/24h |
 | [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)          | Temperature Rating: -10°C (-14°F), Fill Power: 650+ |
-| [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)              | Lightweight, Capacity: 25-30 liters |
+| [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)              | Lightweight, Capacity: 25-30 liters |
 | Boots                 | Waterproof, Insulated, Water Resistant |
 | [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)      | High Performance, Breathable, Waterproof |
 | [Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)            | Lightweight and Compact, Fuel Efficient |
-| [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)              | Rechargeable or LED with extra batteries |
+| [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)              | Rechargeable or LED with extra batteries |
 | [Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)          | Portable and Reliable |
 
 
@@ -63,9 +63,3 @@ The tent comes equipped with four pre-buried stakes that can be easily extended 
 
 ## Conclusion
 Selecting an ultralight freestanding dome tent under early spring wet snow slush requires careful consideration of material properties, durability, and weight optimization. By focusing on these critical aspects, outdoor enthusiasts can ensure a safe and comfortable camping experience while minimizing the overall load carried into the field. Always prioritize safety by choosing gear that meets or exceeds industry standards for performance and reliability.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Merino Wool Hiking Socks Field Rig Selection](https://www.amazon.com/s?k=merino+wool+hiking+socks+outdoor+gear&tag=basecamprig-21)
-- [Merino Wool Thermal Base Layer Field Rig Selection](https://www.amazon.com/s?k=merino+wool+thermal+base+layer+outdoor+gear&tag=basecamprig-21)

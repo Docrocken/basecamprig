@@ -75,11 +75,11 @@ Selecting a closed-cell foam sleeping mat for severe alpine storm conditions req
 
 - **Tent**: A lightweight, waterproof tent with a robust floor to protect against ground moisture.
 - **Boots**: Insulated, waterproof boots to keep feet warm and dry during night hikes or camp set-up.
-- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A durable hardshell jacket for wind protection while setting up the camp or navigating through storms.
+- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A durable [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) for wind protection while setting up the camp or navigating through storms.
 - **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: A reliable stove with a robust fuel source (e.g., white gas) to cook meals and maintain warmth in cold conditions.
-- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: An insulated sleeping bag with a high temperature rating suitable for the expected alpine temperatures.
+- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: An insulated [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) with a high temperature rating suitable for the expected alpine temperatures.
 - **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: A lightweight, weather-resistant backpack designed for extended hikes or camping trips.
-- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: A powerful headlamp with rechargeable batteries to navigate during low-light conditions.
+- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A powerful headlamp with rechargeable batteries to navigate during low-light conditions.
 - **[Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: A portable water filter or purifier to ensure access to clean drinking water in remote areas.
 
 By integrating these recommendations into your gear selection process, you can maximize comfort and safety during alpine camping trips in severe storm conditions.

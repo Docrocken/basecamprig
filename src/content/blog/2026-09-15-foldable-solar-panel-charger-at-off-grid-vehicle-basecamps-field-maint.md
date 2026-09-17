@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ### Introduction to Foldable Solar Panels for Basecamp Use
 
-Foldable [solar panels](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) have become an indispensable tool in off-grid vehicle basecamps, providing a renewable source of energy that is both lightweight and portable. These panels are typically designed with durability in mind but require regular maintenance to ensure optimal performance over extended periods. This guide aims to provide detailed, practical instructions for maintaining, drying, and repairing tear damage on foldable solar panels.
+Foldable [solar panels](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) have become an indispensable tool in off-grid vehicle basecamps, providing a renewable source of energy that is both lightweight and portable. These panels are typically designed with durability in mind but require regular maintenance to ensure optimal performance over extended periods. This guide aims to provide detailed, practical instructions for maintaining, drying, and repairing tear damage on foldable [solar panels](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21).
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
@@ -19,7 +19,7 @@ Foldable [solar panels](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=
 Foldable solar panels commonly use high-quality materials such as polyvinyl fluoride (PVF) film for the outer layer, which offers excellent UV resistance and tear strength. The cells themselves are often made from monocrystalline silicon due to their efficiency in converting sunlight into electricity. The backsheet is typically a flexible polymer designed to withstand various environmental conditions.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 Key specifications include:
 - **Outer Layer Material**: Polyvinyl fluoride (PVF) film, 200 microns thick

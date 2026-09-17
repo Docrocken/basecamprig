@@ -27,14 +27,14 @@ To assess long-term durability, the bivy sack underwent a series of rigorous tes
    - It passed without significant fabric tearing or seam failure.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 2. **Waterproofing:**
    - A hydrostatic head test was conducted, simulating rainfall intensity of over 100 mm per hour.
    - The sack remained fully water-resistant throughout the testing period.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 3. **Temperature Range Testing:**
    - The bivy was exposed to temperature extremes ranging from -20°C to +40°C (−4°F to 104°F) for extended periods.
@@ -83,9 +83,3 @@ This guide provides a comprehensive analysis of the ultralight [bivy sack]([http
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Tunnel Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Trail Running Shoes Field Rig Selection](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21)
-- [Water Purification Tablets Field Rig Selection](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21)

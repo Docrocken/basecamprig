@@ -17,6 +17,9 @@ Hydrostatic head (HH) is a key measure of how effective a fabric is at resisting
 For long-distance solo thru-hikes, [trekking pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) with an HH rating between 15kPa and 20kPa are generally recommended. For extremely harsh conditions, a minimum of 25kPa is advised. This ensures that the pants will not be compromised by heavy rainfall or prolonged exposure to moisture.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hot Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hot+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Fabric Denier
@@ -47,6 +50,9 @@ Comfort is subjective but can be influenced by factors such as fit, material thi
 | **Breathability (g/m²/24h)** | 15,000 - 25,000 for effective moisture management |
 | **Abrasion Resistance (cycles)** | At least 10,000 cycles to ensure long-lasting durability |
 | **Tensile Strength** | Warp: 120N; Weft: 90N for robust performance |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -84,13 +90,3 @@ A reliable headlamp ensures visibility and safety during night hikes. Opt for mo
 Carrying a water filter is crucial to ensure safe drinking water, especially in areas where potable water sources are scarce or contaminated.
 
 By selecting gear that meets these criteria, long-distance solo thru-hikers can enhance their comfort, safety, and overall experience on the trail.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
-- [Emergency Storm Shelter Bivy Field Rig Selection](https://www.amazon.com/s?k=emergency+storm+shelter+bivy+outdoor+gear&tag=basecamprig-21)
-- [3-Layer Hardshell Jacket Field Rig Selection](https://www.amazon.com/s?k=3-layer+hardshell+jacket+outdoor+gear&tag=basecamprig-21)
-- [Waterproof Rain Jacket Field Rig Selection](https://www.amazon.com/s?k=waterproof+rain+jacket+outdoor+gear&tag=basecamprig-21)
-- [Rugged Field Power Bank Field Rig Selection](https://www.amazon.com/s?k=rugged+field+power+bank+outdoor+gear&tag=basecamprig-21)
-- [65L Internal Frame Trekking Pack Field Rig Selection](https://www.amazon.com/s?k=65L+internal+frame+trekking+pack+outdoor+gear&tag=basecamprig-21)

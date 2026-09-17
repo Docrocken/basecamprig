@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 When navigating rocky scree fields and steep mountain passes, the environment poses unique challenges for outdoor equipment. The harsh conditions often result in exposure to wind, cold temperatures, and abrasive surfaces that can quickly wear down gear. A reliable canister stove is essential for preparing food, melting snow, or boiling water in such environments. This guide focuses on maintaining a canister stove system under these demanding circumstances.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool Base Layer]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Understanding the Canister Stove System
@@ -88,11 +91,17 @@ For minor tears and cuts in the fuel line or other components, use specialized r
 | Canister        | - Capacity: 150g (net)<br> - Pressure: 8.7 bar (at 20°C)                                                 |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Outdoor Knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Conclusion
 
 Maintaining and repairing a canister stove system in rocky scree and steep mountain passes requires careful attention to detail, especially when faced with harsh environmental conditions. By following the guidelines provided in this guide, outdoor enthusiasts can ensure their gear remains functional and safe during high-altitude adventures.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -104,13 +113,7 @@ Maintaining and repairing a canister stove system in rocky scree and steep mount
 By staying prepared with the right gear and following these maintenance procedures, outdoor adventurers can tackle challenging terrain with confidence.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Folding Saw](https://www.amazon.com/s?k=folding+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [65L Internal Frame Trekking Pack Field Rig Selection](https://www.amazon.com/s?k=65L+internal+frame+trekking+pack+outdoor+gear&tag=basecamprig-21)
-- [Rechargeable Headlamp Field Rig Selection](https://www.amazon.com/s?k=rechargeable+headlamp+outdoor+gear&tag=basecamprig-21)
-- [Wilderness Trauma Medical Kit Field Rig Selection](https://www.amazon.com/s?k=wilderness+trauma+medical+kit+outdoor+gear&tag=basecamprig-21)
-- [Lightweight Camp Hatchet Field Rig Selection](https://www.amazon.com/s?k=lightweight+camp+hatchet+outdoor+gear&tag=basecamprig-21)
-- [Gravity Camp Water Filter Field Rig Selection](https://www.amazon.com/s?k=gravity+camp+water+filter+outdoor+gear&tag=basecamprig-21)

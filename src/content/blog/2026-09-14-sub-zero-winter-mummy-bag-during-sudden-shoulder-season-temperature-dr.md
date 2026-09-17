@@ -39,6 +39,9 @@ To evaluate the long-term durability of these mummy bags under harsh conditions,
 3. **Packaging and Transport**: Bags underwent multiple cycles of packing and unpacking to simulate real-world conditions during backcountry travel.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Field Performance Analysis
@@ -57,6 +60,9 @@ Given the requirements for durability and performance in sub-zero winter mummy b
 | **Wool Liner** | Optional, for additional warmth when needed | Secondary Layer for Extra Comfort |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bivy Sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Conclusion
@@ -65,13 +71,7 @@ Selecting the right mummy bag is crucial for survival in sub-zero winter conditi
 This guide provides valuable insights into choosing and maintaining gear for harsh winter environments, ensuring safer and more comfortable outdoor adventures.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Hot Tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
-- [Packable Down Jacket Field Rig Selection](https://www.amazon.com/s?k=packable+down+jacket+outdoor+gear&tag=basecamprig-21)
-- [Canister Backpacking Stove Field Rig Selection](https://www.amazon.com/s?k=canister+backpacking+stove+outdoor+gear&tag=basecamprig-21)
-- [Silnylon Rain Tarp Field Rig Selection](https://www.amazon.com/s?k=silnylon+rain+tarp+outdoor+gear&tag=basecamprig-21)
-- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)

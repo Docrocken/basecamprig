@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In torrential continuous rain conditions, maintaining water safety is paramount for outdoor enthusiasts and basecamp crews. The gravity camp [water filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) serves as a critical tool in ensuring access to clean drinking water. However, these systems must be carefully selected and used under various environmental extremes, particularly temperature fluctuations. This guide delves into the specific challenges posed by torrential rain and extreme temperatures, focusing on the performance of gravity filters and their suitability for such conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Camp Booties](https://www.amazon.com/s?k=camp+booties+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Material Specifications and Performance
@@ -69,6 +72,9 @@ Proper use of the gravity filter ensures optimal performance:
 3. **Flow Control**: Adjust flow rates by controlling the input water volume; faster flow can lead to clogging and reduced filtration efficiency.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Rain Jacket](https://www.amazon.com/s?k=rain+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 #### Maintenance
@@ -107,10 +113,3 @@ Selecting and using the right gravity camp [water filter](https://www.amazon.com
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Down Sleeping Bag Field Rig Selection](https://www.amazon.com/s?k=down+sleeping+bag+outdoor+gear&tag=basecamprig-21)
-- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)
-- [Trail Running Shoes Field Rig Selection](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21)

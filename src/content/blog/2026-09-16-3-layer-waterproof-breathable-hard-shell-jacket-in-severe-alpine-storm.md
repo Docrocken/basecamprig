@@ -12,7 +12,10 @@ category: "Gear & Field Setups"
 High-altitude mountaineering and alpine climbing present unique weather challenges. Extreme cold, howling winds, and sudden storms can drastically affect the performance of outdoor gear. A 3-layer waterproof breathable hard shell jacket is a critical piece of kit for these conditions. This guide explores the technical aspects of designing such a jacket to ensure safety while optimizing weight.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Booties](https://www.amazon.com/s?k=camp+booties+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown
 
@@ -98,10 +101,3 @@ This technical guide provides a comprehensive overview of the design and functio
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Titanium Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)titanium+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
-- [Waterproof Hiking Boots Field Rig Selection](https://www.amazon.com/s?k=waterproof+hiking+boots+outdoor+gear&tag=basecamprig-21)
-- [Trail Running Shoes Field Rig Selection](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21)

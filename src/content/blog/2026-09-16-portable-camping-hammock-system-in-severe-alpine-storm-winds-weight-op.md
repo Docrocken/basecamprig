@@ -61,6 +61,9 @@ By carefully selecting materials, integrating additional shelter systems, and ad
 | Tent | Lightweight 1-person tent |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Axe](https://www.amazon.com/s?k=camp+axe+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hammock System]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hammock+system+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This guide provides a comprehensive approach to creating an optimal hammock setup for severe alpine storms, ensuring both performance and safety.

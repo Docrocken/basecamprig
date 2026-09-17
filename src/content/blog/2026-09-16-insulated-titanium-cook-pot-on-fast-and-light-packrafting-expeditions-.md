@@ -12,11 +12,11 @@ category: "Gear & Field Setups"
 Fast-and-light packing is a critical component of modern outdoor and expeditionary gear. The goal is to reduce weight while ensuring safety, efficiency, and comfort. For packrafting expeditions, this involves selecting the lightest possible materials that can withstand harsh conditions, including water immersion. A key piece in this setup is the insulated [cook pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21), which serves as a multi-functional tool for cooking, boiling water, and even serving food.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## The Role of Insulated Cook Pots
 
-Insulated cook pots are designed to minimize heat loss by reducing conduction, convection, and radiation through their thermal barrier. They can significantly improve fuel efficiency and cooking time in cold conditions. Common materials used include foam insulation, polyethylene, or aluminum foil with a thin layer of silicone.
+Insulated [cook pots](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) are designed to minimize heat loss by reducing conduction, convection, and radiation through their thermal barrier. They can significantly improve fuel efficiency and cooking time in cold conditions. Common materials used include foam insulation, polyethylene, or aluminum foil with a thin layer of silicone.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Water Purification Tablets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+purification+tablets+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -26,7 +26,7 @@ Insulated cook pots are designed to minimize heat loss by reducing conduction, c
 Titanium is an excellent choice for cook pots due to its combination of lightweight, strength, and durability. It has a density of 4.5 g/cm³, making it about three times lighter than steel but still robust enough for outdoor use. However, titanium’s high cost can be prohibitive for some expeditions.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Insulated Titanium Cook Pot Specifications
 

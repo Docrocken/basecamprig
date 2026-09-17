@@ -36,7 +36,7 @@ The tarp should be laid out with a center stake to create an inverted V-shape. T
 
 ### Tarp and Tent Setup
 
-The ultralight silnylon tarp serves as a primary shelter structure. It can be used in conjunction with a lightweight down sleeping bag or integrated into a more complex rig.
+The ultralight [silnylon tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) serves as a primary shelter structure. It can be used in conjunction with a lightweight down [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) or integrated into a more complex rig.
 
 - **Tent Integration**: Use the tarp as a rainfly over an ultralight 4-person tent (weight: ~3 lbs, R-value 5).
 - **Snow Collection**: Attach a snow collection line to the ridge pole. This setup ensures that any collected snow can be easily accessed and used for water or insulation.

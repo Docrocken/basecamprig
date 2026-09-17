@@ -31,7 +31,7 @@ The insulation material should provide adequate warmth without compromising the 
 | Synthetic           | N/A                              | 8-12                                 |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 #### Ventilation and Stove Jack
 For areas above the tree line, a stove jack is essential. This accessory allows for the safe operation of a camp stove inside the tent without compromising its waterproofing. Ensure the stove jack has an integrated vent to prevent CO build-up and maintain proper airflow.
@@ -83,14 +83,14 @@ Select a stove that performs well in cold conditions. Propane stoves are general
 #### Backpack
 A lightweight, packable backpack is essential for easy transport and access. Look for a backpack with a capacity of at least 40 liters.
 
-| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)** | **Features** | **Capacity (liters)** |
+| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)** | **Features** | **Capacity (liters)** |
 |--------------|--------------|----------------------|
 | Osprey Atmos AG 65 | Internal frame, hip belt, hydration system | 65 |
 
 #### Headlamp
 A reliable headlamp is crucial for nighttime navigation and safety. Choose a model with at least 100 lumens and a rechargeable battery.
 
-| **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)** | **Features** | **Brightness (lumens)** |
+| **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)** | **Features** | **Brightness (lumens)** |
 |--------------|--------------|------------------------|
 | Petzl Actik Core | Rechargeable lithium-ion battery, long-lasting LED | 120 |
 

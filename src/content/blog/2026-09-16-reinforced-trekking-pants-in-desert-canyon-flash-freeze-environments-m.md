@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 When navigating the extreme conditions of desert canyon flash-freeze environments, [trekking pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) play a critical role. In these scenarios, where sudden temperature drops and fierce winds are common, the balance between breathability and wind resistance is crucial for maintaining body heat and comfort. This guide will delve into two key aspects: membrane breathability and wind resistance, through an in-depth comparison of their engineering specifications and practical implications.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Membrane Breathability
@@ -93,9 +96,3 @@ Always carry safety equipment such as:
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hammock System]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hammock+system+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Down Camp Booties Field Rig Selection](https://www.amazon.com/s?k=down+camp+booties+outdoor+gear&tag=basecamprig-21)
-- [Rugged Field Power Bank Field Rig Selection](https://www.amazon.com/s?k=rugged+field+power+bank+outdoor+gear&tag=basecamprig-21)

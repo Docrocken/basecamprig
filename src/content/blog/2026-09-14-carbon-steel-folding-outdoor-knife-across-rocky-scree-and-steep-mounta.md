@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 When venturing into rocky scree and steep mountain passes, the choice of a reliable carbon steel folding [outdoor knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) is crucial. The blade should be robust enough to withstand the harsh terrain while being versatile for various tasks such as cutting rope, prying loose rocks, or creating a makeshift shelter. A common choice in this context is the CRUX 1 by Victorinox, known for its 420HC stainless steel blade that can hold an edge well and resist corrosion. The knife also features a comfortable ergonomic handle designed to reduce hand fatigue during extended use.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Modular Rig Configuration
 
@@ -38,7 +38,7 @@ A modular rig configuration allows you to carry essential tools in a way that ma
 
 ### Field Protocols
 
-When using a carbon steel folding outdoor knife on rocky terrain, it is essential to follow specific protocols to ensure safety and efficiency:
+When using a carbon steel folding [outdoor knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) on rocky terrain, it is essential to follow specific protocols to ensure safety and efficiency:
 
 #### Edge Maintenance
 Regularly sharpen the blade using a portable ceramic honing rod or diamond file. This can be done in less than 30 seconds and ensures the knife remains functional throughout your trip.

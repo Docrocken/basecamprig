@@ -44,7 +44,7 @@ For solo hikers, the stove must withstand repeated use over extended periods wit
 | **Abrasion Resistance** | 500,000 cycles                                |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown of Components
 
@@ -80,15 +80,9 @@ Choosing an expedition stove with high hydrostatic head and abrasion resistance 
 
 - **Tent**: A lightweight, waterproof tent is crucial for maintaining warmth and dryness.
 - **Boots**: Gortex or similar waterproof membranes are essential for keeping feet dry.
-- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A high-quality hardshell jacket with a high hydrostatic head rating provides protection against rain and snow.
+- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A high-quality [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) with a high hydrostatic head rating provides protection against rain and snow.
 - **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: Select a stove with at least 15,000 mm of hydrostatic head and 500,000 cycles of abrasion resistance for reliable performance in all conditions.
 - **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A sleeping bag with an R-value suitable for the climate you will be hiking in ensures adequate warmth during cold nights.
-- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: A high-quality backpack with durable materials and a comfortable design is essential for carrying your gear comfortably over long distances.
+- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A high-quality backpack with durable materials and a comfortable design is essential for carrying your gear comfortably over long distances.
 
 By carefully considering these factors, solo thru-hikers can ensure they are well-prepared for any challenges that arise during their journey.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Wilderness Trauma Medical Kit Field Rig Selection](https://www.amazon.com/s?k=wilderness+trauma+medical+kit+outdoor+gear&tag=basecamprig-21)
-- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)

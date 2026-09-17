@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction
 
-Packrafting requires highly specialized gear that can withstand the rigors of fast-moving waters while ensuring comfort and performance. Among these, [merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) [hiking socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) are crucial for maintaining foot health and providing thermal regulation during extended expeditions. This guide provides an in-depth analysis of merino wool hiking socks suitable for fast-and-light packrafting, focusing on material breakdown, engineering specifications, and practical considerations.
+Packrafting requires highly specialized gear that can withstand the rigors of fast-moving waters while ensuring comfort and performance. Among these, [merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) [hiking socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) are crucial for maintaining foot health and providing thermal regulation during extended expeditions. This guide provides an in-depth analysis of [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) [hiking socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) suitable for fast-and-light packrafting, focusing on material breakdown, engineering specifications, and practical considerations.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Outdoor Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)outdoor+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -21,7 +21,7 @@ Packrafting requires highly specialized gear that can withstand the rigors of fa
 Merino wool is renowned for its superior comfort and moisture management properties due to the unique crimp structure that allows it to absorb and wick away moisture. The finer fibers of merino wool (typically 18-21 microns in diameter) make them more comfortable against the skin compared to coarser wools.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Fabric Specifications
 

@@ -67,9 +67,15 @@ Optimizing a hollow fiber membrane filter pump for use through dense boreal fore
 | Material              | Carbon fiber/aluminum housing  |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Power Bank]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By following these specifications and optimizations, you can ensure that your water filtration system is both safe and lightweight for your boreal forest adventures.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Bivy Sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

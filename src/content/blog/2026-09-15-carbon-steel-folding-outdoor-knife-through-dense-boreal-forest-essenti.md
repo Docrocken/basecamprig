@@ -81,16 +81,3 @@ Navigating through dense boreal forests requires a combination of durable, multi
 | **Navigation** | Garmin Fenix 6X Pro GPS device, Silva Ranger Classic compass |
 
 This guide provides a detailed and technical approach to equipping yourself for an outdoor adventure through dense boreal forests.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Down Camp Booties Field Rig Selection](https://www.amazon.com/s?k=down+camp+booties+outdoor+gear&tag=basecamprig-21)
-- [Rugged Field Power Bank Field Rig Selection](https://www.amazon.com/s?k=rugged+field+power+bank+outdoor+gear&tag=basecamprig-21)
-- [Carbon Fiber Trekking Poles Field Rig Selection](https://www.amazon.com/s?k=carbon+fiber+trekking+poles+outdoor+gear&tag=basecamprig-21)
-- [3-Layer Hardshell Jacket Field Rig Selection](https://www.amazon.com/s?k=3-layer+hardshell+jacket+outdoor+gear&tag=basecamprig-21)
-- [Insulated Sleeping Pad Field Rig Selection](https://www.amazon.com/s?k=insulated+sleeping+pad+outdoor+gear&tag=basecamprig-21)
-- [Titanium Cook Pot Field Rig Selection](https://www.amazon.com/s?k=titanium+cook+pot+outdoor+gear&tag=basecamprig-21)
-- [Emergency Storm Shelter Bivy Field Rig Selection](https://www.amazon.com/s?k=emergency+storm+shelter+bivy+outdoor+gear&tag=basecamprig-21)
-- [Ultralight Silnylon Tarp Field Rig Selection](https://www.amazon.com/s?k=ultralight+silnylon+tarp+outdoor+gear&tag=basecamprig-21)
-- [Water Purification Tablets Field Rig Selection](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21)

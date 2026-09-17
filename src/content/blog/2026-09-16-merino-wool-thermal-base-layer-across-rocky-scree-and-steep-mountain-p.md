@@ -36,6 +36,9 @@ Breathability is another critical factor when choosing a base layer. Merino wool
 | Breathability      | High                           |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Outdoor Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)outdoor+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Design and Engineering
@@ -73,14 +76,3 @@ Incorporate a multi-layered approach by combining the merino wool base with mois
 
 ## Conclusion
 When navigating rocky scree fields and steep mountain passes, a carefully chosen merino wool thermal base layer is essential. By focusing on weight optimization through minimalistic design and strategic engineering, you can maintain both agility and safety without compromising on performance. Combined with the right outerwear and gear, this approach ensures that your expedition remains comfortable and efficient throughout its entirety.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Sub-Zero Winter Mummy Bag Field Rig Selection](https://www.amazon.com/s?k=sub-zero+winter+mummy+bag+outdoor+gear&tag=basecamprig-21)
-- [Reinforced Trekking Pants Field Rig Selection](https://www.amazon.com/s?k=reinforced+trekking+pants+outdoor+gear&tag=basecamprig-21)
-- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
-- [Insulated Sleeping Pad Field Rig Selection](https://www.amazon.com/s?k=insulated+sleeping+pad+outdoor+gear&tag=basecamprig-21)
-- [Packable Down Jacket Field Rig Selection](https://www.amazon.com/s?k=packable+down+jacket+outdoor+gear&tag=basecamprig-21)
-- [Carbon Steel Folding Knife Field Rig Selection](https://www.amazon.com/s?k=carbon+steel+folding+knife+outdoor+gear&tag=basecamprig-21)
-- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)

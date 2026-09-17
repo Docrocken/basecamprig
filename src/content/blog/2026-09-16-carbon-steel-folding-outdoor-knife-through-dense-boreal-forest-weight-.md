@@ -77,7 +77,7 @@ The G10 composite handle is lightweight yet robust, significantly reducing the o
 
 ## Comparison with Other Designs
 
-| Feature              | Lightweight Folding Knife (X) | Optimized Carbon Steel Knife (Y) |
+| Feature              | Lightweight [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) (X) | Optimized Carbon Steel Knife (Y) |
 |----------------------|------------------------------|--------------------------------|
 | Blade Material       | Titanium                       | High-carbon stainless steel (440C)  |
 | Weight              | 250 grams                     | 150 grams                        |
@@ -109,8 +109,8 @@ Optimizing the weight of a carbon steel folding [outdoor knife]([https://www.ama
 - **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: The Patagonia Torrent Shell Jacket for wind and water resistance
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: The Jetboil Flash for quick boiling of water
 - **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A 0°F (-18°C) rated bag like the Therm-a-Rest Ridge Rest
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: The Osprey Atmos AG 65 for lightweight, durable carrying capacity
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: The Black Diamond Micro LED for bright illumination in low light
-- **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: The LifeStraw Personal Water Filter for clean drinking water
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: The Osprey Atmos AG 65 for lightweight, durable carrying capacity
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: The Black Diamond Micro LED for bright illumination in low light
+- **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: The LifeStraw Personal [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) for clean drinking water
 
 By integrating these recommendations with the optimized knife, outdoor enthusiasts can enhance their overall experience and preparedness in dense boreal forests.

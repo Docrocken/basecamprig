@@ -66,11 +66,11 @@ Below are core gear choices with their field roles:
 | **Stakes & Ground Anchors** | Silicone-treated metal or carbon fiber | Secure anchoring in various terrain |
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Conclusion
 
-Selecting the right 4-season expedition tunnel tent is a balancing act between breathability and wind resistance. By understanding the technical specifications of different materials, you can make informed decisions to ensure optimal performance during fast-and-light packrafting expeditions.
+Selecting the right 4-season expedition [tunnel tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) is a balancing act between breathability and wind resistance. By understanding the technical specifications of different materials, you can make informed decisions to ensure optimal performance during fast-and-light packrafting expeditions.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

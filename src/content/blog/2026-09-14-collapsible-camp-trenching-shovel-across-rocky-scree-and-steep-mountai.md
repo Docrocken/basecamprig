@@ -33,7 +33,7 @@ When packing your collapsible camp trenching shovel for an outdoor trip, follow 
 4. **[Pack](https://www.amazon.com/s?k=pack+outdoor+gear&tag=basecamprig-21) Wisely**: Place the folded shovel between layers of gear or in a dedicated pack pocket designed for tools.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Field Protocols
 In harsh environments like rocky scree and steep mountain passes, proper field protocols are crucial:
@@ -72,9 +72,3 @@ By selecting the right gear and following these practical guidelines, you can ma
 
 ### Conclusion
 A well-chosen collapsible camp trenching shovel is an invaluable tool for navigating rugged terrain while ensuring durability and portability. By adhering to proper packing methods, field protocols, and maintenance tips, you can extend the life of your shovel and enhance your overall outdoor experience.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Merino Wool Thermal Base Layer Field Rig Selection](https://www.amazon.com/s?k=merino+wool+thermal+base+layer+outdoor+gear&tag=basecamprig-21)
-- [Winter Mummy Bag Field Rig Selection](https://www.amazon.com/s?k=winter+mummy+bag+outdoor+gear&tag=basecamprig-21)

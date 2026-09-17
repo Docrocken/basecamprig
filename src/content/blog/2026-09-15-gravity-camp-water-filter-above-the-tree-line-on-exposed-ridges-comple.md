@@ -26,7 +26,7 @@ The heart of any gravity-fed filter is its core. For high-altitude environments,
 A reliable water storage container is crucial, especially in unpredictable weather conditions. A large, durable hydration bladder (e.g., Platypus 4.3L) or a high-quality backpack with integrated reservoirs (e.g., Osprey Atmos AG 65) are recommended.
 
 - **Material**: Nalgene HDPE (High-Density Polyethylene) for durability and UV resistance.
-- **Volume**: 4.3 liters for the Platypus, 40+ liters in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) reservoir setup.
+- **Volume**: 4.3 liters for the Platypus, 40+ liters in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) reservoir setup.
 
 ### Pump or Bag
 A gravity-fed system uses either a pump or a bag to push water through the filter. The Sawyer Squeeze uses a simple squeeze mechanism:
@@ -103,15 +103,7 @@ Selecting the right materials for setting up a gravity-fed water filter above th
 This guide serves as a comprehensive resource for outdoor enthusiasts and professionals who frequently operate in exposed ridge environments, providing them with the necessary knowledge to make informed decisions about their equipment.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Insulated Sleeping Pad Field Rig Selection](https://www.amazon.com/s?k=insulated+sleeping+pad+outdoor+gear&tag=basecamprig-21)
-- [Camp Lantern Field Rig Selection](https://www.amazon.com/s?k=camp+lantern+outdoor+gear&tag=basecamprig-21)
-- [Backpacking Tent Field Rig Selection](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21)
-- [Bushcraft Fixed Blade Knife Field Rig Selection](https://www.amazon.com/s?k=bushcraft+fixed+blade+knife+outdoor+gear&tag=basecamprig-21)
-- [Waterproof Roll-Top Dry Bag Field Rig Selection](https://www.amazon.com/s?k=waterproof+roll-top+dry+bag+outdoor+gear&tag=basecamprig-21)
-- [Titanium Cook Pot Field Rig Selection](https://www.amazon.com/s?k=titanium+cook+pot+outdoor+gear&tag=basecamprig-21)
-- [Foldable Solar Panel Charger Field Rig Selection](https://www.amazon.com/s?k=foldable+solar+panel+charger+outdoor+gear&tag=basecamprig-21)

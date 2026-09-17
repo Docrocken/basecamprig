@@ -7,9 +7,15 @@ category: "Power & Electrical"
 # Practical Guide to Vehicle Basecamp 12V Auxiliary Power
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Folding Saw](https://www.amazon.com/s?k=folding+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 Reliable auxiliary power is the backbone of any remote basecamp. Powering 12V compressor fridges, diesel heaters, and communications gear requires calculating daily amp-hour consumption and selecting proper battery chemistry.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Foam Mat](https://www.amazon.com/s?k=foam+mat+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Tunnel Tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
@@ -28,10 +34,3 @@ Reliable auxiliary power is the backbone of any remote basecamp. Powering 12V co
 - **12V Fridge:** 30–45 Ah/day depending on ambient summer temperature.
 - **LED Lighting & Device Charging:** 10–15 Ah/day.
 - **Diesel Air Heater (Start/Run):** 15–25 Ah/night during shoulder seasons.
-
-### Essential Field Rig Equipment
-Field-verified components and high-durability gear configurations:
-
-- [Rechargeable Headlamp Field Rig Selection](https://www.amazon.com/s?k=rechargeable+headlamp+outdoor+gear&tag=basecamprig-21)
-- [Gravity Camp Water Filter Field Rig Selection](https://www.amazon.com/s?k=gravity+camp+water+filter+outdoor+gear&tag=basecamprig-21)
-- [Winter Mummy Bag Field Rig Selection](https://www.amazon.com/s?k=winter+mummy+bag+outdoor+gear&tag=basecamprig-21)

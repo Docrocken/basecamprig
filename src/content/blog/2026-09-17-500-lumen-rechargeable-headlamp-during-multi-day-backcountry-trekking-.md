@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to Technical Considerations for Multi-Day Trekking
 
-Multi-day backcountry trekking requires robust equipment that can withstand harsh conditions while providing the necessary functionality. A key piece of gear is a 500-lumen rechargeable [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21), which offers reliable illumination in various scenarios from navigating through dense forests to setting up camp during nightfall. This guide delves into the technical aspects and considerations when choosing a suitable headlamp for such expeditions.
+Multi-day backcountry trekking requires robust equipment that can withstand harsh conditions while providing the necessary functionality. A key piece of gear is a 500-lumen rechargeable [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), which offers reliable illumination in various scenarios from navigating through dense forests to setting up camp during nightfall. This guide delves into the technical aspects and considerations when choosing a suitable headlamp for such expeditions.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -32,7 +32,7 @@ For a backcountry trip, the headlamp should have an adequate run time of at leas
 
 ### Rechargeability
 
-A rechargeable feature is essential, as it allows the headlamp to be powered by a portable charger carried in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21). Li-ion batteries typically offer faster charging times compared to NiMH or lead-acid batteries.
+A rechargeable feature is essential, as it allows the headlamp to be powered by a portable charger carried in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21). Li-ion batteries typically offer faster charging times compared to NiMH or lead-acid batteries.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -56,7 +56,7 @@ In extreme cold conditions, a headlamp’s ability to operate efficiently is cri
 The headlamp should be designed to withstand freezing temperatures. Look for models that have a hydrostatic head rating of at least 150 mm (6 inches), ensuring they can handle water pressure equivalent to rain or snow exposure without leakage.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Comfort and Ergonomics
 
