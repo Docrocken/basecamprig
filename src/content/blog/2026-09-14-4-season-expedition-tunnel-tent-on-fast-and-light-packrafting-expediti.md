@@ -66,7 +66,7 @@ Below are core gear choices with their field roles:
 | **Stakes & Ground Anchors** | Silicone-treated metal or carbon fiber | Secure anchoring in various terrain |
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Conclusion
 

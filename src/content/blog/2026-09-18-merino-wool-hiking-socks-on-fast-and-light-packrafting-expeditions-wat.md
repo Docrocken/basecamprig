@@ -90,7 +90,7 @@ To ensure that these socks meet the requirements for fast-and-light packrafting,
 
 ## Conclusion
 
-Choosing the right merino wool hiking socks is crucial for successful fast-and-light packrafting expeditions. The hydrostatic head test ensures water resistance, while the abrasion test guarantees longevity and comfort. By adhering to specific engineering specifications, adventurers can ensure that their feet remain dry, warm, and comfortable throughout the journey.
+Choosing the right merino wool [hiking socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) is crucial for successful fast-and-light packrafting expeditions. The hydrostatic head test ensures water resistance, while the abrasion test guarantees longevity and comfort. By adhering to specific engineering specifications, adventurers can ensure that their feet remain dry, warm, and comfortable throughout the journey.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

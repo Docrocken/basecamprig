@@ -70,7 +70,7 @@ This guide provides a comprehensive approach to dealing with moisture buildup wh
 > **Field Rig Pick:** When operating in these environments, reliable [Hammock System](https://www.amazon.com/s?k=hammock+system+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Folding Saw](https://www.amazon.com/s?k=folding+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

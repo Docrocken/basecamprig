@@ -35,7 +35,7 @@ These accessories help secure your setup safely:
 Maintaining warmth is critical in winter conditions:
 
 - **[Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21)**: A high-insulation pad (R-value of at least 3.5) should be placed between the hammock and your body to prevent heat loss.
-- **Insulated Blanket or [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) Liner**: For extra warmth, use an insulated blanket or a sleeping bag liner with a fill power of at least 600.
+- **Insulated Blanket or [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) Liner**: For extra warmth, use an insulated blanket or a [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) liner with a fill power of at least 600.
 
 ### 5. Modular Rig Configuration
 A modular rig allows for flexibility in setup:
@@ -68,7 +68,7 @@ A modular rig allows for flexibility in setup:
    - Ensure the straps are evenly tensioned and not too tight or loose.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 3. **Hammock Setup**:
    - Place the hammock in between two trees with some slack.

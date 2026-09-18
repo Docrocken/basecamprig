@@ -10,7 +10,7 @@ category: "Gear & Field Setups"
 When setting up basecamps in off-grid vehicle environments, maintaining dry sleeping conditions is paramount to ensuring a comfortable and safe stay. One of the key factors that can significantly impact moisture levels within your shelter is the internal condensation produced by your backpacking gear, particularly your trekking [pack](https://www.amazon.com/s?k=pack+outdoor+gear&tag=basecamprig-21). This guide delves into practical measures and technical details to prevent internal condensation and moisture buildup in an 65L internal frame trekking pack used at off-grid vehicle basecamps.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Importance of Condensation Control
 

@@ -62,7 +62,7 @@ Managing internal condensation and moisture buildup in a hot tent setup above th
 | **Tent Material** | Hydrostatic head: 10,000 mm; Denier: 60D-70D; Breathability: Gore-tex membrane with R-value of 1.65 |
 | **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)** | Down fill (fill power: 700+); Warmth rating: -15°C (-5°F) |
 | **Ventilation System** | Passive vents and small fan for air circulation |
-| **Additional Gear** | Moisture-wicking boots, [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21), high-quality [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), portable [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) |
+| **Additional Gear** | Moisture-wicking boots, [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21), high-quality [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), portable [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) |
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

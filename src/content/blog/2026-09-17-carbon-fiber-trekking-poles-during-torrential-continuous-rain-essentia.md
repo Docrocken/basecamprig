@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ### Introduction to Trekking Pole Engineering for Extreme Weather Conditions
 
-[Trekking poles]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+poles+outdoor+gear&tag=basecamprig-21) are essential tools in outdoor and basecamp environments. They provide support, balance, and stability during hiking, especially under extreme weather conditions such as torrential continuous rain. Carbon fiber [trekking poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) offer a lightweight yet robust alternative compared to traditional materials like aluminum or wood. This field guide delves into the specific engineering aspects of carbon fiber trekking poles and their optimal use in challenging weather scenarios.
+[Trekking poles]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+poles+outdoor+gear&tag=basecamprig-21) are essential tools in outdoor and basecamp environments. They provide support, balance, and stability during hiking, especially under extreme weather conditions such as torrential continuous rain. Carbon fiber [trekking poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) offer a lightweight yet robust alternative compared to traditional materials like aluminum or wood. This field guide delves into the specific engineering aspects of carbon fiber [trekking poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) and their optimal use in challenging weather scenarios.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
@@ -70,7 +70,7 @@ category: "Gear & Field Setups"
 Carbon fiber trekking poles are indispensable tools for outdoor enthusiasts facing torrential continuous rain. Their lightweight yet robust design ensures they provide the necessary support and stability without compromising on performance or durability. By integrating these poles into a modular rig configuration, users can maximize functionality across various scenarios, enhancing both safety and comfort in challenging weather conditions.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Bivy Sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

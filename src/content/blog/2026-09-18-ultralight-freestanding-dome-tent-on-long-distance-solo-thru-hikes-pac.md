@@ -116,7 +116,7 @@ Choosing the right ultralight freestanding [dome tent](https://www.amazon.com/s?
 | **Guy Lines and Stakes**| Dyneema/HSSP, Serrated Tips                       |
 | **[Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21)**        | 2.5 inches of closed-cell foam                      |
 | **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**        | Down or synthetic with a fill power of at least 600|
-| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**            | 30-liter capacity, well-padded                     |
+| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**            | 30-liter capacity, well-padded                     |
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Expedition Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)expedition+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -89,7 +89,7 @@ Selecting the right carbon fiber [trekking poles](https://www.amazon.com/s?k=tre
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-This guide serves as a comprehensive resource for choosing the best gear to face the challenges posed by sudden temperature drops in shoulder seasons. Whether you're an experienced mountaineer or a new climber, having reliable trekking poles is essential for navigating the harsh conditions of high-altitude environments.
+This guide serves as a comprehensive resource for choosing the best gear to face the challenges posed by sudden temperature drops in shoulder seasons. Whether you're an experienced mountaineer or a new climber, having reliable [trekking poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for navigating the harsh conditions of high-altitude environments.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Cook Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

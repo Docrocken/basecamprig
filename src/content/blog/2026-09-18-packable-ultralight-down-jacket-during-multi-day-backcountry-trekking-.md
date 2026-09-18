@@ -75,7 +75,7 @@ Consider a multi-day trek in the High Sierra. The forecast predicts temperatures
 
 > **Field Rig Pick:** For harsh field exposure, verified [First Aid Kit]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)first+aid+kit+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-- **Daytime Conditions**: With moderate activity, a down jacket rated for -20°F (-29°C) might be sufficient.
+- **Daytime Conditions**: With moderate activity, a [down jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) rated for -20°F (-29°C) might be sufficient.
 - **Night Time Conditions**: For overnight stays, an additional insulating layer or a [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) rated for 15°F (-9°C) would ensure warmth through the coldest nights.
 
 ## Conclusion

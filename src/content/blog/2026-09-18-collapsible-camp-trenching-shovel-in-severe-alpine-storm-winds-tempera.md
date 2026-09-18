@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In the realm of alpine mountaineering and expeditionary camping, a reliable and versatile tool is paramount. The collapsible camp trenching shovel stands as a crucial piece of gear for creating shelters and improving terrain accessibility. This guide delves into the technical specifications and performance metrics of such shovels in the context of extreme weather conditions, particularly severe alpine storm winds.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

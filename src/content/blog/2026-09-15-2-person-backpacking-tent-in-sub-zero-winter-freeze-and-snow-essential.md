@@ -65,7 +65,7 @@ Proper food storage is essential in cold conditions. A bear bag or airtight cont
 ### Lighting
 A reliable light source is necessary for setting up camp, cooking, and navigating around the basecamp at night. Headlamps are preferred over flashlights due to their hands-free operation.
 
-- **Battery Life**: Opt for [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) with long battery life or rechargeable batteries.
+- **Battery Life**: Opt for [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) with long battery life or rechargeable batteries.
 - **Light Output**: Choose models with high-lumen output (at least 200 lumens) and multiple brightness settings.
 
 ### Water Filtration

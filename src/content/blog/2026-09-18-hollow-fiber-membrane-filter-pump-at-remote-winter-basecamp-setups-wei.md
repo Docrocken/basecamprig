@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In remote winter basecamp setups, the challenge of ensuring a steady supply of clean drinking water is paramount. Traditional filtration methods like chemical tablets or gravity filter systems are often heavy and cumbersome for such expeditions. This guide explores how hollow fiber membrane filters can optimize weight while maintaining safety and efficiency, focusing on their application in winter camping scenarios.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Camp Axe](https://www.amazon.com/s?k=camp+axe+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
@@ -63,6 +66,9 @@ Boiling water is another method for ensuring safety but is time-consuming and fu
 ## Conclusion: Optimizing Weight without Compromising Safety
 
 In summary, hollow fiber membrane filters provide a robust yet lightweight solution for maintaining water safety in remote winter basecamp setups. Their high filtration efficiency, combined with reliable performance in cold conditions, makes them an indispensable part of any expedition gear. Proper integration and maintenance ensure that these filters remain effective tools for ensuring a steady supply of clean drinking water during the harshest outdoor conditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

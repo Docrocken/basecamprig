@@ -58,6 +58,9 @@ A well-thought-out layering strategy is crucial when facing unpredictable should
 3. **Outer Shell Jacket**: A [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) or parka with integrated thermal panels in the hood and torso.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Backpacking Stove](https://www.amazon.com/s?k=backpacking+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

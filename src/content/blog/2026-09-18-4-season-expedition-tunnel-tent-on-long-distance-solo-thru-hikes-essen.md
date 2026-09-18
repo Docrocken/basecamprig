@@ -40,7 +40,7 @@ A durable backpack is essential for carrying your gear. Look for one that has mu
 
 | Item | Specification |
 |------|--------------|
-| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)** | 50L capacity, waterproof exterior, hip belt with quick release |
+| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)** | 50L capacity, waterproof exterior, hip belt with quick release |
 
 ### Footwear and Clothing Layering System
 Proper footwear is crucial in cold weather. Choose boots with good insulation, water resistance, and ankle support. A layering system including a hardshell jacket, mid-layer, and base layers will help manage body heat effectively.
@@ -56,7 +56,7 @@ A reliable headlamp is essential for night navigation. Ensure it has at least 20
 
 | Item | Specification |
 |------|--------------|
-| **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)** | 300 lumens, rechargeable lithium-ion battery, adjustable beam |
+| **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)** | 300 lumens, rechargeable lithium-ion battery, adjustable beam |
 
 ## Modular Rig Configuration
 ### Setting Up the Tent
@@ -71,7 +71,7 @@ Secure your gear using the tether points on the tent for added safety. This incl
 
 | Item | Tether Point Location |
 |------|---------------------|
-| **Sleeping Bag** | Top center of the tunnel |
+| **[Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)** | Top center of the tunnel |
 | **Backpack** | Side corners of the tunnel |
 | **[Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) and Stove** | Rear tether points |
 
@@ -110,4 +110,4 @@ A headlamp and an extra set of batteries are necessary for night-time navigation
 ### Conclusion
 The 4-season expedition tunnel tent is a cornerstone of long-distance solo thru-hikes. By carefully selecting essential accessories and configuring your modular rig effectively, you can enhance the comfort and safety of your journey in diverse weather conditions.
 
-This guide provides a comprehensive approach to setting up and using a 4-season tunnel tent, ensuring that you are well-equipped for any challenge on the trail.
+This guide provides a comprehensive approach to setting up and using a 4-season [tunnel tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21), ensuring that you are well-equipped for any challenge on the trail.

@@ -27,7 +27,7 @@ To maintain comfort during prolonged exposure to wet weather:
 Proper ventilation is crucial to avoid mold growth and maintain airflow, reducing the risk of dampness:
 
 - **Ventilated Hammock Sling:** Consider using a hammock with built-in ventilation slits or additional mesh panels for better air circulation.
-- **Underquilt:** An underquilt can be used to insulate from below, preventing moisture from seeping through the ground and keeping your sleeping bag dry.
+- **Underquilt:** An underquilt can be used to insulate from below, preventing moisture from seeping through the ground and keeping your [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) dry.
 
 ### 4. Ground Protection
 Effective ground protection is essential to keep the hammock system stable and prevent it from being dragged into mud or water:
@@ -65,6 +65,9 @@ A modular rig allows for flexibility in setting up your camping hammock system b
 | Insulated Foot Pouch| R-value: 3.8, Warmth retention                                                                |
 | Ground Tarp         | Hydrostatic Head: 6000 mm, Polyethylene material                                             |
 | Ventilated Hammock Sling | Slits for air circulation, breathable mesh panels                                            |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

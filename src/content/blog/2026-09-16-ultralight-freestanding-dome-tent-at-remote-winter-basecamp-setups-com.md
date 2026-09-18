@@ -75,7 +75,7 @@ This guide provides a detailed breakdown of the key features and materials neede
 > **Field Rig Pick:** When operating in these environments, reliable [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

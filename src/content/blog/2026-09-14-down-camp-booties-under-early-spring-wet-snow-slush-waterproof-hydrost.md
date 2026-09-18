@@ -54,10 +54,10 @@ The following table provides a comparative analysis of four down camp booties ba
 | Brand W             | 15,000                | 32,000                           | 700             | 6.8     | -                      | 900           | Outdoor Explorers |
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 ### Core Gear Recommendations
 Based on the above evaluation and field tests, here are four core down camp booties suitable for early spring wet snow slush conditions:
