@@ -24,7 +24,7 @@ Merino wool is a preferred material for base layers in such environments due to 
 ### Layering System
 A layering system is crucial in desert canyon environments. The base layer should be worn next to the skin, followed by a mid-layer for additional insulation, and finally, an outer shell or hardshell jacket for protection against wind and light precipitation.
 
-1. **Base Layer (Merino Wool)**: Ensure you have enough [merino wool base layers]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) to manage sweat and maintain warmth during night-time drops.
+1. **Base Layer ([Merino Wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21))**: Ensure you have enough [merino wool base layers]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) to manage sweat and maintain warmth during night-time drops.
 2. **Mid-Layer**: A synthetic insulator like Polartec® or Primaloft® can provide extra insulation when needed, especially in colder conditions.
 3. **Outer Shell**: A [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) made from Gore-Tex® or similar membranes will protect you from sudden rain or snow.
 
@@ -52,7 +52,7 @@ Bring plenty of water, and use a portable water filter like the Sawyer SP10 to e
 
 ## Case Study: Real-World Application
 
-During a recent expedition in the Death Valley National Park, participants used merino wool base layers to successfully navigate through freezing night temperatures after prolonged exposure to desert heat. The combination of a lightweight [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) and a weather-resistant hardshell jacket ensured that all team members stayed warm throughout their overnight stay.
+During a recent expedition in the Death Valley National Park, participants used [merino wool base layers](https://www.amazon.com/s?k=merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) to successfully navigate through freezing night temperatures after prolonged exposure to desert heat. The combination of a lightweight [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) and a weather-resistant [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) ensured that all team members stayed warm throughout their overnight stay.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

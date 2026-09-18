@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In remote winter basecamp setups, the challenge of ensuring a steady supply of clean drinking water is paramount. Traditional filtration methods like chemical tablets or gravity filter systems are often heavy and cumbersome for such expeditions. This guide explores how hollow fiber membrane filters can optimize weight while maintaining safety and efficiency, focusing on their application in winter camping scenarios.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Axe](https://www.amazon.com/s?k=camp+axe+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool Base Layer]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown: Hollow Fiber Membrane Filters
@@ -62,9 +65,15 @@ Boiling water is another method for ensuring safety but is time-consuming and fu
 In summary, hollow fiber membrane filters provide a robust yet lightweight solution for maintaining water safety in remote winter basecamp setups. Their high filtration efficiency, combined with reliable performance in cold conditions, makes them an indispensable part of any expedition gear. Proper integration and maintenance ensure that these filters remain effective tools for ensuring a steady supply of clean drinking water during the harshest outdoor conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hot Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hot+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By choosing hollow fiber membrane filter pumps like the **WaterToGo Traveler 3+**, adventurers can optimize their load while maintaining safety standards, making them well-equipped to handle any winter camping challenges.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Dome Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dome+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

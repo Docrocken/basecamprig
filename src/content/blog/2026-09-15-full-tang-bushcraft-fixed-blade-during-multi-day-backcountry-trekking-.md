@@ -33,7 +33,7 @@ Packing your full-tang bushcraft fixed blade for a multi-day trekking adventure 
 
 - **Labeling**: Clearly label the knife with your name or an identifying mark.
 - **Sheath Selection**: Choose a sheath that fits securely yet allows for easy access, ideally one made from durable materials like Kydex or leather.
-- **Attachment Points**: Securely attach the sheath to your belt using [paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) or a belt clip. Ensure it is positioned where you can quickly draw it but will not interfere with movement.
+- **Attachment Points**: Securely attach the sheath to your belt using [paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) or a belt clip. Ensure it is positioned where you can quickly draw it but will not interfere with movement.
 
 ### Field Protocols
 

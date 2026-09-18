@@ -20,7 +20,7 @@ Selecting the right materials is crucial for maintaining warmth and dryness duri
 ### 2. Insulation and Warmth
 To maintain comfort during prolonged exposure to wet weather:
 
-- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) Liner:** Use a lightweight, synthetic or down sleeping bag liner with a fill power of at least 550 to provide an additional layer of insulation.
+- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) Liner:** Use a lightweight, synthetic or down [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) liner with a fill power of at least 550 to provide an additional layer of insulation.
 - **Insulated Foot Pouch:** A waterproof insulated foot pouch can help retain body heat and prevent cold feet.
 
 ### 3. Ventilation and Moisture Management
@@ -67,12 +67,18 @@ A modular rig allows for flexibility in setting up your camping hammock system b
 | Ventilated Hammock Sling | Slits for air circulation, breathable mesh panels                                            |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Satellite Communicator]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)satellite+communicator+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Conclusion
 Setting up a portable hammock system during torrential continuous rain requires careful consideration of materials and setup techniques to ensure comfort, safety, and functionality. By choosing the right components and configuring them effectively, you can enjoy comfortable camping in even the most challenging weather conditions.
 
 This guide provides an in-depth technical breakdown for outdoor enthusiasts who wish to explore the benefits of hammock camping during heavy rains, ensuring that your gear is ready for any weather.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Outdoor Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)outdoor+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

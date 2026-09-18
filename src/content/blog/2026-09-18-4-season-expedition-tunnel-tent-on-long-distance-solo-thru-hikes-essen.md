@@ -40,7 +40,7 @@ A durable backpack is essential for carrying your gear. Look for one that has mu
 
 | Item | Specification |
 |------|--------------|
-| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)** | 50L capacity, waterproof exterior, hip belt with quick release |
+| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)** | 50L capacity, waterproof exterior, hip belt with quick release |
 
 ### Footwear and Clothing Layering System
 Proper footwear is crucial in cold weather. Choose boots with good insulation, water resistance, and ankle support. A layering system including a hardshell jacket, mid-layer, and base layers will help manage body heat effectively.

@@ -72,7 +72,10 @@ Choosing the right ultralight freestanding dome tent is crucial for setting up a
 This guide provides a detailed breakdown of the key features and materials needed for an ultralight freestanding [dome tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dome+tent+outdoor+gear&tag=basecamprig-21) suitable for remote winter basecamp setups. It aims to equip outdoor enthusiasts with the knowledge necessary to make informed decisions when selecting their equipment.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

@@ -54,8 +54,11 @@ A properly fitting base layer ensures maximum insulation without restricting mov
 A well-thought-out layering strategy is crucial when facing unpredictable shoulder-season weather. Here’s a typical setup:
 
 1. **Innermost Base Layer**: A lightweight [merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) t-shirt for initial warmth.
-2. **Midweight Thermal Layer**: An additional merino wool garment to provide extra insulation during activity breaks.
+2. **Midweight Thermal Layer**: An additional [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) garment to provide extra insulation during activity breaks.
 3. **Outer Shell Jacket**: A [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) or parka with integrated thermal panels in the hood and torso.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Backpacking Stove](https://www.amazon.com/s?k=backpacking+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -76,6 +79,9 @@ A well-chosen merino wool thermal base layer can be a game changer in unpredicta
 ---
 
 This comprehensive guide provides the necessary technical breakdown and field analysis to help adventurers make informed decisions about their thermal base layers during shoulder-season outdoor activities.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool Base Layer]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

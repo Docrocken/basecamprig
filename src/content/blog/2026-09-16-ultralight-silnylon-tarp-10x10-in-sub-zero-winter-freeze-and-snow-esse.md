@@ -48,14 +48,14 @@ The ultralight [silnylon tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+
 
 ### Sleeping Arrangements
 
-- **[Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21)**: Use an insulated sleeping pad with a thickness of at least 3 inches (7.6cm) and an R-value of 5.
+- **[Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21)**: Use an insulated [sleeping pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) with a thickness of at least 3 inches (7.6cm) and an R-value of 5.
 - **Additional Layers**: Include a [down jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) and extra insulation layers for warmth, particularly around the head and torso areas where heat loss is highest.
 
 ## Essential Accessories
 
 ### Lighting and Power
 
-- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: Choose a high-efficiency LED model with at least 200 lumens. Lithium-ion batteries are preferable due to their cold resistance.
+- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: Choose a high-efficiency LED model with at least 200 lumens. Lithium-ion batteries are preferable due to their cold resistance.
 - **Batteries**: Use lithium-ion rechargeable batteries for headlamps, [power banks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21), and any other electronic devices.
 
 ### Stoves and Cooking

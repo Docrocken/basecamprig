@@ -71,6 +71,9 @@ Choosing and maintaining breathable trail running shoes for torrential continuou
 For additional support, consider consulting with outdoor gear experts or reviewing detailed product reviews to find the best options for your specific needs.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Camp Stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

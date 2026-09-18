@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 In the realm of fast-and-light packrafting expeditions, selecting appropriate gear is paramount for both performance and comfort. One key piece of equipment that significantly impacts your overall experience in harsh outdoor environments is a full-tang bushcraft fixed blade knife. This guide will delve into the technical aspects and considerations necessary to ensure you have the best tool for the job.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Core Objectives
 
@@ -52,7 +52,7 @@ G-10 composite offers high breathability, preventing the build-up of moisture an
 
 For true comfort limits in colder conditions, an additional layer of insulation is necessary. A high-fill-power down [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) is recommended:
 
-- **Sleeping Bag Specifications:** Down fill power 650+; Hydrostatic head 750 mm; Temperature rating -10°C to +20°C.
+- **[Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) Specifications:** Down fill power 650+; Hydrostatic head 750 mm; Temperature rating -10°C to +20°C.
 
 The hydrostatic head measures the fabric's ability to repel water, ensuring that moisture does not dampen the insulation. The temperature rating provides a clear indication of comfort limits under typical conditions.
 
@@ -74,11 +74,11 @@ For fast-and-light packrafting expeditions, selecting the right full-tang bushcr
 
 - **Tents:** Lightweight and waterproof tents for shelter.
 - **Boots:** Insulated and moisture-wicking [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) to protect feet.
-- **Hardshell Jackets:** High-quality hardshells with durable water repellency (DWR) to keep dry.
+- **[Hardshell Jackets](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21):** High-quality hardshells with durable water repellency (DWR) to keep dry.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** Compact and efficient stoves for cooking.
 - **Sleeping Bags:** High-fill-power down sleeping bags with appropriate temperature ratings.
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21):** Lightweight, packraft-compatible backpacks designed for fast-and-light travel.
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21):** LED headlamps with good battery life for night navigation.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** Lightweight, packraft-compatible backpacks designed for fast-and-light travel.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** LED headlamps with good battery life for night navigation.
 - **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21):** Portable water filters to ensure safe drinking water.
 
 By integrating these recommendations and understanding the technical aspects of your gear, you can tailor your equipment list to meet the true comfort limits required for a successful packrafting expedition.

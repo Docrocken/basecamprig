@@ -33,12 +33,18 @@ Insulation plays a crucial role in maintaining heat retention during rain. A lay
 | **Weight**             | 350 grams                 |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Hydrostatic Head and Breathability
 The hydrostatic head of the outer layer fabric is set at 15,000 mm. This ensures that even during torrential rain, the pot remains waterproof. The inner liner made from stainless steel guarantees durability against corrosion and wear.
 
 Breathability in this context means minimizing condensation buildup inside the pot while maintaining a watertight exterior. To achieve this, the outer layer uses a breathable membrane integrated into the 600D polyester fabric. This allows moisture to escape outwardly, preventing internal fogging and ensuring better thermal performance.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [First Aid Kit]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)first+aid+kit+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -74,6 +80,9 @@ The insulated titanium cook pot designed for use during torrential continuous ra
 - **Sleeping Bags:** Down sleeping bags with a 750 fill power and R-value of at least 4.0 to provide adequate insulation in damp environments.
 
 By integrating these recommendations into your outdoor setup, you can ensure that all components work harmoniously to enhance both safety and functionality during torrential rain conditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool Base Layer]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

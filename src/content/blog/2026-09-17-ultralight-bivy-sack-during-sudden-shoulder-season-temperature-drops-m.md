@@ -67,6 +67,9 @@ Shoulder seasons often feature rapid changes in temperature due to varying cloud
 | Weight (without insulation layer) | 250g                    | Not Applicable           |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Expedition Tent](https://www.amazon.com/s?k=expedition+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

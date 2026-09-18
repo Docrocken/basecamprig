@@ -16,7 +16,7 @@ Packrafting is an exhilarating form of adventure travel that requires specialize
 
 ## Hydrostatic Head Test
 
-The hydrostatic head test measures how well a fabric repels water by simulating rainfall under controlled conditions. For packrafting, it is essential that hiking socks maintain their integrity during prolonged exposure to wet environments such as river crossings and rainy weather. 
+The hydrostatic head test measures how well a fabric repels water by simulating rainfall under controlled conditions. For packrafting, it is essential that [hiking socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) maintain their integrity during prolonged exposure to wet environments such as river crossings and rainy weather. 
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Rain Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -50,7 +50,7 @@ Socks with an abrasion resistance of at least 30,000 cycles can endure the const
 
 | Material   | Specification       |
 |------------|---------------------|
-| Merino Wool| 210 Denier          |
+| [Merino Wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21)| 210 Denier          |
 | Moisture Management | High breathability, rapid evaporation of sweat |
 | Insulation | R-value of 2.5      |
 | Fill Power | 400                |

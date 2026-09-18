@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to Bivy Sacks for Multi-Day Hiking
 
-When undertaking multi-day backcountry treks, a reliable [bivy sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) is an essential piece of gear. This guide focuses on the long-term durability and performance characteristics of ultralight bivy sacks during harsh outdoor conditions.
+When undertaking multi-day backcountry treks, a reliable [bivy sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) is an essential piece of gear. This guide focuses on the long-term durability and performance characteristics of ultralight [bivy sacks](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) during harsh outdoor conditions.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Tunnel Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -117,7 +117,7 @@ Ultralight bivy sacks are highly durable and effective tools for multi-day backc
 | C         | 35D nylon, 2800 mm H2O | 700 fill power down, 1.9 (40% synthetic) | Hybrid webbing loops and Velcro straps |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This guide provides a comprehensive technical analysis for outdoor enthusiasts seeking reliable ultralight bivy sacks during multi-day backcountry treks in harsh conditions.
 

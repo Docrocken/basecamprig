@@ -16,7 +16,7 @@ Fast-and-light (F&L) packrafting involves the use of lightweight inflatable raft
 
 ## Paracord Overview
 
-[Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21), also known as parachute cord or 550 cord, is a nylon kernmantle rope used primarily for military applications but increasingly popular among outdoor enthusiasts. Its core structure consists of several strands of nylon yarn wrapped around a central core, providing high tensile strength while maintaining flexibility and durability.
+[Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), also known as parachute cord or 550 cord, is a nylon kernmantle rope used primarily for military applications but increasingly popular among outdoor enthusiasts. Its core structure consists of several strands of nylon yarn wrapped around a central core, providing high tensile strength while maintaining flexibility and durability.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -89,8 +89,8 @@ The use of high-quality paracord in ridge line construction and durable material
 - **Boots**: Sturdy waterproof boots with Gore-Tex or similar breathable membranes.
 - **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: High-performance jackets made from materials like Pertex Shield with a minimum R-value of 1.5 for cold weather conditions.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: Lightweight stoves that can be easily packed and used in wet conditions, such as Jetboil or MSR WhisperLite.
-- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Down-filled sleeping bags with a fill power of at least 700 to ensure warmth and packability.
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: Ultra-light backpacks made from materials like Dyneema for minimal weight.
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: LED headlamps with rechargeable batteries and durable cases.
+- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Down-filled [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) with a fill power of at least 700 to ensure warmth and packability.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: Ultra-light backpacks made from materials like Dyneema for minimal weight.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: LED headlamps with rechargeable batteries and durable cases.
 
 By incorporating these technical considerations, adventurers can significantly enhance the performance and durability of their F&L packrafting setup, ensuring a safer and more enjoyable expedition in challenging conditions.
