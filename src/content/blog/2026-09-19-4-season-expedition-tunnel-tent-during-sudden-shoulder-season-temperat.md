@@ -81,8 +81,8 @@ For comprehensive gear selection:
 - **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** A reliable outer layer for additional protection against wind and rain.
 - **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Choose a high-fill-power bag rated for the coldest expected temperatures.
 - **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** For heating up food or water in cold weather.
-- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21):** Comfortable, well-insulated to carry gear comfortably.
-- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21):** Essential for nighttime setup and navigation.
+- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** Comfortable, well-insulated to carry gear comfortably.
+- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** Essential for nighttime setup and navigation.
 - **[Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21):** To ensure a safe supply of drinking water.
 
 By carefully selecting the right tent and complementary gear, you can enhance your expedition experience during unpredictable shoulder seasons.

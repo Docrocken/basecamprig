@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 When choosing outdoor gear in torrential continuous rain scenarios, the key lies in balancing packability, ultralight weight, and performance. A [down jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) is an excellent choice due to its high warmth-to-weight ratio, but the specific material properties must be carefully considered to ensure it can withstand heavy precipitation without losing functionality.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Cook Pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool Base Layer]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Membrane Breathability vs Wind Resistance
@@ -57,7 +60,7 @@ For an ultralight down jacket designed for torrential continuous rain:
 In torrential rain, layering is essential to maintain body temperature efficiently. The ultralight down jacket should be part of a layered system:
 
 - **Base Layer**: Moisture-wicking synthetic or [merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) base layers.
-- **Mid Layer**: Down jacket for warmth retention and breathability.
+- **Mid Layer**: [Down jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) for warmth retention and breathability.
 - **Outer Shell**: [Hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) for ultimate waterproofing.
 
 ### Additional Gear
@@ -76,6 +79,9 @@ Selecting an ultralight down jacket that balances breathability and wind resista
 ---
 
 This guide provides detailed insights into selecting an ultralight down jacket for torrential rain, focusing on the critical aspects of breathability and wind resistance. By understanding these specifications and considerations, outdoor enthusiasts can make smarter choices that enhance their overall experience in challenging weather conditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

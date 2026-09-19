@@ -60,6 +60,9 @@ The polyester coating on the shell material offers a hydrostatic head rating of 
 | **Connectors**         | Rugged nylon quick-release       |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Rain Jacket](https://www.amazon.com/s?k=rain+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Poles]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+poles+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Application in Outdoor Scenarios

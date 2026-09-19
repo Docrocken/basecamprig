@@ -23,7 +23,7 @@ When rain falls on a surface, it either absorbs into materials or runs off them 
 
 ### Hydrostatic Head
 
-The hydrostatic head measures how many millimeters of water a fabric can withstand before it starts to leak through. For outdoor gear, a high hydrostatic head is desirable as it indicates better waterproofing. Commonly used in [rain jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21), the hydrostatic head for breathable trail running shoes should be at least 1500mm.
+The hydrostatic head measures how many millimeters of water a fabric can withstand before it starts to leak through. For outdoor gear, a high hydrostatic head is desirable as it indicates better waterproofing. Commonly used in [rain jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21), the hydrostatic head for breathable [trail running shoes](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21) should be at least 1500mm.
 
 ### Breathability Metrics
 
@@ -66,8 +66,8 @@ The inner liner should be made from moisture-wicking materials to draw sweat awa
 In a basecamp scenario, integrating this shoe into a comprehensive outdoor setup is essential. Key components include:
 
 - **Tents and [Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Ensure you have waterproof tents to protect your gear from rain. Sleeping bags should be rated appropriately for the expected environmental conditions.
-- **Boots and Footwear:** Use waterproof [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) or [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) if needed, depending on trail conditions.
-- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** For additional protection, a hardshell jacket can provide extra coverage when you are not actively running.
+- **Boots and Footwear:** Use waterproof [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) or [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) if needed, depending on trail conditions.
+- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** For additional protection, a [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) can provide extra coverage when you are not actively running.
 
 ### Maintenance
 

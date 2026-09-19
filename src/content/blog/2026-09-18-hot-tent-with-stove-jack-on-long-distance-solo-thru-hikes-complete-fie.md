@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 For long-distance solo thru-hikers, selecting a tent that accommodates both a stove jack for warmth while also providing adequate ventilation is crucial. A robust and well-designed tent can significantly enhance your comfort during overnight stays in harsh outdoor conditions. This guide delves into the technical aspects of choosing a [hot tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hot+tent+outdoor+gear&tag=basecamprig-21) with a stove jack suitable for extended solo hiking.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Key Considerations
@@ -41,6 +44,9 @@ The tent should be able to withstand various weather conditions, including heavy
 | R-value                  | 2.0                                     |
 | Breathability            | 25,000 g/m²/24h                          |
 | Weather Resistance       | Hydrostatic head: 6000 mm; PU coating    |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -80,7 +86,10 @@ Staying hydrated is essential, especially when hiking at high altitudes where na
 
 ## Conclusion
 
-Selecting a hot tent with a stove jack for long-distance solo thru-hikes requires careful consideration of multiple factors, including temperature rating, ventilation system, insulation, breathability, and weather resistance. By choosing high-quality materials and thoughtful design features, you can ensure a comfortable and safe overnight stay during your journey.
+Selecting a [hot tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) with a stove jack for long-distance solo thru-hikes requires careful consideration of multiple factors, including temperature rating, ventilation system, insulation, breathability, and weather resistance. By choosing high-quality materials and thoughtful design features, you can ensure a comfortable and safe overnight stay during your journey.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Bear Canister]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bear+canister+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

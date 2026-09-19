@@ -71,4 +71,7 @@ Choosing and maintaining an ultralight synthetic sleeping bag is crucial for lon
 By adhering to these guidelines, you can ensure that your ultralight synthetic [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) remains a reliable and comfortable companion on any long-distance solo thru-hike.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Down Quilt]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+quilt+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

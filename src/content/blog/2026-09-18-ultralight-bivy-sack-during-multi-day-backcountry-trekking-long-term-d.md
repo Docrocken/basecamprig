@@ -16,7 +16,7 @@ When undertaking multi-day backcountry treks, a reliable [bivy sack]([https://ww
 
 ## Key Components of a Bivy Sack
 
-A bivy sack primarily consists of three key components: the shell fabric, the liner, and the suspension system.
+A [bivy sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) primarily consists of three key components: the shell fabric, the liner, and the suspension system.
 
 ### Shell Fabric
 The shell is what protects you from the elements. It must be both lightweight and durable to withstand repeated use in varied conditions.
@@ -117,7 +117,7 @@ Ultralight bivy sacks are highly durable and effective tools for multi-day backc
 | C         | 35D nylon, 2800 mm H2O | 700 fill power down, 1.9 (40% synthetic) | Hybrid webbing loops and Velcro straps |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This guide provides a comprehensive technical analysis for outdoor enthusiasts seeking reliable ultralight bivy sacks during multi-day backcountry treks in harsh conditions.
 

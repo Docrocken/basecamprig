@@ -72,7 +72,7 @@ Proper use of the gravity filter ensures optimal performance:
 3. **Flow Control**: Adjust flow rates by controlling the input water volume; faster flow can lead to clogging and reduced filtration efficiency.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Rain Jacket](https://www.amazon.com/s?k=rain+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

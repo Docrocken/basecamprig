@@ -61,7 +61,7 @@ A modular rig allows for flexibility in setting up your camping hammock system b
 |---------------------|---------------------------------------------------------------------------------------------|
 | Rain Fly            | Hydrostatic Head: 6000 mm, Breathable material                                               |
 | Hammock Fabric      | Denier: 1600D, Polyester or nylon with UV protection                                        |
-| Sleeping Bag Liner  | Fill Power: 550, Synthetic or down insulator                                                 |
+| [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) Liner  | Fill Power: 550, Synthetic or down insulator                                                 |
 | Insulated Foot Pouch| R-value: 3.8, Warmth retention                                                                |
 | Ground Tarp         | Hydrostatic Head: 6000 mm, Polyethylene material                                             |
 | Ventilated Hammock Sling | Slits for air circulation, breathable mesh panels                                            |

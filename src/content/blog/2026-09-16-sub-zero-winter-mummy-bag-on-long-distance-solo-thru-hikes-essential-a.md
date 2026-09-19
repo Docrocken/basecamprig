@@ -95,7 +95,7 @@ This guide provides the technical foundation for configuring an effective sub-ze
 > **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

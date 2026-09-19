@@ -60,6 +60,9 @@ For clean drinking water, a portable water filter such as the MSR Guardian or Ka
 | **Compartments** | 3 main compartments (2 large and 1 small), multiple external attachment points for gear |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Folding Saw]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)folding+saw+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Conclusion

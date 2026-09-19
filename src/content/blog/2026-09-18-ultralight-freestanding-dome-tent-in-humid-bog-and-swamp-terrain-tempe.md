@@ -18,6 +18,9 @@ The hydrostatic head rating measures a fabric’s water resistance, indicating h
 Breathability, on the other hand, is vital for managing condensation and body heat. A highly breathable tent fabric allows moisture vapor to escape, preventing condensation from building up inside the tent. Look for a fabric with a breathability rating of 10,000+ g/m²/24h.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Fabric Denier
@@ -62,9 +65,15 @@ Selecting the right ultralight freestanding dome tent for humid bog and swamp te
 | Temperature Rating       | -7°C to -26°C with wind chill             |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hammock System]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hammock+system+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By adhering to these specifications and testing the tent in a variety of conditions, you can ensure that your ultralight freestanding [dome tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dome+tent+outdoor+gear&tag=basecamprig-21) performs optimally in humid bog and swamp environments.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Down Jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

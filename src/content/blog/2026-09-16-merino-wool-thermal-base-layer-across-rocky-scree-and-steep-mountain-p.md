@@ -36,6 +36,9 @@ Breathability is another critical factor when choosing a base layer. Merino wool
 | Breathability      | High                           |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Tunnel Tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

@@ -98,4 +98,4 @@ Effective management of internal condensation is crucial for maintaining the com
 By following these guidelines and utilizing the recommended gear, outdoor adventurers can enhance their comfort and performance during extended backcountry treks.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

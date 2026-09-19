@@ -74,7 +74,7 @@ For additional support, consider consulting with outdoor gear experts or reviewi
 > **Field Rig Pick:** When operating in these environments, reliable [Merino Wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Camp Stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

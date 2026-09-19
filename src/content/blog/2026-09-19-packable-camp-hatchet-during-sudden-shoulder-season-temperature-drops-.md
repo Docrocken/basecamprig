@@ -71,9 +71,15 @@ A packable camp hatchet designed with robust waterproof hydrostatic head and hig
 | **Lanyard Attachment Point** | Integrated loop on the handle |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dry Bag](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Titanium Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)titanium+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This guide aims to equip you with the knowledge needed to select and use a hatchet effectively, ensuring that your outdoor adventures remain safe and enjoyable.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Booties](https://www.amazon.com/s?k=camp+booties+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Dome Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dome+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

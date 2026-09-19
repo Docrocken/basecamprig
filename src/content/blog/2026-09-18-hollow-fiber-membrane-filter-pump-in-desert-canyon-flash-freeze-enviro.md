@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In desert canyon environments characterized by extreme diurnal temperature fluctuations and flash-freeze events, maintaining a reliable supply of potable water is critical for outdoor expeditions. Traditional water filtration methods often struggle with performance under such harsh conditions. This guide explores the design, implementation, and optimization of hollow fiber membrane filter pumps in these challenging terrains.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Saw](https://www.amazon.com/s?k=camp+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Dry Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dry+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Engineering Specifications
@@ -66,6 +69,9 @@ Field testing was conducted in various desert canyon environments to validate pe
 The hollow fiber membrane filter pump, optimized for desert canyon flash-freeze environments, represents a significant advancement in outdoor water filtration technology. By balancing performance with lightweight design, it ensures safe and reliable access to potable water, even under the most challenging conditions. This guide provides a comprehensive overview of its specifications, implementation strategies, and integration into various expedition gear, enabling users to make informed decisions for their next adventure.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [First Aid Kit](https://www.amazon.com/s?k=first+aid+kit+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Power Bank]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ---
@@ -73,4 +79,7 @@ The hollow fiber membrane filter pump, optimized for desert canyon flash-freeze 
 This technical field guide offers detailed insights into the hollow fiber membrane filter pump's design, performance, and practical application in desert canyon environments, ensuring safety and efficiency without compromising on weight optimization.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

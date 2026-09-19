@@ -76,6 +76,9 @@ In torrential continuous rain conditions, both membrane breathability and wind r
 By understanding the engineering specs and practical implications, outdoor enthusiasts can make informed decisions to enhance their gear's performance in extreme weather conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Cook Pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

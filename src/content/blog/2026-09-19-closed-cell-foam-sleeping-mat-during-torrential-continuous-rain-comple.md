@@ -52,6 +52,9 @@ The inner layer provides crucial insulation from the ground.
 | Breathability        | Optional but recommended for comfort                     |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Field Selection and Usage
@@ -79,6 +82,9 @@ The inner layer provides crucial insulation from the ground.
 Selecting a closed-cell foam sleeping mat that can withstand torrential continuous rain requires careful consideration of its specifications. By ensuring high hydrostatic head, durable materials, sufficient insulation, and additional features like breathability, you can significantly enhance your comfort and safety in challenging outdoor conditions. Always complement the mat with proper tent setup and personal gear to create a robust and dry microenvironment for rest.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hammock System]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hammock+system+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ---
@@ -86,4 +92,7 @@ Selecting a closed-cell foam sleeping mat that can withstand torrential continuo
 This guide provides detailed insights into selecting and using a sleeping mat during torrential rain, ensuring that even in harsh weather, you maintain a comfortable and safe sleep environment.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

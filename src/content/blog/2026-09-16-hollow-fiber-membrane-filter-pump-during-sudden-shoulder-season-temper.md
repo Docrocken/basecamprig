@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 Hollow fiber membrane filter pumps have gained significant popularity in outdoor activities due to their efficiency in purifying water from various sources. These systems are particularly useful during sudden shoulder-season temperature drops, where fluctuating weather can affect the performance of traditional filtration methods.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

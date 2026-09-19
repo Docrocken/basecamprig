@@ -36,7 +36,7 @@ Insulation plays a crucial role in maintaining heat retention during rain. A lay
 > **Field Rig Pick:** When operating in these environments, reliable [Trail Running Shoes](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
