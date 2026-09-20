@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 On long-distance solo thru-hikes, maintaining proper stove performance is crucial for food preparation. One of the common issues faced by hikers using liquid fuel stoves involves internal condensation and moisture buildup. This can lead to reduced cooking efficiency, safety hazards, and a generally unpleasant experience. Understanding and addressing this issue requires knowledge of both the mechanics involved and practical solutions.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## The Mechanism of Condensation
 
@@ -35,7 +35,7 @@ Condensation primarily occurs in two areas:
 2. **On the cooking pot walls**: Particularly if the pot is made of metal or has a metallic coating.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Preventing Internal Condensation and Moisture Buildup
 
@@ -46,7 +46,7 @@ To prevent internal condensation, stoves should be designed with materials that 
 - **Thermal Insulation**: Materials with high thermal resistance can help retain heat within the stove.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Material Specifications
 
@@ -68,7 +68,7 @@ Using the right cooking pot can significantly reduce internal condensation:
 - **Thermal Insulation**: Pots made from materials like aluminum or titanium can help retain heat and minimize surface cooling.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Operational Techniques
 

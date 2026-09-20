@@ -61,7 +61,7 @@ On cold, windy nights, wind resistance becomes critical. The SGF mid-layer's tig
 #### Rainy Days
 During rainy conditions, the hydrostatic head of 15,000mm ensures that the SGF mid-layer remains dry on the inside, maintaining its insulating properties.
 
-- **Gear Considerations:** Use a waterproof/breathable [rain jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21) (e.g., Pertex Quantum) and ensure your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is properly sealed to prevent water intrusion into your gear setup.
+- **Gear Considerations:** Use a waterproof/breathable [rain jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21) (e.g., Pertex Quantum) and ensure your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is properly sealed to prevent water intrusion into your gear setup.
 
 ### Conclusion
 

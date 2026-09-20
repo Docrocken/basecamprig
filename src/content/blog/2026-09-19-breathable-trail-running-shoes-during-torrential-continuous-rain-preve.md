@@ -65,8 +65,8 @@ The inner liner should be made from moisture-wicking materials to draw sweat awa
 
 In a basecamp scenario, integrating this shoe into a comprehensive outdoor setup is essential. Key components include:
 
-- **Tents and [Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Ensure you have waterproof tents to protect your gear from rain. Sleeping bags should be rated appropriately for the expected environmental conditions.
-- **Boots and Footwear:** Use waterproof [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) or [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) if needed, depending on trail conditions.
+- **Tents and [Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Ensure you have waterproof tents to protect your gear from rain. [Sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) should be rated appropriately for the expected environmental conditions.
+- **Boots and Footwear:** Use waterproof [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) or [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) if needed, depending on trail conditions.
 - **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** For additional protection, a [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) can provide extra coverage when you are not actively running.
 
 ### Maintenance

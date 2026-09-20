@@ -86,11 +86,11 @@ Choosing a hollow fiber membrane filter pump for sub-zero winter freeze and snow
 
 - **Tents:** Choose tents with good ventilation to prevent condensation buildup inside.
 - **Boots:** Opt for waterproof, breathable boots that can withstand sub-zero temperatures.
-- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** Invest in high-quality hardshell jackets with good wind resistance and insulation.
+- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** Invest in high-quality [hardshell jackets](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) with good wind resistance and insulation.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** Use alcohol-based or pressurized stoves which perform well in cold weather.
-- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Select sleeping bags rated for -20°C to ensure a comfortable night’s sleep.
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21):** Choose backpacks with good ventilation and insulated compartments.
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21):** Invest in headlamps with adjustable brightness settings and good battery life.
+- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Select [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) rated for -20°C to ensure a comfortable night’s sleep.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** Choose backpacks with good ventilation and insulated compartments.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** Invest in headlamps with adjustable brightness settings and good battery life.
 
 By integrating these recommendations with the right hollow fiber membrane filter pump, outdoor adventurers can enjoy clean drinking water even in the harshest of winter conditions.
 

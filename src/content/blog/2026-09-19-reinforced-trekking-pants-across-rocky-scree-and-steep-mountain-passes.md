@@ -16,7 +16,7 @@ When venturing into the rugged terrain of rocky scree and steep mountain passes,
 
 ### Hydrostatic Head Ratings
 
-The **hydrostatic head** rating measures a fabric's ability to repel water. A higher hydrostatic head indicates better water repellency. For trekking pants in rocky scree areas, a minimum hydrostatic head of 15,000 mm is recommended. This ensures that the fabric can withstand heavy rainfall and maintain its breathability.
+The **hydrostatic head** rating measures a fabric's ability to repel water. A higher hydrostatic head indicates better water repellency. For [trekking pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) in rocky scree areas, a minimum hydrostatic head of 15,000 mm is recommended. This ensures that the fabric can withstand heavy rainfall and maintain its breathability.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Folding Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)folding+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -26,7 +26,7 @@ The **hydrostatic head** rating measures a fabric's ability to repel water. A hi
 Abrasion resistance is crucial for protecting against the abrasive nature of rocky surfaces and loose scree. A common test to measure this is the Martindale abrasion test, which subjects a piece of fabric to repeated rubbing with an abrasive surface. For trekking pants, a minimum abrasion count of 20,000 cycles is desirable.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown
 

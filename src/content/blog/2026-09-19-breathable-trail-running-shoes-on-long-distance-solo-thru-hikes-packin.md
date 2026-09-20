@@ -46,7 +46,7 @@ Adopt a layering system to manage moisture and regulate body temperature. Start 
 
 - **Base Layer**: Lightweight, quick-drying socks (e.g., Smartwool PhD Everyday Crew)
 - **Mid-Layer**: Moisture-wicking insoles or foot pads
-- **Outer Layer**: Breathable trail running shoes
+- **Outer Layer**: Breathable [trail running shoes](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21)
 
 ### Maintenance and Care
 Proper maintenance is crucial for extending the life of your shoes. Regularly clean your shoes to remove dirt, mud, and other debris that can damage the fabric and waterproofing.

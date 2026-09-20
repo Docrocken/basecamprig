@@ -18,6 +18,9 @@ The hydrostatic head rating measures a fabric’s water resistance, indicating h
 Breathability, on the other hand, is vital for managing condensation and body heat. A highly breathable tent fabric allows moisture vapor to escape, preventing condensation from building up inside the tent. Look for a fabric with a breathability rating of 10,000+ g/m²/24h.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

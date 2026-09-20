@@ -24,7 +24,7 @@ Breathability is essential for maintaining comfort during physical exertion. The
 ### Knee Patches and Cuff Seams
 The knees are reinforced with **3M Scotchlite knee patches** for added durability. These patches not only protect against abrasion but also provide a reflective safety feature, enhancing visibility in low-light conditions.
 
-Cuff seams are double-stitched to prevent tearing under stress from snow or slush. Additional reinforcement at the cuff ensures that they can be easily adjusted with lace-up [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) without compromising structural integrity.
+Cuff seams are double-stitched to prevent tearing under stress from snow or slush. Additional reinforcement at the cuff ensures that they can be easily adjusted with lace-up [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) without compromising structural integrity.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Backpacking Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+stove+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -67,7 +67,7 @@ Navigating through early spring wet snow slush requires carefully selected and w
 | Knee Patches        | 3M Scotchlite knee patches                                                |
 | Cuff Reinforcement  | Double-stitched with lace-up gaiters support                             |
 
-By adhering to these guidelines and specifications, you can ensure that your trekking pants are up to the task of navigating through wet snow slush, providing both protection and comfort during challenging outdoor activities.
+By adhering to these guidelines and specifications, you can ensure that your [trekking pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) are up to the task of navigating through wet snow slush, providing both protection and comfort during challenging outdoor activities.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

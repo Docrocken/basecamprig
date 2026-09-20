@@ -69,11 +69,11 @@ Tears in your sleeping bag are common when navigating rocky terrains and steep m
 | **3-season 800-fill [down sleeping bag](https://www.amazon.com/s?k=down+sleeping+bag+outdoor+gear&tag=basecamprig-21)**    | Primary warmth source in cold conditions   |
 | **Insulated jacket and pants**            | Additional insulation against the elements |
 | **Waterproof/breathable rain shell**      | Protection from precipitation             |
-| **[Backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) with hydration system**        | Carrying essentials, including extra gear  |
+| **[Backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) with hydration system**        | Carrying essentials, including extra gear  |
 | **Tactical knife or multi-tool**          | Repair tools for minor field maintenance  |
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 By adhering to these guidelines and recommendations, outdoor enthusiasts can maximize the performance and longevity of their 3-season 800-fill [down sleeping bag](https://www.amazon.com/s?k=down+sleeping+bag+outdoor+gear&tag=basecamprig-21) in challenging environments like rocky scree and steep mountain passes.
 

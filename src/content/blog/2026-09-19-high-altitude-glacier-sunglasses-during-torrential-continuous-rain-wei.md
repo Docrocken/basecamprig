@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 Glacier sunglasses are specialized optical equipment designed for use in high-altitude environments where the sun's UV rays are significantly amplified due to thin atmosphere and reflective snow. These sunglasses must provide clear vision, protect against intense sunlight, and maintain comfort during prolonged outdoor activities. The challenge lies in optimizing weight while ensuring safety and functionality under torrential continuous rain conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Cook Pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
@@ -73,6 +76,9 @@ Glacier sunglasses are specialized optical equipment designed for use in high-al
 | UV Protection   | 100% UVA & UVB blockage                                                        |
 | Weight          | Total weight: 25 grams per pair                                                |
 | Impact Resistance| IK07 rating, no damage after dropping from heights of up to 1 meter            |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Backpacking Stove](https://www.amazon.com/s?k=backpacking+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Hot Tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

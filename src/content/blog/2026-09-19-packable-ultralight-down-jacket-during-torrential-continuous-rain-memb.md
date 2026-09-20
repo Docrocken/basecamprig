@@ -78,7 +78,7 @@ Selecting an ultralight down jacket that balances breathability and wind resista
 
 ---
 
-This guide provides detailed insights into selecting an ultralight down jacket for torrential rain, focusing on the critical aspects of breathability and wind resistance. By understanding these specifications and considerations, outdoor enthusiasts can make smarter choices that enhance their overall experience in challenging weather conditions.
+This guide provides detailed insights into selecting an ultralight [down jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) for torrential rain, focusing on the critical aspects of breathability and wind resistance. By understanding these specifications and considerations, outdoor enthusiasts can make smarter choices that enhance their overall experience in challenging weather conditions.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

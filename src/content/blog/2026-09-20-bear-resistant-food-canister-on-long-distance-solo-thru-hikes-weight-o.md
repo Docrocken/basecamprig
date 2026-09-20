@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 For solo hikers undertaking long-distance trails, the weight of gear is a critical factor. Ensuring that all equipment meets the needs of wilderness travel without compromising safety is paramount. One essential piece of kit for many journeys through bear country is a bear-resistant food canister (BRFC). This guide delves into optimizing the design and functionality of such canisters to ensure they provide adequate protection while minimizing overall weight, thus enhancing the solo thru-hiker's experience.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bivy Sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Booties]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+booties+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Key Considerations in Bear Canister Design
@@ -55,6 +58,9 @@ Many bear-resistant containers also incorporate built-in filtration systems to p
 | **Breathability**      | High, requires regular maintenance             | Excellent, reduces moisture buildup         |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Conclusion
@@ -62,7 +68,7 @@ Many bear-resistant containers also incorporate built-in filtration systems to p
 Optimizing the design of a bear-resistant food canister for solo long-distance hikes involves striking a balance between robust protection and weight efficiency. By carefully selecting materials and incorporating features that enhance both safety and usability, hikers can ensure they are well-prepared to face the challenges of wilderness travel while minimizing their load.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 In summary, choosing lightweight yet durable options like the Ursack Flex offers significant advantages in terms of both performance and portability. When combined with other essential gear such as a reliable tent, sturdy boots, and a robust [camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21), solo hikers can embark on their journeys with confidence, knowing they are equipped to handle the unexpected while maintaining peak efficiency.
 

@@ -68,6 +68,9 @@ Managing internal condensation in down camp booties is essential for maintaining
 By carefully selecting and using appropriate gear, you can effectively prevent internal condensation and moisture buildup, enhancing your overall comfort and safety during outdoor activities above the tree line.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

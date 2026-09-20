@@ -25,6 +25,9 @@ The key to success in bog and swamp environments lies in selecting appropriate g
 | Hydrostatic Test       | 10 mm                |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Backpacking Tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

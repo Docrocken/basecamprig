@@ -80,7 +80,7 @@ Consider a multi-day trek in the High Sierra. The forecast predicts temperatures
 
 ## Conclusion
 
-Selecting an ultralight down jacket involves balancing weight, insulation, and breathability to meet the demands of multi-day backcountry trekking. By understanding temperature ratings and considering dynamic conditions, you can choose a jacket that keeps you warm and comfortable throughout your adventure.
+Selecting an ultralight [down jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) involves balancing weight, insulation, and breathability to meet the demands of multi-day backcountry trekking. By understanding temperature ratings and considering dynamic conditions, you can choose a jacket that keeps you warm and comfortable throughout your adventure.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Tunnel Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

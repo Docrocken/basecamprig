@@ -34,6 +34,9 @@ Carbon fiber trekking poles offer a lightweight alternative with enhanced streng
 | Breathability (g/m²/24h) | >10,000                     |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Backpacking Tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Detailed Analysis

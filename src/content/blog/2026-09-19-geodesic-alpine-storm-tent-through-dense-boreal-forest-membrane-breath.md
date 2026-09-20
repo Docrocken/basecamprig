@@ -46,7 +46,7 @@ Wind resistance is vital for maintaining warmth and comfort within the tent, esp
 ### Gear Selection
 When choosing gear for navigating dense boreal forests with a geodesic alpine storm tent, consider the following:
 
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A robust backpack with waterproof compartments is essential. Look for models with internal frames and rain covers.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A robust backpack with waterproof compartments is essential. Look for models with internal frames and rain covers.
 - **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose a [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) rated for cold temperatures (e.g., -20°C) with a high fill power (850+). Down or synthetic insulation are both viable options, depending on the forecast.
 - **Boots**: Waterproof and breathable [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) are crucial. Look for models with GORE-TEX linings to ensure moisture management.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: A reliable [camp stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is necessary for preparing meals in less-than-ideal conditions. Models like the MSR WhisperLite or Jetboil are popular choices.
@@ -59,7 +59,7 @@ Proper setup is key to maximizing both membrane breathability and wind resistanc
 3. **Ventilation Adjustments**: Depending on weather conditions, adjust the number and size of open vents. In cold, windy conditions, minimize vent openings; in warmer, less windy environments, maximize ventilation.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Maintenance
 Regular maintenance is essential for prolonging the life of your geodesic alpine storm tent:

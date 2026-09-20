@@ -39,7 +39,7 @@ In the challenging environments of humid bogs and swamps, a reliable base layer 
 
 3. **Storage:**
    - Store dry in a cool, ventilated area free from dampness and odors.
-   - Use breathable garment bags or allow for air circulation around the garment when stored in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) or other storage container.
+   - Use breathable garment bags or allow for air circulation around the garment when stored in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) or other storage container.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Fleece Hoodie]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)fleece+hoodie+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -92,7 +92,7 @@ In the challenging environments of humid bogs and swamps, a reliable base layer 
    - Trim any excess thread close to the fabric surface for neatness.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Post-Repair Care
 - After repairs are complete, allow the garment to air-dry naturally. Avoid using heat sources that could damage the repaired area.
@@ -103,4 +103,4 @@ In the challenging environments of humid bogs and swamps, a reliable base layer 
 2. **Insulation Layer:** In cold bogs and swamps, consider using a lightweight down or synthetic sleeping bag to retain warmth while camping at night.
 3. **Footwear:** Invest in waterproof boots with good ankle support to protect your feet from wet conditions and prevent additional wear on the lower legs of your base layer.
 
-By following these detailed maintenance and repair procedures, you can ensure that your merino wool thermal base layer remains functional and comfortable during extended periods in humid bog and swamp terrain.
+By following these detailed maintenance and repair procedures, you can ensure that your [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) thermal base layer remains functional and comfortable during extended periods in humid bog and swamp terrain.

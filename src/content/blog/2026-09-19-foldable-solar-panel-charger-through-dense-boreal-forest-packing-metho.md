@@ -67,7 +67,7 @@ Proper handling can avoid unnecessary wear:
 
 | Item                          | Specification                                                        |
 |-------------------------------|----------------------------------------------------------------------|
-| Foldable Solar Panel Charger  | - Power Output: 5W <br> - Battery Capacity: 20,000 mAh <br> - Waterproof Rating: IP67+ <br> - Temperature Range: -40°C to +60°C |
+| Foldable [Solar Panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) Charger  | - Power Output: 5W <br> - Battery Capacity: 20,000 mAh <br> - Waterproof Rating: IP67+ <br> - Temperature Range: -40°C to +60°C |
 | Rain Cover                    | - Hydrostatic Head: 10,000 mm <br> - Material: PTFE-coated nylon <br> - Color: Reflective for added visibility |
 | Insulation Blanket            | - R-value: 2.5 <br> - Fill Power: 650+ <br> - Fabric Type: Down or synthetic |
 | Carabiner Straps              | - Breaking Strength: 5 kN (1,124 lbs) <br> - Material: High-strength nylon |

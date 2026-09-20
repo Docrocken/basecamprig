@@ -67,6 +67,9 @@ The 65L internal frame trekking pack is meticulously engineered with advanced ma
 For those embarking on extended solo journeys, this pack is a reliable companion, designed to withstand the toughest of conditions while ensuring both safety and efficiency.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Backpacking Tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Camp Stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

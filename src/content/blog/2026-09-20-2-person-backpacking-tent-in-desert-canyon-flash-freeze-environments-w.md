@@ -19,7 +19,7 @@ The hydrostatic head is a critical measurement indicating the effectiveness of a
 ### Abrasion Test
 Abrasion resistance ensures that the tent remains intact over long periods and through rough terrain, which is common in desert canyon environments.
 
-- **Abrasion Resistance Testing**: The abrasion test measures how well a fabric resists damage from friction. For a 2-person backpacking tent, a testing method such as the Martindale Abrasion Test can be used to assess fabric durability. A high score on this test (typically above 100,000 cycles) indicates excellent abrasion resistance.
+- **Abrasion Resistance Testing**: The abrasion test measures how well a fabric resists damage from friction. For a 2-person [backpacking tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21), a testing method such as the Martindale Abrasion Test can be used to assess fabric durability. A high score on this test (typically above 100,000 cycles) indicates excellent abrasion resistance.
 
 ### Fabric Specifications
 - **Outer Fabric**: The outer layer of the tent should be made from high-denier nylon or polyester, providing a balance between weight and strength. A denier value around 500 to 700 is common for durable outdoor tents.
@@ -58,11 +58,11 @@ Setting up a tent in flash-freeze environments requires careful planning:
   
 - **Boots**: Properly insulated boots are crucial for warmth in cold conditions. Waterproof membranes like Gore-Tex or eVent can help maintain foot warmth.
 
-- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: Layering with a hardshell jacket provides additional protection from wind chill and unexpected precipitation.
+- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: Layering with a [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) provides additional protection from wind chill and unexpected precipitation.
 
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: A compact, reliable stove is necessary for cooking meals and warming up gear before setting up camp.
 
-- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose sleeping bags rated for 0°F (-18°C) or colder to ensure warmth in freezing conditions. Down fill provides better insulation than synthetic when wet.
+- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) rated for 0°F (-18°C) or colder to ensure warmth in freezing conditions. Down fill provides better insulation than synthetic when wet.
 
 - **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: High-quality headlamps with at least 200 lumens are essential for setting up and maintaining visibility during low-light conditions.
 

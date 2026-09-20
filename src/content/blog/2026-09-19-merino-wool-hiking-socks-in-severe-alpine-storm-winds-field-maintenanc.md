@@ -23,6 +23,9 @@ In alpine environments, especially during severe storm conditions with high wind
 [1]: Fill power is a measure of the insulating properties of down and synthetic insulation, but it can also be used to describe the loftiness of [Merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21).
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Folding Saw](https://www.amazon.com/s?k=folding+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
@@ -97,6 +100,9 @@ Maintaining your merino wool hiking socks in severe alpine storm conditions is e
 - **Alcohol Swabs** for cleaning before repairs.
 
 By following these guidelines, you can maintain the integrity of your [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) socks even in the harshest alpine environments.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Trail Running Shoes](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 

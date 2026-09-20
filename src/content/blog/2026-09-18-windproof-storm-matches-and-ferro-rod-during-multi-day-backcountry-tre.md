@@ -52,7 +52,7 @@ Wind resistance is critical in outdoor gear as it affects the overall comfort le
 | **Boots**          | 20kPa Hydrostatic Head, 350gsm Denier | Rubber sole, durable uppers   |
 | **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)** | 40kPa Hydrostatic Head, 150gsm Denier | Windproof fabric with zippers |
 | **[Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)**   | 900 Fill Power, 600 gsm Polyester | Down or synthetic insulation  |
-| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**       | 25kPa Hydrostatic Head           | Reinforced stitching, padded straps |
+| **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**       | 25kPa Hydrostatic Head           | Reinforced stitching, padded straps |
 | **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**       | Micro-perforated venting         | LED with adjustable brightness|
 | **[Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**   | 100kPa Hydrostatic Head          | Lightweight, durable housing   |
 

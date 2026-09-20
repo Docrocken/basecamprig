@@ -58,8 +58,8 @@ Navigating through early spring wet snow slush requires meticulous gear selectio
 
 | **Gear Item**            | **Specs**                                                                 |
 |--------------------------|---------------------------------------------------------------------------|
-| [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)                 | 500 lumens, Rechargeable (3.7V, 2600mAh), IPX8, 140 grams                  |
-| [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) Helmet Mount    | Compatible with most headlamps                                             |
+| [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)                 | 500 lumens, Rechargeable (3.7V, 2600mAh), IPX8, 140 grams                  |
+| [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) Helmet Mount    | Compatible with most headlamps                                             |
 | Waterproof Storage Bag   | Small dry-bag or zip-lock plastic bag                                      |
 | Insulated Clothing       | Down fill power 800, R-value 5.5                                           |
 | [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)         | 12,000+ mm hydrostatic head, 40 Denier nylon fabric                       |

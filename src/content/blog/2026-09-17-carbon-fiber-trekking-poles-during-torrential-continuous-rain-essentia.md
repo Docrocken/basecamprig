@@ -67,10 +67,10 @@ category: "Gear & Field Setups"
 
 ### Conclusion
 
-Carbon fiber trekking poles are indispensable tools for outdoor enthusiasts facing torrential continuous rain. Their lightweight yet robust design ensures they provide the necessary support and stability without compromising on performance or durability. By integrating these poles into a modular rig configuration, users can maximize functionality across various scenarios, enhancing both safety and comfort in challenging weather conditions.
+Carbon fiber [trekking poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) are indispensable tools for outdoor enthusiasts facing torrential continuous rain. Their lightweight yet robust design ensures they provide the necessary support and stability without compromising on performance or durability. By integrating these poles into a modular rig configuration, users can maximize functionality across various scenarios, enhancing both safety and comfort in challenging weather conditions.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Bivy Sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

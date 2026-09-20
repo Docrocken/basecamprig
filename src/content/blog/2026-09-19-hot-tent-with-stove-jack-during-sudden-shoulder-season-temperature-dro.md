@@ -41,7 +41,7 @@ For basecamp cooking, choose a **[camp stove]([https://www.amazon.com/s?k=](http
    
 2. **Multi-Purpose Gear**: Use gear that serves multiple functions to reduce overall weight. A single-reel trekking pole can double as a tent stake or tent guy wire, minimizing the need for additional hardware.
 
-3. **Integrated Systems**: Opt for integrated systems where possible. For instance, choosing a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) with an attached rain cover instead of carrying both separately reduces clutter and weight.
+3. **Integrated Systems**: Opt for integrated systems where possible. For instance, choosing a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) with an attached rain cover instead of carrying both separately reduces clutter and weight.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Water Purification Tablets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+purification+tablets+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -49,7 +49,7 @@ For basecamp cooking, choose a **[camp stove]([https://www.amazon.com/s?k=](http
 4. **Compact Insulation**: Use high-fill-power down or synthetic insulation in [sleeping bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) to ensure warmth without bulk. Consider using a small, lightweight pad (e.g., 10mm thickness) for added comfort and insulation under your [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21).
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Safety Considerations
 ### Ventilation and Fire Safety

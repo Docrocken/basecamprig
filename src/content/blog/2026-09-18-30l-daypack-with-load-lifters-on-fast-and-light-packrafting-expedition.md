@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to Fast-and-Light Packrafting Gear
 
-Fast-and-light packrafting is a unique and challenging form of outdoor adventure that requires specialized gear. Key components include the [daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), which serves as both storage for essential items and a load lifter to distribute weight evenly across the user's back. This guide focuses on evaluating the performance of a 30L daypack with load lifters from a technical standpoint, specifically comparing membrane breathability versus wind resistance.
+Fast-and-light packrafting is a unique and challenging form of outdoor adventure that requires specialized gear. Key components include the [daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), which serves as both storage for essential items and a load lifter to distribute weight evenly across the user's back. This guide focuses on evaluating the performance of a 30L daypack with load lifters from a technical standpoint, specifically comparing membrane breathability versus wind resistance.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Folding Saw]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)folding+saw+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

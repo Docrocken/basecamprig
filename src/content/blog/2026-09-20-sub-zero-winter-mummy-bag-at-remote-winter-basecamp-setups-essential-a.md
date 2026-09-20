@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to the Environment and Requirements
 
-Remote winter basecamp setups require specialized gear to ensure safety and comfort in sub-zero temperatures. A key component of any such setup is the [mummy bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)mummy+bag+outdoor+gear&tag=basecamprig-21), which provides crucial insulation against extreme cold. This guide focuses on selecting and configuring a high-performance sub-zero mummy bag for remote winter expeditions.
+Remote winter basecamp setups require specialized gear to ensure safety and comfort in sub-zero temperatures. A key component of any such setup is the [mummy bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)mummy+bag+outdoor+gear&tag=basecamprig-21), which provides crucial insulation against extreme cold. This guide focuses on selecting and configuring a high-performance sub-zero [mummy bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21) for remote winter expeditions.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -60,8 +60,8 @@ Other essential equipment includes:
 
 - **Tent**: A four-season tent rated to -40°C (-40°F) should be used for remote winter setups.
 - **Boots**: Warm, waterproof boots are crucial. Look for models with high insulation and good traction, such as the Salomon X Ultra 3 GTX or Scarpa Freerider Pro GTX.
-- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A breathable hardshell jacket can protect you from wind and light precipitation while retaining warmth. The Arc'teryx Beta AR or Mountain Hardware Marmot are excellent choices.
-- **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: For cooking, a reliable camp stove is essential. Models like the Jetboil Flash or MSR Pocket Rocket can quickly heat water and food.
+- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A breathable [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) can protect you from wind and light precipitation while retaining warmth. The Arc'teryx Beta AR or Mountain Hardware Marmot are excellent choices.
+- **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: For cooking, a reliable [camp stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is essential. Models like the Jetboil Flash or MSR Pocket Rocket can quickly heat water and food.
 
 ### Safety and Comfort
 Safety should always be paramount in sub-zero conditions. Consider:

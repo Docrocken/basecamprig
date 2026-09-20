@@ -65,7 +65,7 @@ The first step is to identify the peak or highest point of your tent. This will 
 ## Maintenance and Care
 Proper maintenance is crucial for the longevity and effectiveness of your paracord ridge line and tensioner system. Regularly inspect all components for signs of wear or damage:
 
-- **Cleaning:** Use a soft brush and mild soap solution to clean the [paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) and fabric.
+- **Cleaning:** Use a soft brush and mild soap solution to clean the [paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) and fabric.
 - **Re-tensioning:** Periodically check the tensioners to ensure they are not overly stressed.
 
 ## Conclusion

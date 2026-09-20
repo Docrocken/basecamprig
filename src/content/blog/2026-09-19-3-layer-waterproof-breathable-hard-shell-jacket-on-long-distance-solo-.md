@@ -46,6 +46,9 @@ The Marmot Precip III Hoody is a prime example of a 3-layer hard shell jacket su
 This jacket is rated to keep hikers comfortable in temperatures ranging from -2°C (28°F) to +15°C (59°F). In practice, its true comfort limit can extend beyond this range due to the jacket’s ability to manage moisture and maintain breathability.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

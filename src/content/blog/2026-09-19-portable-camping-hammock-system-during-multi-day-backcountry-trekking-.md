@@ -49,7 +49,7 @@ Adding layers of insulation between you and the ground or air can help maintain 
 
 | **Component**      | **Description**                                           |
 |--------------------|-----------------------------------------------------------|
-| **Thermal [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)** | A high-fill-power sleeping bag (e.g., 650 fill power) provides excellent insulation and warmth. The R-value should be at least 3 to ensure adequate thermal protection. |
+| **Thermal [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)** | A high-fill-power [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) (e.g., 650 fill power) provides excellent insulation and warmth. The R-value should be at least 3 to ensure adequate thermal protection. |
 | **Insulated Boots**  | Waterproof, breathable boots with good insulation can help maintain foot warmth and prevent moisture from entering the hammock. |
 
 

@@ -67,7 +67,7 @@ At your off-grid vehicle basecamp, consider the following scenarios:
 2. **Cold Weather Setup**:
    - Position the tarp to provide maximum wind protection.
    - Use additional layers of insulation such as a double-layered tarp or a storm shelter.
-   - Consider using a waterproof/breathable [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) liner for added comfort and protection.
+   - Consider using a waterproof/breathable [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) liner for added comfort and protection.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Tunnel Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

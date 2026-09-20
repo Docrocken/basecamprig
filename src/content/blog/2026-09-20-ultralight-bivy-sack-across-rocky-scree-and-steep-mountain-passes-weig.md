@@ -79,7 +79,7 @@ Reflective material increases visibility to rescuers, especially in low-light co
 ### Integrated Headlamp Mounting
 An integrated headlamp mount provides hands-free operation, allowing users to keep their hands free for tasks such as setting up gear or navigating.
 
-- **Mounting Location:** Near the top edge of the bivy sack
+- **Mounting Location:** Near the top edge of the [bivy sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21)
 
 ## Specification Table
 | Feature          | Recommended Specifications                                    |

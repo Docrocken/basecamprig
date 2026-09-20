@@ -69,7 +69,7 @@ Detailed maintenance guidelines are provided to ensure that users can properly c
 A well-designed wilderness trauma medical kit must withstand the extreme challenges posed by early spring wet snow slush. By using high-quality materials with robust engineering specifications, such as hydrostatic head ratings, fabric deniers, R-values, fill power, and breathability, we can ensure that the kit remains functional and reliable in even the harshest conditions.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Specifications Table
 
@@ -77,7 +77,7 @@ A well-designed wilderness trauma medical kit must withstand the extreme challen
 |--------------------|----------------------------------------------------------------------|
 | Containment Bag    | Hydrostatic Head 2000 mm, Ripstop Nylon Fabric                      |
 | Trauma Supplies    | Combat Application Tourniquets (CATs), C-A-D, Hemostatic Gauze       |
-| Lighting           | [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) with Lithium Batteries                                     |
+| Lighting           | [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) with Lithium Batteries                                     |
 | Communication      | Satellite Phone or Personal Locator Beacon                           |
 | Environmental      | [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) with Gore-Tex, Insulated [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) (600 Fill Power) |
 |                    | Free-standing Polyester Tent (4 Season Rating)                       |

@@ -53,6 +53,9 @@ Consider a freestanding dome tent with the following specifications:
 In torrential rain conditions, the tent is set up on a rainfly with a waterproof groundsheet underneath. The sleeping area is equipped with a vapor barrier under the [sleeping pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21) to prevent moisture conduction. During setup, the mesh panels are left open slightly for initial drying but closed as soon as the tent dries out.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

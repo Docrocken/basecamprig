@@ -26,7 +26,7 @@ The heart of any gravity-fed filter is its core. For high-altitude environments,
 A reliable water storage container is crucial, especially in unpredictable weather conditions. A large, durable hydration bladder (e.g., Platypus 4.3L) or a high-quality backpack with integrated reservoirs (e.g., Osprey Atmos AG 65) are recommended.
 
 - **Material**: Nalgene HDPE (High-Density Polyethylene) for durability and UV resistance.
-- **Volume**: 4.3 liters for the Platypus, 40+ liters in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) reservoir setup.
+- **Volume**: 4.3 liters for the Platypus, 40+ liters in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) reservoir setup.
 
 ### Pump or Bag
 A gravity-fed system uses either a pump or a bag to push water through the filter. The Sawyer Squeeze uses a simple squeeze mechanism:

@@ -28,12 +28,18 @@ The hydrostatic head test measures a fabric's ability to resist water penetratio
 To conduct the test, a column of water is applied to one side of the fabric until it breaks through the other side. The height in millimeters at which this occurs is recorded as the hydrostatic head rating. A 4000 mm H2O rating ensures that the tarp will effectively keep out rain and light snow.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Tunnel Tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hot Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hot+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Abrasion Test
 The abrasion resistance test evaluates how well a fabric can withstand repeated rubbing or friction, which can occur during setup, teardown, and use in rough terrain. The ASTM D3887-14 (Standard Test Method for Abrasion Resistance of Fabrics by the Martindale Tester) is commonly used.
 
 In this test, a specified weight of an abrasive material is placed on top of a fabric sample and then rubbed against it using a standardized motion. The number of cycles before the fabric fails to meet certain criteria (such as losing 50% of its mass or tearing) determines its abrasion resistance.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Cook Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

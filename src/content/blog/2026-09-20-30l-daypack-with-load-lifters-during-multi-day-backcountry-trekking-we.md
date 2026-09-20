@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to Backpack Design and Components
 
-In multi-day backcountry trekking, the choice of a [daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) is crucial for both performance and safety. A well-designed 30-liter daypack should balance weight, capacity, and functionality while ensuring comfort and ease of use during extended treks. This guide focuses on optimizing load distribution through the use of load lifters to reduce shoulder strain without compromising safety or convenience.
+In multi-day backcountry trekking, the choice of a [daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is crucial for both performance and safety. A well-designed 30-liter daypack should balance weight, capacity, and functionality while ensuring comfort and ease of use during extended treks. This guide focuses on optimizing load distribution through the use of load lifters to reduce shoulder strain without compromising safety or convenience.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
