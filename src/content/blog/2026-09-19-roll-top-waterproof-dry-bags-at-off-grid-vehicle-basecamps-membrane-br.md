@@ -52,6 +52,9 @@ For off-grid vehicle basecamps where conditions can be both wet and windy, a bal
    - Model B might be more suitable due to its enhanced wind resistance and robust construction.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Backpacking Tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
@@ -69,6 +72,9 @@ Choosing between high breathability and wind resistance depends on specific envi
 | **Wind Resistance**| Single-stitched seams                             | Double-stitched seams and taped edges           |
 
 By carefully considering these factors, you can select the roll-top waterproof [dry bag](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21) that best suits your off-grid vehicle basecamp needs.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 

@@ -82,4 +82,7 @@ The collapsible camp trenching shovel plays a vital role in fast-and-light packr
 By integrating these tools and techniques into their gear list, fast-and-light packrafters can enhance their comfort and safety in even the most challenging cold weather conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

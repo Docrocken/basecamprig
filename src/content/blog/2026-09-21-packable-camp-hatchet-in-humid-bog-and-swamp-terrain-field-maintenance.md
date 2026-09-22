@@ -120,7 +120,7 @@ To minimize the need for repairs:
 - **Boots:** GORE-TEX boots for ankle support and water resistance during hiking.
 - **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** A high-breathable, waterproof hardshell jacket (e.g., 2000mm hydrostatic head) for additional protection against heavy rains.
 - **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** A reliable camp stove with a windscreen to ensure consistent cooking in wet conditions.
-- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** A lightweight sleeping bag rated for cold temperatures, preferably down-filled with high fill power (e.g., 800-fill).
+- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** A lightweight [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) rated for cold temperatures, preferably down-filled with high fill power (e.g., 800-fill).
 - **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21):** A waterproof backpack with a rain cover and internal compression straps.
 - **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21):** A headlamp with good battery life to provide illumination during night-time repairs or tasks in low light.
 

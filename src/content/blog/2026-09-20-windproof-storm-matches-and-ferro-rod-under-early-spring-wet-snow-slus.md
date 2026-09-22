@@ -97,6 +97,9 @@ To ensure a successful outdoor experience in early spring wet snow slush, it is 
 By selecting gear that meets the specific requirements of early spring conditions, outdoor enthusiasts can ensure comfort and safety in even the harshest environments.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Hot Tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

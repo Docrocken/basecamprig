@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 Sudden shoulder-season temperature drops can present significant challenges for outdoor adventurers and basecamp workers. These periods often see rapid changes in weather, with temperatures dropping unexpectedly after warm sunny days or during early morning hours. Ensuring comfort and safety while minimizing pack weight is crucial. This guide focuses on optimizing the use of synthetic grid fleece as a mid-layer to handle these temperature fluctuations effectively.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Understanding the Role of Mid-Layers
 
@@ -62,7 +62,7 @@ Choosing a lightweight yet high-performance synthetic grid fleece is crucial. Fo
 
 Effective layering involves using a base layer (e.g., moisture-wicking synthetic or [merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21)), a mid-layer like synthetic grid fleece, and an outer shell to protect against wind and precipitation. The key is to ensure that each layer serves its specific purpose without adding unnecessary bulk. For example:
 
-- **Base Layer**: Quick-drying polypropylene or merino wool.
+- **Base Layer**: Quick-drying polypropylene or [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21).
 - **Mid-Layer (Fleece)**: Lightweight yet insulating synthetic grid fleece.
 - **Outer Shell**: Waterproof-breathable [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21).
 

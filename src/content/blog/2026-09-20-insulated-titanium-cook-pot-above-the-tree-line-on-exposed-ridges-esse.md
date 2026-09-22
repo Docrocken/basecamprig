@@ -18,7 +18,7 @@ Cooking above the tree line on exposed ridges presents unique challenges. These 
 
 #### Insulated Titanium Cook Pot
 
-The insulated titanium cook pot is designed to minimize heat loss and maintain meal temperatures even under harsh conditions. It combines the lightweight and durable properties of titanium with thermal insulation techniques that keep food warm for extended periods. The specific model selected for this guide features:
+The insulated titanium [cook pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) is designed to minimize heat loss and maintain meal temperatures even under harsh conditions. It combines the lightweight and durable properties of titanium with thermal insulation techniques that keep food warm for extended periods. The specific model selected for this guide features:
 
 - **Material**: 210 Denier polyester exterior, 8-layer insulation, inner titanium layer
 - **Insulation Type**: Foil-based reflective insulation

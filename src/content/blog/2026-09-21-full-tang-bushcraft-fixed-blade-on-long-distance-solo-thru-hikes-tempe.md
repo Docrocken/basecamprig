@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 When embarking on long-distance solo thru-hikes in extreme environments, selecting the right tools is crucial. A full-tang bushcraft fixed blade knife is a versatile tool that can handle various tasks from cutting firewood to preparing food. However, choosing the correct temperature rating and comfort limits are essential for ensuring both safety and comfort during extended wilderness stays.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown of Blade Materials
@@ -46,7 +49,10 @@ Comfort limits are influenced by the overall design and materials used. A full-t
 | **Handle Insulation** | Rubber, micarta                     |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Expedition Tent](https://www.amazon.com/s?k=expedition+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Comparisons with Other Gear
 
@@ -65,6 +71,9 @@ A high-efficiency camp stove can provide warmth and prepare food, complementing 
 ## Conclusion
 
 Selecting a full-tang bushcraft fixed blade with appropriate temperature ratings and comfort limits is critical for long-distance solo thru-hikes, especially in extreme environments. The knife must be designed to withstand the harsh conditions while ensuring user safety and comfort. By considering factors such as material composition, insulation, and compatibility with other gear, hikers can enhance their experience and increase their chances of success on these challenging journeys.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Gravity Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gravity+water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

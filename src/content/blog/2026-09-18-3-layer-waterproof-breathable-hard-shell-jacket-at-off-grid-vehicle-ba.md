@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 In the rugged terrain of off-grid vehicle basecamps, a reliable hard shell jacket is essential for maintaining body temperature and protecting against the elements. This guide focuses on field maintenance techniques specifically designed for 3-layer waterproof breathable hard shell jackets, ensuring they remain functional and durable in demanding outdoor conditions.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Jacket Specifications
 - **Layering System**: 3-layer construction with outer layer of GORE-TEX® Pro fabric.
@@ -53,7 +53,7 @@ In the rugged terrain of off-grid vehicle basecamps, a reliable hard shell jacke
    - Avoid direct sunlight as intense heat can damage the membrane layer.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 4. **Ventilation**:
    - Use a [camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) or portable heater (if safe) to gently warm the jacket from inside out. A warm environment will help speed up the drying process without damaging the fabric.

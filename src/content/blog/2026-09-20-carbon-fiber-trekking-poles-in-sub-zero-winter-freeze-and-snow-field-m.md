@@ -67,7 +67,10 @@ Proper maintenance and care of carbon fiber trekking poles are crucial in sub-ze
 This guide provides detailed steps tailored for outdoor enthusiasts and professionals who depend on carbon fiber [trekking poles]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+poles+outdoor+gear&tag=basecamprig-21) in extreme environments. Regular inspection and timely maintenance will help maximize the life span of these valuable pieces of equipment.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Bivy Sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

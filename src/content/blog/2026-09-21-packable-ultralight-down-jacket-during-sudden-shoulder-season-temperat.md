@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction
 
-During the shoulder seasons (spring and fall), temperatures can be notoriously unpredictable. A packable ultralight [down jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) is a versatile piece of gear that offers warmth when needed but takes up minimal space in your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21). However, condensation and moisture buildup within the jacket can reduce its insulation efficiency. This field guide provides detailed technical insights to prevent these issues.
+During the shoulder seasons (spring and fall), temperatures can be notoriously unpredictable. A packable ultralight [down jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) is a versatile piece of gear that offers warmth when needed but takes up minimal space in your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21). However, condensation and moisture buildup within the jacket can reduce its insulation efficiency. This field guide provides detailed technical insights to prevent these issues.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Cook Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -41,7 +41,7 @@ Breathable materials allow moisture vapor to pass through, preventing internal c
 An insulated liner can help manage moisture by absorbing sweat away from the body before it reaches the down. This layer should be made of a breathable material like Gore-Tex or similar technologies that wick moisture away.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Inner Pockets and Ventilation Panels
 

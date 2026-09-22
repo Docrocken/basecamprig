@@ -75,7 +75,7 @@ Look for signs of wear such as frayed edges or loose threads on the nylon ripsto
    - After hand stitching, apply a thin layer of clear waterproof sealant over the repair area using tweezers to ensure even coverage.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 4. **Final Inspection and Maintenance**:
    - Inspect the repaired area for any gaps or misalignments.
@@ -83,7 +83,7 @@ Look for signs of wear such as frayed edges or loose threads on the nylon ripsto
    - Store in a cool, dry place when not in use.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Preventive Measures
 - Use a hardshell jacket over the down jacket during high-wind events to protect against abrasion and tearing.

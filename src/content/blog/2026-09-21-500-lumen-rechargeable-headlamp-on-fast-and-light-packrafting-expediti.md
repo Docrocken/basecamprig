@@ -9,10 +9,10 @@ category: "Gear & Field Setups"
 
 ## Introduction to Fast-and-Light Packrafting
 
-Fast-and-light packrafting is a specialized form of river running that emphasizes efficiency, speed, and minimal weight. The primary equipment includes lightweight and durable packs (often around 15-20 lbs), modular gear systems, and reliable navigation tools. Essential accessories for such expeditions include waterproof gear, high-lumen [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21), and robust packrafts capable of handling rapid currents.
+Fast-and-light packrafting is a specialized form of river running that emphasizes efficiency, speed, and minimal weight. The primary equipment includes lightweight and durable packs (often around 15-20 lbs), modular gear systems, and reliable navigation tools. Essential accessories for such expeditions include waterproof gear, high-lumen [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), and robust packrafts capable of handling rapid currents.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Lighting Essentials: 500-lumen Rechargeable Headlamp
 

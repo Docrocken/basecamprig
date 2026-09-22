@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 When trekking through rocky scree fields and steep mountain passes, an efficient and robust pack is essential. The **65L internal frame trekking pack** offers a perfect balance of capacity, comfort, and technical features tailored for challenging terrain. This guide will delve into the essential accessories required to maximize the pack's potential and provide a detailed modular rig configuration.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Multitool](https://www.amazon.com/s?k=[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [First Aid Kit]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)first+aid+kit+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

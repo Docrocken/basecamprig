@@ -40,7 +40,7 @@ Preventing condensation involves managing both external weather conditions and i
     - **Sea to Summit PuffyMat 20:** Hydrostatic head of 6,000 mm, R-value of 4.8, and a thickness of 1.9 inches.
 
 - **Insulation Layers:**
-  - **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Use a sleeping bag rated for the expected cold temperatures with a high fill power down or synthetic insulation.
+  - **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Use a [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) rated for the expected cold temperatures with a high fill power down or synthetic insulation.
   - **Down Sleeping Bag Example (Hilleberg Njord 3):** Fill power of 750, R-value of 2.8, and a temperature rating of -19°C (-3° F).
 
 ## Practical Tips
@@ -59,6 +59,9 @@ Effective management of condensation and moisture buildup is crucial for maintai
 | Hilleberg Njord 3       | Fill Power: 750; R-value: 2.8; Temperature Rating: -19°C (-3°F) |
 
 By following these guidelines and selecting the appropriate gear, outdoor adventurers can enjoy a comfortable and safe backcountry experience even in challenging environments.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Wool Base Layer](https://www.amazon.com/s?k=merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trail Running Shoes]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trail+running+shoes+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

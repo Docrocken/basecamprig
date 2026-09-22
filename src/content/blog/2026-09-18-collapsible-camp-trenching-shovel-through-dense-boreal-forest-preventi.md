@@ -75,6 +75,9 @@ By leveraging advanced materials and design principles, the collapsible camp tre
 This guide provides a comprehensive overview of the design and functionality of a collapsible camp trenching shovel, tailored to meet the unique needs of navigating dense boreal forests.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

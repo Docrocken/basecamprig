@@ -69,7 +69,7 @@ Proper drying of your jacket after use is crucial in preventing damage due to mo
    - Apply pressure immediately after placement to ensure proper contact with the jacket’s surface.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 3. **Activation and Curing**
    - Activate the adhesive by gently pressing down or using a heat source (if available) for about 30 seconds, ensuring the patch adheres well.

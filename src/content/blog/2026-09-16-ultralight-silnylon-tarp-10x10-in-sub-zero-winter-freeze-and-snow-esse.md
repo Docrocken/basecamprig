@@ -55,7 +55,7 @@ The ultralight [silnylon tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+
 
 ### Lighting and Power
 
-- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: Choose a high-efficiency LED model with at least 200 lumens. Lithium-ion batteries are preferable due to their cold resistance.
+- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: Choose a high-efficiency LED model with at least 200 lumens. Lithium-ion batteries are preferable due to their cold resistance.
 - **Batteries**: Use lithium-ion rechargeable batteries for headlamps, [power banks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21), and any other electronic devices.
 
 ### Stoves and Cooking

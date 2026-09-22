@@ -21,6 +21,9 @@ Hydrostatic head measures a fabric's resistance to water penetration. For desert
 The fabric denier refers to the thickness and durability of the material used in the pad's construction. A higher denier number means a thicker, more durable fabric. For example, using 800D nylon or polyester for the outer shell provides good resistance against abrasion and tear while maintaining light weight.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Bear Canister]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bear+canister+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Fill Power

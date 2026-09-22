@@ -18,7 +18,7 @@ The dense boreal forest is characterized by its coniferous trees, low temperatur
 
 ### Filter Specifications and Performance
 
-A high-performance gravity camp water filter should meet the following specifications:
+A high-performance gravity camp [water filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) should meet the following specifications:
 - **Hydrostatic Head**: 500 mm, ensuring it can handle a wide range of pressure conditions.
 - **Flow Rate**: 1.2 liters per minute, providing efficient filtration in various settings.
 - **Filter Cartridge Material**: Ceramic or Microfilter, with a pore size of 0.2 microns to remove bacteria and protozoa.
@@ -69,10 +69,10 @@ To maximize the longevity of your gravity camp water filter:
 4. **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**:
    - Use lightweight, efficient stoves like the MSR WhisperLite or Jetboil Flash.
 5. **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**:
-   - Select bags rated for -20°C to ensure warmth and comfort in cold conditions (e.g., REI Co-op 30° Down Sleeping Bag).
-6. **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**:
+   - Select bags rated for -20°C to ensure warmth and comfort in cold conditions (e.g., REI Co-op 30° Down [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)).
+6. **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**:
    - Choose a high-quality backpack with a load capacity of at least 45 liters.
-7. **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**:
+7. **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**:
    - Opt for headlamps with LED technology and replaceable batteries.
 
 ### Maintenance Tips

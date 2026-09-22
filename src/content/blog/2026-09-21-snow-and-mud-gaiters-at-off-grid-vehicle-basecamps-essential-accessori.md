@@ -16,6 +16,9 @@ Hydrostatic head is a measure of how waterproof the material is. For snow and mu
 Breathability, measured in grams per square meter per day (g/m²/day), should not fall below 3,000 g/m²/day. This ensures that moisture from sweat and body heat is efficiently expelled, preventing clamminess and discomfort during extended use in cold conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Dry Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dry+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Modular Rig Configuration
@@ -52,7 +55,7 @@ Snow and mud gaiters can be integrated into a larger system that includes other 
 ## Case Study: Basecamp Setup at Snowy Lake
 In a recent expedition to Snowy Lake, a group of adventurers faced prolonged periods of heavy snowfall and muddy trails. The use of modular gaiters significantly reduced the risk of wetness entering their boots, allowing for continued use without frequent stops for drying or changing footwear.
 
-The setup involved a 4-person tent with a waterproof tarp, insulated [sleeping bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) rated to -20°C, and a compact [camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) that provided warmth both inside the tent and around the fire pit. Snow and mud [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) were paired with Gore-Tex boots and high-breathable jackets to create an effective barrier against the elements.
+The setup involved a 4-person tent with a waterproof tarp, insulated [sleeping bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) rated to -20°C, and a compact [camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) that provided warmth both inside the tent and around the fire pit. Snow and mud [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) were paired with Gore-Tex boots and high-breathable jackets to create an effective barrier against the elements.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [First Aid Kit]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)first+aid+kit+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

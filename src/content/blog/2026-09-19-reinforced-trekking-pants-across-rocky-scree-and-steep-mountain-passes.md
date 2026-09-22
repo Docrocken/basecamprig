@@ -23,7 +23,7 @@ The **hydrostatic head** rating measures a fabric's ability to repel water. A hi
 
 ### Abrasion Resistance
 
-Abrasion resistance is crucial for protecting against the abrasive nature of rocky surfaces and loose scree. A common test to measure this is the Martindale abrasion test, which subjects a piece of fabric to repeated rubbing with an abrasive surface. For trekking pants, a minimum abrasion count of 20,000 cycles is desirable.
+Abrasion resistance is crucial for protecting against the abrasive nature of rocky surfaces and loose scree. A common test to measure this is the Martindale abrasion test, which subjects a piece of fabric to repeated rubbing with an abrasive surface. For [trekking pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21), a minimum abrasion count of 20,000 cycles is desirable.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

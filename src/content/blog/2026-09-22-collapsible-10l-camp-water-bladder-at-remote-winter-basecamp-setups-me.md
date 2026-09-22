@@ -78,6 +78,9 @@ In the context of remote winter basecamps, a carefully balanced approach is esse
 | **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**      | - R-Value: 6 <br> - Fill Power: 700 <br> - Rated to -15°C (-5°F) <br> - Keeps the user warm during cold nights |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Cook Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By integrating these components, outdoor enthusiasts can achieve a more comfortable and effective setup in even the harshest winter conditions.

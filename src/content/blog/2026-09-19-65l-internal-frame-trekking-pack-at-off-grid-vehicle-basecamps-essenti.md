@@ -60,6 +60,9 @@ For clean drinking water, a portable water filter such as the MSR Guardian or Ka
 | **Compartments** | 3 main compartments (2 large and 1 small), multiple external attachment points for gear |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Folding Saw](https://www.amazon.com/s?k=folding+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

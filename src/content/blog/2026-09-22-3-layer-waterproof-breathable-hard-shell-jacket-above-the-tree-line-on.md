@@ -77,4 +77,7 @@ A lightweight backpack with a rain cover, a headlamp, a portable camp stove, and
 Selecting the right 3-layer waterproof breathable hard shell jacket is crucial when planning trips to areas above the tree line where exposure and harsh weather conditions are common. By understanding the technical specifications and material breakdown, outdoor enthusiasts can make informed decisions that ensure both safety and comfort during their adventures.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

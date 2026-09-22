@@ -90,9 +90,9 @@ Navigating through dense boreal forests requires a robust and adaptable approach
 | Boot Material           | Gortex (breathability: >30,000 g/m²/day)                                     |
 | [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)        | Gore-Tex Pro (R-value: 1.2 to 1.5)                                           |
 | [Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)              | MSR Pocket Rocket or Jetboil Flash                                           |
-| Sleeping Bag            | Rated for -20°C to -30°C, high-fill power (down: >850, synthetic: >600)      |
-| [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)                | Capacity: 30 liters, made from durable materials with high tear resistance   |
-| [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)                | Petzl E Tau or Black Diamond Torch                                          |
+| [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)            | Rated for -20°C to -30°C, high-fill power (down: >850, synthetic: >600)      |
+| [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)                | Capacity: 30 liters, made from durable materials with high tear resistance   |
+| [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)                | Petzl E Tau or Black Diamond Torch                                          |
 | Filter Cartridge        | Pore size: 0.1 to 0.2 microns                                                |
 | Reservoir Bag           | 1.5-liter capacity                                                           |
 

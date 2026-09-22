@@ -21,7 +21,7 @@ Navigating through dense boreal forests often requires a reliable mid-layer to m
 ### Immediate Post-Wear Drying
 Upon removal from the field environment, the first step in maintaining your synthetic grid fleece mid-layer is to ensure it dries quickly. Here are some techniques:
 
-- **Air Ventilation**: Use a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) or bag with ample ventilation to allow air circulation around the garment.
+- **Air Ventilation**: Use a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) or bag with ample ventilation to allow air circulation around the garment.
 - **Drying Racks and Clips**: Hang the fleece on a drying rack or clip it to branches or bushes, ensuring it can dry fully without any dampness trapping against itself.
 - **Avoid Direct Heat Sources**: Do not use direct heat from [camp stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) or heaters; this can cause shrinkage and reduce the garment’s lifespan. Allow natural air-drying in a well-ventilated area.
 
@@ -75,6 +75,9 @@ Proper field maintenance and timely repairs are essential for extending the life
 - **Water Filters**: Portable water filters or purifiers to ensure access to clean drinking water.
 
 By integrating these technical guidelines into your field practices, you can enhance the durability and performance of your synthetic grid fleece mid-layer, ensuring a more comfortable and effective outdoor experience.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Saw]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+saw+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

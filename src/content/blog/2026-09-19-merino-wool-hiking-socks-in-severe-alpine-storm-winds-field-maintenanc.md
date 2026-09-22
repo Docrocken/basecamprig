@@ -23,6 +23,9 @@ In alpine environments, especially during severe storm conditions with high wind
 [1]: Fill power is a measure of the insulating properties of down and synthetic insulation, but it can also be used to describe the loftiness of [Merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21).
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Mummy Bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Folding Saw](https://www.amazon.com/s?k=folding+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

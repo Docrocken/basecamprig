@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 For long-distance solo thru-hikers, the choice of footwear is crucial. While boots are a primary concern, booties can significantly enhance comfort and warmth in cold weather conditions. This guide delves into the technical aspects of selecting down [camp booties]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+booties+outdoor+gear&tag=basecamprig-21) that meet the demands of extended solo hikes.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Understanding Temperature Ratings and Comfort Limits
 

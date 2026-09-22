@@ -64,7 +64,7 @@ Setting up a tent in flash-freeze environments requires careful planning:
 
 - **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) rated for 0°F (-18°C) or colder to ensure warmth in freezing conditions. Down fill provides better insulation than synthetic when wet.
 
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: High-quality headlamps with at least 200 lumens are essential for setting up and maintaining visibility during low-light conditions.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: High-quality headlamps with at least 200 lumens are essential for setting up and maintaining visibility during low-light conditions.
 
 - **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: A portable water filter is necessary due to the risk of contamination from flash floods or other sources in desert canyon environments.
 

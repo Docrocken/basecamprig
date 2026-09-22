@@ -68,7 +68,7 @@ Wind resistance is particularly important when setting up a solar panel charger.
 
 - **Wind Resistance:**
   - Fabric Type with Denier 400 D would be more resistant to high winds, reducing the risk of damage or loss of functionality.
-  - A hardshell [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides an added layer of protection against wind and rain.
+  - A hardshell [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides an added layer of protection against wind and rain.
 
 ### Conclusion
 When navigating through dense boreal forests, choosing gear that balances breathability and wind resistance is crucial. Membrane A with its higher breathability (20,000 g/m²/24h) would be preferable for dealing with high humidity, while a fabric with Denier 400 D ensures better wind resistance. Both factors are essential in maintaining the functionality of a foldable solar panel charger and other critical equipment.
@@ -82,7 +82,7 @@ When navigating through dense boreal forests, choosing gear that balances breath
 | Wind Resistance          | Moderate                    | High                          | High                    |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Recommendations
 
@@ -91,7 +91,7 @@ For outdoor enthusiasts planning to spend extended periods in dense boreal fores
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Booties]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+booties+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-By carefully selecting the appropriate materials for your gear, you can ensure that your solar panel charger remains functional and reliable during your expedition through the dense boreal forest.
+By carefully selecting the appropriate materials for your gear, you can ensure that your [solar panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) charger remains functional and reliable during your expedition through the dense boreal forest.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -49,7 +49,7 @@ Consider a scenario where you are hiking on exposed ridges in the Swiss Alps dur
 
 - **Base Layers:** Fast-drying synthetic underwear and [merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) base socks.
 - **Insulation Layers:** A down vest and pants for additional warmth.
-- **Shell Layers:** Goretex [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) with a hydrostatic head of 1500 mm, paired with two layers of merino wool socks. A [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) offers extra protection from the wind.
+- **Shell Layers:** Goretex [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) with a hydrostatic head of 1500 mm, paired with two layers of [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) socks. A [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) offers extra protection from the wind.
 - **Additional Gear:** A lightweight tent rated for -10°C (14°F), an MSR Pocket Rocket stove, and a small [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21).
 
 ## Conclusion

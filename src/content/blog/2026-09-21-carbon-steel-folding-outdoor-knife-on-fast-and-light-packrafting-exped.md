@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 Fast-and-light packrafting involves navigating rivers quickly with minimal gear. This approach requires a balance between weight, functionality, and durability. A carbon steel folding [outdoor knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)outdoor+knife+outdoor+gear&tag=basecamprig-21) is an essential tool for camp tasks, but moisture can significantly impact its performance and longevity. Internal condensation from the air space within your packraft or camping setup can lead to moisture buildup on the blade, causing corrosion and rust.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Importance of Preventing Condensation
 
@@ -101,7 +101,7 @@ Effective moisture management is critical for maintaining the functionality and 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Mummy Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)mummy+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-By addressing these factors, you can ensure that your carbon steel folding outdoor knife remains a reliable tool for all your fast-and-light packrafting adventures.
+By addressing these factors, you can ensure that your carbon steel folding [outdoor knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) remains a reliable tool for all your fast-and-light packrafting adventures.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Quilt]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+quilt+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

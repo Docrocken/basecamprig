@@ -59,7 +59,7 @@ True comfort limits refer to the practical minimum temperatures at which users f
 
 ### Water Management
 
-- **[Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: Use a water filter with a small, efficient design that won't freeze easily.
+- **[Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: Use a [water filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) with a small, efficient design that won't freeze easily.
 - **Insulated Bottle**: Carry your water in an insulated bottle to prevent it from freezing during transit.
 
 ## Environmental Factors and Safety Considerations

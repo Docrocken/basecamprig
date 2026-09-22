@@ -74,6 +74,9 @@ Proper maintenance of your 4-season expedition tunnel tent is crucial for ensuri
 This guide provides a comprehensive approach to maintaining your 4-season expedition [tunnel tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) in field conditions. By adhering to these practices, you can ensure that your gear remains reliable during even the most challenging expeditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [First Aid Kit](https://www.amazon.com/s?k=first+aid+kit+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

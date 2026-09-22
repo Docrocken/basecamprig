@@ -43,6 +43,9 @@ Breathability refers to a mat’s ability to let moisture escape from the inside
 | Weight (per mat)    | <1 lb (0.5 kg) | Critical for thru-hiking, where every ounce counts. |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Backpacking Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Practical Considerations
@@ -76,9 +79,15 @@ Regularly inspect your mat for signs of wear, especially around the edges where 
 Selecting an appropriate closed-cell foam sleeping mat is crucial for long-distance solo thru-hikers aiming to optimize weight while ensuring safety and comfort. By considering factors such as hydrostatic head, fabric Denier, R-value, and overall comfort, you can make informed decisions that will enhance your hiking experience significantly.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Axe](https://www.amazon.com/s?k=camp+axe+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This guide provides a technical framework for evaluating mats in the context of thru-hiking needs, ensuring you choose gear that meets both performance and weight optimization goals.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

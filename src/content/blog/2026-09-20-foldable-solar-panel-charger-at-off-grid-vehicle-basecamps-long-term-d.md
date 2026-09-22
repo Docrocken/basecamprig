@@ -20,7 +20,7 @@ A typical foldable [solar panel](https://www.amazon.com/s?k=solar+panel+outdoor+
 
 - **Solar Cells**: Monocrystalline silicon cells are commonly used due to their high efficiency.
 - **Fold Mechanism**: An accordion-style design that allows the panels to be easily stored when not in use, often paired with a rigid frame for stability during charging.
-- **Charge Controller**: A DC-DC converter that regulates the voltage and current from the solar panel to match the needs of various devices, including smartphones, laptops, and portable power stations.
+- **Charge Controller**: A DC-DC converter that regulates the voltage and current from the [solar panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) to match the needs of various devices, including smartphones, laptops, and portable power stations.
 
 ### Environmental Conditions
 
@@ -37,7 +37,7 @@ Off-grid vehicle basecamps can face a range of challenging environmental conditi
 The choice of materials is critical for maintaining the functionality of foldable solar panel chargers in harsh conditions. Key considerations include:
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 - **Fabric Covering**: A 600D polyester fabric with a hydrostatic head of 15,000mm and a breathability rating of 20,000 g/m²/24h provides both protection against water ingress and moisture release.
 - **Frame Construction**: Anodized aluminum frames offer corrosion resistance and rigidity. The anodizing process involves electrolytically depositing a layer of oxide on the surface, which enhances durability.
@@ -74,7 +74,7 @@ A case study was conducted over a period of two years in an off-grid vehicle bas
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-- **Daily Usage**: Connected to various devices including a portable power station, [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21), and a [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21).
+- **Daily Usage**: Connected to various devices including a portable power station, [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), and a [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21).
 - **Storage Conditions**: Kept in a protective cover when not in use to prevent dust accumulation.
 
 The results showed minimal degradation in performance over the two-year period, with only minor issues related to occasional moisture ingress during heavy rain. These issues were mitigated by regular maintenance practices such as drying out the charger after exposure to water.

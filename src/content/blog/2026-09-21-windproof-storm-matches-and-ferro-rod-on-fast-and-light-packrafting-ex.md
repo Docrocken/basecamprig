@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In the realm of fast-and-light packrafting expeditions, maintaining warmth and dryness while minimizing weight is crucial. This guide delves into the technical aspects of windproof storm matches and ferro rods, focusing on their integration with membrane breathability versus wind resistance in various outdoor settings.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hot Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hot+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Wind Resistance and Breathability: Key Specifications
@@ -69,9 +72,15 @@ In packrafting scenarios where conditions are unpredictable and variable, a bala
 Choosing between a breathable membrane like Gore-Tex Pro or a highly wind-resistant layer such as Pertex Shield depends on the specific expedition conditions. For fast-and-light packrafting expeditions, a balanced approach is often ideal, using breathable membranes in combination with effective windproof layers to maintain both comfort and warmth.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Expedition Tent](https://www.amazon.com/s?k=expedition+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By understanding these technical aspects, outdoor enthusiasts can better prepare for their adventures, ensuring they are equipped with the right gear to tackle any weather condition thrown at them. Whether it's starting fires with windproof storm matches or staying warm on cold nights, these considerations will significantly enhance your packrafting experience.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Solar Panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Gravity Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gravity+water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

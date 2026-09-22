@@ -58,7 +58,7 @@ Additional features can significantly improve moisture management within trekkin
 Proper fit is crucial to ensure comfort and prevent moisture buildup:
 
 - **Waistband Design:** Elastic waistband with drawstring for a secure, customizable fit.
-- **Hip [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21):** Integrated hip gaiters that can be adjusted to prevent snow from entering the pants during heavy snowfall.
+- **Hip [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** Integrated hip gaiters that can be adjusted to prevent snow from entering the pants during heavy snowfall.
 
 ## Specification Table
 | Feature              | Specification                         |

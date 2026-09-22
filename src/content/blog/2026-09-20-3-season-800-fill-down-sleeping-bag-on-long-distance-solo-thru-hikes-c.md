@@ -63,6 +63,9 @@ Breathable fabrics allow for air circulation, preventing condensation buildup wi
 | Dimensions        | 200 cm x 75 cm             | Standard size suitable for most hikers; can be adjusted with compression stuff sack. |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hot Tent](https://www.amazon.com/s?k=hot+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Bivy Sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Gear Complement
@@ -85,6 +88,9 @@ Selecting the right 3-season 800-fill down sleeping bag is a critical decision f
 ---
 
 This technical guide provides a comprehensive understanding of what goes into choosing an effective 3-season down [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) for long-distance solo thru-hiking, backed by detailed specifications that enhance user confidence in their equipment selection.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

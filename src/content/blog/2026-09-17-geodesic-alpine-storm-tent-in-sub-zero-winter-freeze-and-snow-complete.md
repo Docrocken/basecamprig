@@ -59,6 +59,9 @@ Proper ventilation is crucial in preventing condensation buildup, which can lead
 | **Ventilation System**     | Vent locations: Top and sides of the tent; Control mechanisms: Velcro or zippered vents |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Tunnel Tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

@@ -32,7 +32,7 @@ Membrane breathability refers to a material's ability to allow moisture vapor to
 
 ### Examples in Gear
 
-- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** A hardshell jacket with a Gore-Tex Pro membrane offers excellent breathability and wind resistance. It is ideal for [backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) where space is limited but high performance is required.
+- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** A [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) with a Gore-Tex Pro membrane offers excellent breathability and wind resistance. It is ideal for [backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) where space is limited but high performance is required.
 - **Boots:** Polartec Neoshell lined boots provide a balance between warmth retention and moisture management.
 
 ## Wind Resistance and Its Impact
@@ -48,7 +48,7 @@ Wind resistance affects the heat transfer rate, making it harder for warm air to
 | Polartec NeoShell   | 17,000 - 24,000              |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Examples in Gear
 

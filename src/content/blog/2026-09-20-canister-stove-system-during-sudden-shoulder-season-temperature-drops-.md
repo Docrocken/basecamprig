@@ -24,12 +24,18 @@ The hydrostatic head test is conducted by applying increasing amounts of water p
 For canister stoves, materials with high hydrostatic head values are crucial for maintaining fuel integrity during unexpected rain or snow. A common requirement for outdoor gear is a minimum hydrostatic head of 1500-2000 mm, though specialized equipment may need higher ratings up to 3000 mm.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dry Bag](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Dome Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dome+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Abrasion Resistance Test
 Abrasion resistance testing evaluates how well materials withstand repeated friction and wear. This test typically involves rubbing a fabric against a hard surface for a specified number of cycles (e.g., 10,000 or more) while monitoring changes in its appearance and function.
 
 High abrasion resistance is essential for canister stoves used in rugged terrain where they may be dragged or stepped on frequently. Materials with high denier counts (a measure of fiber thickness) tend to offer better abrasion resistance. For example, a 600D nylon fabric offers excellent abrasion protection compared to lighter materials.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Bivy Sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -72,9 +78,15 @@ In summary, ensuring that your canister stove system meets stringent waterproof 
 | Fuel Canister Protection| Windscreen        |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Foam Mat](https://www.amazon.com/s?k=foam+mat+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Trail Running Shoes]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trail+running+shoes+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By adhering to these specifications and considerations, outdoor enthusiasts can confidently prepare for the unpredictable weather conditions of shoulder seasons with reliable and durable canister stove systems.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
