@@ -4,10 +4,12 @@ import { getCollection } from 'astro:content';
 const posts = (await getCollection('blog')).sort(
   (a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
 );
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 <!doctype html>
 <html lang="en">
 <head>
+    <link rel="canonical" href={canonicalURL} />
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title id="meta-title">BasecampRig - Practical Field Rigs, Overlanding & Camp Systems</title>
@@ -39,6 +41,7 @@ const posts = (await getCollection('blog')).sort(
 </head>
 <body>
   <header>
+    <link rel="canonical" href={canonicalURL} />
     <div class="top-bar">
       <h1 id="ui-title">Welcome to BasecampRig</h1>
       <span id="lang-indicator" class="lang-pill">EN</span>
