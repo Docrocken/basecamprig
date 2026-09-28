@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 Winter conditions present unique challenges for outdoor adventurers. In sub-zero temperatures, traditional matches can become useless due to moisture exposure, while a reliable fire source is crucial for warmth and safety. This guide focuses on the use of windproof storm matches and ferro rods in such environments, detailing how to pack and maintain these tools effectively.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Hydrostatic Head and Breathability Considerations
@@ -74,6 +77,9 @@ To extend the life of your fire starting tools:
 Effective packing and maintenance are crucial for ensuring that your windproof storm matches and ferro rod remain reliable in sub-zero winter conditions. By following these guidelines, adventurers can enhance their safety and comfort during extreme outdoor excursions. Always remember to carry additional tools as a backup and to practice proper environmental stewardship by minimizing the impact on natural habitats.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ---
@@ -81,4 +87,7 @@ Effective packing and maintenance are crucial for ensuring that your windproof s
 This guide aims to provide a comprehensive approach to managing fire starting needs in harsh winter environments, ensuring that essential survival equipment remains effective and reliable.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

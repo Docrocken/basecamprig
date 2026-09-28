@@ -59,15 +59,15 @@ In scenarios where trails are wet and the temperature is low, a Gore-Tex membran
 - **Example Gear**:
   - Tent: A lightweight insulated down bag with a high R-value for cold nights.
   - Boots: [Hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) with Gore-Tex membranes and windproof liners.
-  - [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21): A breathable hardshell jacket (like The North Face Verteon) that can be used both as an outer layer and added protection against strong winds.
+  - [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21): A breathable [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) (like The North Face Verteon) that can be used both as an outer layer and added protection against strong winds.
 
 ### Scenario 2: Dry but Cold Conditions
 In drier, colder conditions where moisture is less of a concern, shoes with high breathability combined with windproof materials are more suitable. This setup ensures feet stay dry while maintaining core body warmth through reduced air flow.
 
 - **Example Gear**:
-  - [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21): A down sleeping bag with a fill power around 600 for excellent insulation.
-  - [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21): A high-quality backpack with a rain cover or waterproof/breathable material.
-  - [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21): A headlamp equipped with LED technology and a battery that lasts through the night.
+  - [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21): A down [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) with a fill power around 600 for excellent insulation.
+  - [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21): A high-quality backpack with a rain cover or waterproof/breathable material.
+  - [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21): A headlamp equipped with LED technology and a battery that lasts through the night.
 
 ## Practical Considerations
 ### Material Selection
@@ -75,7 +75,7 @@ When choosing materials, hikers should consider not only breathability and wind 
 
 - **Example Gear**:
   - [Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21): A compact, efficient stove that can provide warmth during cold nights.
-  - [Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21): An effective water filter to ensure clean drinking water in various environments.
+  - [Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21): An effective [water filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) to ensure clean drinking water in various environments.
 
 ### Testing and Feedback
 Testing the chosen footwear in different conditions is crucial. Solo hikers should test their gear extensively before embarking on long-distance trails to ensure comfort and functionality.

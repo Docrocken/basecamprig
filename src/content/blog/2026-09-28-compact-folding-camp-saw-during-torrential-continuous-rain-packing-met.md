@@ -57,7 +57,7 @@ For insulation during sleep, choose bags with:
 - **R-value** of at least 4.5 for moderate temperatures and 6 or higher for colder climates.
 - A **fill power** rating of around 600 to ensure warmth retention even when wet.
 
-[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) should be made from a breathable material such as nylon or polyester, combined with an internal waterproof layer if necessary:
+[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) should be made from a breathable material such as nylon or polyester, combined with an internal waterproof layer if necessary:
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Tunnel Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

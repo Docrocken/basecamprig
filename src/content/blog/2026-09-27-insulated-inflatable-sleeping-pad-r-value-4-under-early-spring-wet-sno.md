@@ -17,6 +17,9 @@ The hydrostatic head of a fabric measures its ability to resist water penetratio
 Breathability, measured by air permeability or micropores per square inch (PPI), is equally important for maintaining body heat and preventing condensation buildup within the sleeping system. A breathable fabric will allow airflow while still providing waterproof protection.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Booties]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+booties+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 #### R-value and Insulation
@@ -52,7 +55,10 @@ A foldable design can significantly reduce the overall footprint when packed. Th
 | Foldable Design       | Accordion fold                                   |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Gear Recommendations
 - **Tents**: A three-season tent with a waterproof fly and breathable walls. This setup ensures that you can stay dry while also allowing for airflow.

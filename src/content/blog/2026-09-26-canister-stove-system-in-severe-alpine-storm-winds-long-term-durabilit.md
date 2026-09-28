@@ -79,6 +79,9 @@ Several experienced mountaineers reported positive feedback on the performance o
 The MSR Summit II canister stove system, when paired with a robust windscreen and well-designed fuel regulators, demonstrates exceptional durability in severe alpine storm conditions. The combination of high-quality materials, precise engineering specifications, and tested performance under extreme weather ensures reliable operation for long-term use in harsh environments.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Backpacking Tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Down Quilt]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+quilt+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Recommendations

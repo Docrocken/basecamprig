@@ -54,7 +54,7 @@ Inspect the sleeping pad regularly for signs of wear and tear. Common damage inc
 
 ### Step-by-Step Repair Process
 
-1. **Preparation**: Lay the sleeping pad flat on a clean, dry surface.
+1. **Preparation**: Lay the [sleeping pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) flat on a clean, dry surface.
 2. **Cleaning**: Use sandpaper to gently smooth any rough edges around the tear or puncture. This prevents further damage and ensures a smooth surface for applying the tape.
 3. **Application of Tape**:
     - Cut a piece of tape slightly larger than the damaged area (approximately 1-2 inches on each side).

@@ -23,7 +23,7 @@ Upon exposure to moisture or snow, the solar panel must be dried promptly. Moist
 1. **Remove Power Sources**: Ensure that all USB ports and other power outputs are unplugged.
 2. **Blow Out Excess Snow**: Use a soft, dry brush or compressed air to remove any visible snow from the surface of the [solar panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21). Avoid using high-pressure air to prevent damage.
 3. **Shake Off Water**: If your equipment has been exposed to rain or heavy dew, gently shake off excess moisture. Ensure that all connections and joints are free of water droplets.
-4. **Use a Dryer**: A low-heat hair dryer set on the cool setting can be used to dry the solar panel. Hold the dryer several inches away from the surface to prevent overheating. Do not use direct heat or high temperatures, which could damage the materials.
+4. **Use a Dryer**: A low-heat hair dryer set on the cool setting can be used to dry the [solar panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21). Hold the dryer several inches away from the surface to prevent overheating. Do not use direct heat or high temperatures, which could damage the materials.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -36,7 +36,7 @@ In sub-zero conditions, the drying process requires careful handling due to the 
 3. **Drying Agent**: Consider using silica gel or desiccant packets to help absorb any remaining moisture inside the panels.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Preventing Future Dampness
 To minimize future issues with dampness:

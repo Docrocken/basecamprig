@@ -73,9 +73,9 @@ The cooking station should be situated downwind from your campsite to prevent sm
 Setting up a 2-person [backpacking tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) above the tree line on exposed ridges requires careful planning and selection of appropriate gear. By choosing durable tents with good weather resistance, investing in a warm sleeping system, and preparing for emergencies, you can enjoy safe and comfortable high-altitude adventures. Remember to always check local weather forecasts and follow Leave No Trace principles to minimize environmental impact.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This modular rig configuration ensures that your setup is both functional and adaptable, enhancing your ability to tackle the challenges of alpine environments with confidence.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

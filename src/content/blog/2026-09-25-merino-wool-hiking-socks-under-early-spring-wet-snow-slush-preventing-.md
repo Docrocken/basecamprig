@@ -54,6 +54,9 @@ Imagine a hiker setting out on an early spring hike through a rainforest with fr
 3. **Outer Layer**: A [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) with a DWR (Durable Water Repellent) finish protects against wind, rain, and snow.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bivy Sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Silnylon Tarp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)silnylon+tarp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Gear Checklist
@@ -66,7 +69,10 @@ Understanding the role of merino wool in moisture management is crucial when pla
 
 ---
 
-This guide provides a comprehensive approach to tackling the unique challenges of early spring hiking with wet snow slush, emphasizing the importance of merino wool socks in moisture management and overall performance.
+This guide provides a comprehensive approach to tackling the unique challenges of early spring hiking with wet snow slush, emphasizing the importance of [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) socks in moisture management and overall performance.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

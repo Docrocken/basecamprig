@@ -70,9 +70,9 @@ For a comprehensive set of gear, consider the following:
 - **Boots:** High-quality [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) with ankle support and good traction.
 - **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** Insulated or breathable jackets depending on the climate.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** Portable stoves for cooking lightweight meals.
-- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Temperature-rated sleeping bags to ensure warmth during overnight stays.
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21):** Robust day packs and a main backpack for carrying gear.
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) & Flashlights:** Essential for navigating in low light conditions.
+- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** Temperature-rated [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) to ensure warmth during overnight stays.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** Robust day packs and a main backpack for carrying gear.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) & Flashlights:** Essential for navigating in low light conditions.
 - **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21):** Portable water filtration systems to ensure safe drinking water.
 
 By integrating these components, solo thru-hikers can prepare effectively for long-distance treks while ensuring their safety and comfort.

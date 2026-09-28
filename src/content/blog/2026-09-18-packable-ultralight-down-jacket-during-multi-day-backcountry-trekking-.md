@@ -94,7 +94,7 @@ Selecting an ultralight [down jacket](https://www.amazon.com/s?k=down+jacket+out
 - **Backpacks**: Designed for weight distribution and comfort over long days.
 - **Headlamps**: Essential for navigating in low light conditions.
 
-By integrating these recommendations, you can ensure a well-rounded gear setup that complements the performance of your ultralight down jacket during multi-day backcountry treks.
+By integrating these recommendations, you can ensure a well-rounded gear setup that complements the performance of your ultralight [down jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) during multi-day backcountry treks.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

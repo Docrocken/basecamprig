@@ -84,9 +84,15 @@ A portable water filter (e.g., Katadyn BeFree or LifeStraw Flex 2000) ensures th
 Optimizing down [camp booties]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+booties+outdoor+gear&tag=basecamprig-21) for use above the tree line on exposed ridges requires a thoughtful balance between weight, insulation, and safety. By employing advanced materials and design techniques, it is possible to create effective gear that minimizes weight while maintaining critical performance characteristics. The integration of these booties with other essential outdoor equipment ensures both comfort and safety during challenging alpine conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Rain Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By following the strategies outlined in this guide, you can confidently navigate high-altitude terrain, ensuring a safer and more enjoyable experience without compromising on the demands of weight optimization.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

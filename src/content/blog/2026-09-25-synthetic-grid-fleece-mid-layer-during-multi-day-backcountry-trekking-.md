@@ -52,7 +52,7 @@ In an alpine environment where temperatures can drop rapidly and sustained winds
 
 | Item | Specification | Usage |
 |------|--------------|-------|
-| Hardshell Jacket | Gore-Tex Pro 20,000/15,000 membrane, 180g/m² weight, 3-layer construction | Protection from wind and light rain, high breathability |
+| [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) | Gore-Tex Pro 20,000/15,000 membrane, 180g/m² weight, 3-layer construction | Protection from wind and light rain, high breathability |
 | Synthetic Grid Fleece Mid-Layer | 200 Denier polyester grid fleece, 1.7 mm thickness, R-value 2.5 | Insulation, moisture management |
 
 

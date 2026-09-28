@@ -86,7 +86,7 @@ Designing an expedition stove that performs well in wet conditions involves seve
 4. **Fuel Type Selection**:
    - Choose fuel types that are less prone to moisture contamination (e.g., isobutane-based fuels).
 
-5. **Use of [Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) or Additional Lighting**:
+5. **Use of [Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) or Additional Lighting**:
    - Utilize headlamps to illuminate the stove setup and monitor for any signs of water accumulation.
 
 

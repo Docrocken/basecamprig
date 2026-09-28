@@ -40,6 +40,9 @@ A high-quality sleeping bag is crucial for maintaining body heat during overnigh
 | R-value              | N/A                                 |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Satellite Communicator]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)satellite+communicator+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Sleeping Pad

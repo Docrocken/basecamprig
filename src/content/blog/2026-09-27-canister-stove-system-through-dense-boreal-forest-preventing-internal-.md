@@ -61,7 +61,7 @@ Using additional gear such as a stove cover or [bivy sack]([https://www.amazon.c
 > **Field Rig Pick:** For harsh field exposure, verified [Trail Running Shoes]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trail+running+shoes+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 - **Stove Covers:** These are often made from waterproof materials like nylon with a hydrostatic head of 10,000 mm or more to resist heavy rainfall.
-- **Bivy Sacks:** When used over the entire setup, these provide an additional layer of insulation and protection.
+- **[Bivy Sacks](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21):** When used over the entire setup, these provide an additional layer of insulation and protection.
 
 ## Fabric Specifications
 
@@ -109,7 +109,7 @@ In dense boreal forests, preventing internal condensation and moisture buildup i
 | Insulated Canister Stove | - Reactor or LiteMax 300 <br>- Thermal barrier layer, insulation layer                                    |
 | Bivy Sack              | - High-denier nylon (500-700 denier) <br>- Hydrostatic head: 10,000+ mm <br>- Breathability: 20,000+ g/m²/24h |
 | Stove Cover            | - High-denier nylon or polyester blend <br>- Denier: 500-700 denier <br>- Hydrostatic head: 10,000+ mm     |
-| Dry Bag                | - 2 mm thick, high-barrier polyethylene <br>- Hydrostatic head: 15,000+ mm                               |
+| [Dry Bag](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21)                | - 2 mm thick, high-barrier polyethylene <br>- Hydrostatic head: 15,000+ mm                               |
 | Water Filter/Purifier   | - LifeStraw Flex or MSR Guardian                                                                         |
 
 By integrating these technical solutions into your outdoor gear and practices, you can mitigate the risks of internal condensation and ensure reliable stove performance in dense boreal forests.

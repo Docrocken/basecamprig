@@ -18,7 +18,7 @@ In remote winter basecamp setups, reliable and efficient water filtration system
 
 ### Hydrostatic Head Test
 
-The hydrostatic head test measures a material's resistance to water penetration under pressure. For a Gravity camp water filter, this is particularly important as it ensures that even in heavy snow or rain, the filter can prevent contaminants from entering the clean water supply. 
+The hydrostatic head test measures a material's resistance to water penetration under pressure. For a Gravity camp [water filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21), this is particularly important as it ensures that even in heavy snow or rain, the filter can prevent contaminants from entering the clean water supply. 
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Outdoor Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)outdoor+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -74,9 +74,9 @@ Proper maintenance is essential for extending the life of your Gravity camp wate
 - **Tents:** Lightweight, high-strength tents are essential for providing shelter during setup and operation of the Gravity camp water filter.
 - **Boots:** Insulated boots with good traction are necessary for moving around in snowy conditions while setting up or maintaining the filtration system.
 - **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** A waterproof hardshell jacket helps keep you dry if there is any leakage from the setup.
-- **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** For heating water and keeping it liquid during cold operations, a reliable camp stove is crucial.
-- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** High R-value sleeping bags are necessary for maintaining body heat while using the Gravity camp water filter.
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21):** A robust backpack with a hydration bladder can be used to carry additional filtration supplies if needed.
+- **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** For heating water and keeping it liquid during cold operations, a reliable [camp stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) is crucial.
+- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** High R-value [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) are necessary for maintaining body heat while using the Gravity camp water filter.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** A robust backpack with a hydration bladder can be used to carry additional filtration supplies if needed.
 - **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21):** Reliable headlamps ensure visibility in low-light conditions when setting up or repairing the system.
 
 ## Conclusion

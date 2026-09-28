@@ -46,7 +46,7 @@ In extremely cold conditions, additional heat sources like chemical hand warmers
 Effective layering is key to staying warm and dry in sub-zero temperatures.
 
 - **Outer Shell**: The hammock should be packed separately from other gear to avoid moisture transfer.
-- **Insulation Layers**: Place the sleeping pad, followed by the sleeping bag. Use a thermal barrier or insulating mat if available.
+- **Insulation Layers**: Place the [sleeping pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21), followed by the [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21). Use a thermal barrier or insulating mat if available.
 - **Internal Insulations**: Include footwarmers and any additional heating elements within the sleeping area.
 
 ### 2. Moisture Management

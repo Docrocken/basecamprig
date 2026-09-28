@@ -9,7 +9,10 @@ category: "Gear & Field Setups"
 
 ## Introduction to Bivy Sacks for Thru-Hiking
 
-[Bivy sacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) are essential gear for solo thru-hikers, offering a lightweight and compact sleeping solution compared to traditional tents. They provide the necessary shelter from the elements while significantly reducing pack weight and bulkiness. For long-distance hikers, choosing the right bivy sack is crucial for maintaining comfort and safety throughout extended periods in harsh conditions.
+[Bivy sacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) are essential gear for solo thru-hikers, offering a lightweight and compact sleeping solution compared to traditional tents. They provide the necessary shelter from the elements while significantly reducing pack weight and bulkiness. For long-distance hikers, choosing the right [bivy sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) is crucial for maintaining comfort and safety throughout extended periods in harsh conditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Poles]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+poles+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -58,7 +61,7 @@ Insulation loss over time is another critical factor. Both down and synthetic fi
 Choosing an ultralight bivy sack for long-distance solo thru-hikes requires careful consideration of various factors including hydrostatic head, fabric denier, R-value, fill power, breathability, and design features. By understanding these specifications and conducting thorough field testing, hikers can select a bivy that offers the best balance between weight, comfort, and durability in harsh conditions.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 | **Spec**                 | **Description**                                                                 |
 |--------------------------|---------------------------------------------------------------------------------|

@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction
 
-For solo thru-hikers aiming for lightweight and efficient gear, the choice of a synthetic [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) is crucial. This guide delves into the technical aspects of membrane breathability versus wind resistance in ultralight synthetic sleeping bags, comparing key specifications such as hydrostatic head (mm), fabric Denier, R-value, fill power, and more. Understanding these factors will help hikers select the most suitable sleeping bag for their specific needs.
+For solo thru-hikers aiming for lightweight and efficient gear, the choice of a synthetic [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) is crucial. This guide delves into the technical aspects of membrane breathability versus wind resistance in ultralight synthetic [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21), comparing key specifications such as hydrostatic head (mm), fabric Denier, R-value, fill power, and more. Understanding these factors will help hikers select the most suitable sleeping bag for their specific needs.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Backpacking Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+stove+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -97,6 +97,6 @@ Choosing an ultralight synthetic sleeping bag for long-distance solo thru-hikes 
 | B         | 15                              | 100                        | 70          | 750                             |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This table provides a direct comparison, allowing hikers to choose based on their specific needs and preferences.

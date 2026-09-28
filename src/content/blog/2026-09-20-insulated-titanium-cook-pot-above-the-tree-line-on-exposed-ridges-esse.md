@@ -68,7 +68,7 @@ Setting up the basecamp involves creating a stable cooking platform that can wit
 
 #### Cold Weather Considerations
 
-When temperatures drop below freezing, consider additional insulating layers for the cook pot and stove. A small heat-insulating mat can be placed under the stove to reduce heat loss:
+When temperatures drop below freezing, consider additional insulating layers for the [cook pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) and stove. A small heat-insulating mat can be placed under the stove to reduce heat loss:
 
 - **Insulation Mat Dimensions**: 20 x 30 cm
 - **Thickness**: 5 mm
@@ -92,7 +92,7 @@ For overnight stays in exposed ridges, a high-quality [sleeping bag]([https://ww
 
 #### Backpack
 
-A lightweight [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) with a capacity of at least 60 liters for carrying all the gear is recommended. Ensure it has multiple compartments and features such as:
+A lightweight [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) with a capacity of at least 60 liters for carrying all the gear is recommended. Ensure it has multiple compartments and features such as:
 
 - **Hip Belt**: Adjustable for comfort
 - **Rain Cover**: Integrated or attached rain cover to protect contents from moisture

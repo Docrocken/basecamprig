@@ -51,7 +51,7 @@ Proper cooking equipment is necessary for maintaining energy levels and food hyg
 Proper lighting is essential for safety, especially during setup and teardown when visibility may be low.
 
 - **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: A dual-battery headlamp with at least 200 lumens, such as the Black Diamond Spot.
-- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21)**: A battery-powered lantern to provide additional light inside the tent.
+- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A battery-powered lantern to provide additional light inside the tent.
 
 #### Water Management
 Water is critical for survival but must be managed carefully in cold weather.

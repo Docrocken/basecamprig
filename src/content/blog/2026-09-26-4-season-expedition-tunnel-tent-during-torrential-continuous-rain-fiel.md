@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 This guide is designed for experienced outdoor enthusiasts who are setting up a 4-season expedition [tunnel tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) in torrential continuous rain conditions. The focus will be on the maintenance, drying procedures, and tear repair techniques required to ensure your shelter remains functional and safe during prolonged rainfall.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Key Specifications of the Tunnel Tent
@@ -78,10 +81,13 @@ Ensure your gear is prepared before setting up in torrential rain:
 
 ## Conclusion
 
-Maintaining and repairing a 4-season expedition tunnel tent during torrential continuous rain requires diligence and proper tools. By following this guide, you can ensure your shelter remains functional and safe throughout challenging weather conditions. Always carry essential repair items such as waterproofing agents, sewing kits, and dehumidifiers to address any issues that may arise.
+Maintaining and repairing a 4-season expedition [tunnel tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) during torrential continuous rain requires diligence and proper tools. By following this guide, you can ensure your shelter remains functional and safe throughout challenging weather conditions. Always carry essential repair items such as waterproofing agents, sewing kits, and dehumidifiers to address any issues that may arise.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 | Gear Checklist |
 |----------------|

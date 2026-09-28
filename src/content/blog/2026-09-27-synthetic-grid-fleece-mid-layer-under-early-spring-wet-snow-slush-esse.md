@@ -31,7 +31,10 @@ Wet snow slush can lead to rapid moisture buildup. The fabric used for the synth
 | **Breathability**  | 8,000 g/m²/24h              |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Layering Strategy
 

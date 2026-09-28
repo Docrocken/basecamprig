@@ -9,10 +9,10 @@ category: "Gear & Field Setups"
 
 ## Introduction
 
-In the unpredictable climate of shoulder seasons, where temperature drops can be sudden and harsh, selecting a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) that balances breathability with wind resistance is critical. This field guide evaluates the performance of a 65L internal frame trekking pack in such conditions through a detailed comparison of membrane breathability versus wind resistance.
+In the unpredictable climate of shoulder seasons, where temperature drops can be sudden and harsh, selecting a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) that balances breathability with wind resistance is critical. This field guide evaluates the performance of a 65L internal frame trekking pack in such conditions through a detailed comparison of membrane breathability versus wind resistance.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown
 

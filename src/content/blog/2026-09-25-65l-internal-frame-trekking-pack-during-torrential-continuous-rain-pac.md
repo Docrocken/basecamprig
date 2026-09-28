@@ -12,7 +12,10 @@ category: "Gear & Field Setups"
 When faced with torrential continuous rain during an outdoor trek, maintaining gear functionality becomes a critical concern. The 65L internal frame trekking pack is a staple in many hikers' and trekkers' arsenals due to its versatile design and substantial capacity. However, prolonged exposure to heavy rain can significantly impact the performance of this equipment.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Hydrostatic Head and Fabric Durability
 
@@ -63,11 +66,17 @@ Periodically inspect the pack for any signs of wear and tear, especially around 
 | **Pack Capacity**      | 65L                                                                                               |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Trail Running Shoes]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trail+running+shoes+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Conclusion
 
 Navigating through torrential continuous rain requires meticulous planning and the use of high-quality gear. By understanding the engineering specs and employing effective packing methodologies, you can ensure that your 65L internal frame trekking pack remains functional and reliable throughout your journey. Regular maintenance and proper storage will also help in extending the life span of this vital piece of equipment.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Wool Base Layer](https://www.amazon.com/s?k=merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Gravity Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gravity+water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

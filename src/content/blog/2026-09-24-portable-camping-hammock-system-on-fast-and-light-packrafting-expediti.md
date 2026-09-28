@@ -72,7 +72,7 @@ Below is a detailed setup example using the above components:
 > **Field Rig Pick:** For harsh field exposure, verified [Backpacking Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+stove+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 3. **Additional Gear:**
-   - Position your [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) near you to provide lighting without moving.
+   - Position your [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) near you to provide lighting without moving.
    - Keep [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) and other essential items easily accessible during setup.
 
 
@@ -86,7 +86,7 @@ A well-configured portable camping hammock system is an integral part of any fas
 | **Hammock**           | 210T Nylon, 68 Denier, 4000mm Hydrostatic Head, 350g        |
 | **Suspension Straps** | Spectra, 30 lb Breaking Strength                            |
 | **Rain Fly**          | 210T Nylon, 68 Denier, 4500mm Hydrostatic Head, 100g       |
-| **Sleeping Bag**      | Synthetic Fill Power 500, R-value 2.5                       |
+| **[Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)**      | Synthetic Fill Power 500, R-value 2.5                       |
 | **Underquilt**        | Insulated, Provides Additional Ground Insulation            |
 | **Stakes and Tree Bags** | Aluminum Stakes, Tree Bags for Secure Attachment           |
 

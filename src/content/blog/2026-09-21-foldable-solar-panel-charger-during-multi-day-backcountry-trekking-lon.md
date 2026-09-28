@@ -48,7 +48,7 @@ Foldable [solar panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=
 
 | Component           | Details                                            |
 |---------------------|---------------------------------------------------|
-| Solar Panel Type    | Monocrystalline or Polycrystalline                 |
+| [Solar Panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) Type    | Monocrystalline or Polycrystalline                 |
 | Efficiency          | 18-20%                                             |
 | Foldable Design     | Yes, folds into a compact size for easy carrying   |
 | Battery Capacity    | 5000 mAh to 20000 mAh                             |

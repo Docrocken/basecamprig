@@ -70,8 +70,8 @@ For winter basecamps, a combination of both properties might be ideal. The use o
 
 - **Tents**: Choose high-quality, weatherproof tents that protect against both wind and rain.
 - **Boots**: Opt for waterproof, insulated boots that also have membrane technology for breathability.
-- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: Invest in lightweight yet robust hardshell jackets to provide additional wind resistance.
-- **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: Ensure reliable heating options like camp stoves or portable heaters to keep the basecamp warm and dry.
+- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: Invest in lightweight yet robust [hardshell jackets](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) to provide additional wind resistance.
+- **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: Ensure reliable heating options like [camp stoves](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) or portable heaters to keep the basecamp warm and dry.
 
 ### Example Gear
 - **Merino Wool Socks with Membrane Technology**: Brands like Icebreaker offer socks that combine breathability with membrane technology for protection against moisture.

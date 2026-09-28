@@ -66,7 +66,7 @@ In bog and swamp conditions, the primary concern is maintaining body heat while 
 
 ## Case Study: Bog Camping Experience
 
-During a recent bog camping trip in a humid environment, the team used a 30D membrane with a hydrostatic head of 5000 mm. The night was cold and windy, but the combination of the breathable membrane and a closed-cell foam mat provided adequate insulation against moisture from below.
+During a recent bog camping trip in a humid environment, the team used a 30D membrane with a hydrostatic head of 5000 mm. The night was cold and windy, but the combination of the breathable membrane and a closed-cell [foam mat](https://www.amazon.com/s?k=foam+mat+outdoor+gear&tag=basecamprig-21) provided adequate insulation against moisture from below.
 
 However, during early morning hours when winds picked up, the team noted that the lack of wind resistance in their closed-cell foam mat led to rapid cooling, despite the good breathability of the membrane. They considered adding a wind barrier or using a [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) as an additional layer to enhance wind protection.
 

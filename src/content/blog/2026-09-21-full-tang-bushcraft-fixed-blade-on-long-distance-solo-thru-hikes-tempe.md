@@ -52,7 +52,7 @@ Comfort limits are influenced by the overall design and materials used. A full-t
 > **Field Rig Pick:** When operating in these environments, reliable [Expedition Tent](https://www.amazon.com/s?k=expedition+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Comparisons with Other Gear
 
@@ -73,7 +73,7 @@ A high-efficiency camp stove can provide warmth and prepare food, complementing 
 Selecting a full-tang bushcraft fixed blade with appropriate temperature ratings and comfort limits is critical for long-distance solo thru-hikes, especially in extreme environments. The knife must be designed to withstand the harsh conditions while ensuring user safety and comfort. By considering factors such as material composition, insulation, and compatibility with other gear, hikers can enhance their experience and increase their chances of success on these challenging journeys.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Gravity Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gravity+water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to Down Camping Quilts
 
-Down camping quilts are lightweight and highly compressible insulation systems designed for [sleeping bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) that can be used as a quilt. They offer the benefits of down in terms of warmth, packability, and quick drying while retaining the versatility of being able to be used on their own or with other components like a sleeping bag. For conditions such as torrential continuous rain, the use of a high-quality down camping quilt is essential to maintain insulation efficiency despite the wet environment.
+Down camping quilts are lightweight and highly compressible insulation systems designed for [sleeping bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) that can be used as a quilt. They offer the benefits of down in terms of warmth, packability, and quick drying while retaining the versatility of being able to be used on their own or with other components like a [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21). For conditions such as torrential continuous rain, the use of a high-quality down camping quilt is essential to maintain insulation efficiency despite the wet environment.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Dry Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dry+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -79,7 +79,7 @@ A draft tube is included to prevent cold air from entering between the quilt and
 When using a down camping quilt in torrential rain conditions, it is important to consider the overall sleep environment. Proper setup includes:
 
 - **Tent Setup:** Ensure the tent is set up with proper ventilation to prevent condensation but keep it waterproof.
-- **[Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21):** Use an insulated sleeping pad to maintain warmth and comfort during rainy nights.
+- **[Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21):** Use an insulated [sleeping pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) to maintain warmth and comfort during rainy nights.
 - **Ventilation:** Keep small openings in the tent for air circulation, which can help prevent the quilt from getting too wet inside.
 
 ### Gear Compatibility
@@ -88,8 +88,8 @@ When using a down camping quilt with other gear:
 
 - **Tent:** A waterproof/breathable three-season tent is recommended to protect against rain while allowing some ventilation.
 - **Boots and Footwear:** Goretex boots provide both water resistance and warmth.
-- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** A high-quality hardshell jacket offers additional protection from the elements.
-- **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** A lightweight camp stove ensures you can prepare hot meals, which can help keep you warm during breaks.
+- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** A high-quality [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) offers additional protection from the elements.
+- **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** A lightweight [camp stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) ensures you can prepare hot meals, which can help keep you warm during breaks.
 - **Sleeping Bag:** A down sleeping bag with a temperature rating of at least 20°F (–7°C) is recommended for added warmth and comfort.
 
 ### Conclusion

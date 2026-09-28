@@ -56,6 +56,9 @@ Breathable membranes like Gore-Tex are also crucial to prevent overheating and m
 | Breathability          | Gore-Tex (30,000 g/m²/24h)                         |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Cook Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Field Analysis and Selection

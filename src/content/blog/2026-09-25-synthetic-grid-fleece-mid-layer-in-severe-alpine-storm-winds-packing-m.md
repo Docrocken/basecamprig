@@ -47,7 +47,7 @@ Consider a scenario where you are hiking in the Swiss Alps during an unexpected 
 
 1. **Initial Activity**: You begin your hike wearing only a moisture-wicking base layer (polyester). The synthetic grid fleece is packed in your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21).
 2. **As the Day Progresses**: Once you start to feel cold, you quickly pull out the synthetic grid fleece and wear it over the base layer. This provides additional warmth without bulkiness.
-3. **Storm Arrival**: When a sudden storm hits, you add the down jacket for wind resistance and waterproof outer protection. The synthetic grid fleece remains effective at keeping you warm by trapping air between your body and the [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21).
+3. **Storm Arrival**: When a sudden storm hits, you add the [down jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) for wind resistance and waterproof outer protection. The synthetic grid fleece remains effective at keeping you warm by trapping air between your body and the [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21).
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Silnylon Tarp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)silnylon+tarp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to Winter Gear in Remote Camps
 
-When setting up a winter basecamp in remote environments, every ounce of gear matters. [Hiking socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) are not just for comfort; they play critical roles in moisture management and thermal regulation. In cold, wet conditions, the right sock can mean the difference between a comfortable night's sleep and hypothermia. This guide focuses on optimizing weight while ensuring safety through the use of [merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) hiking socks.
+When setting up a winter basecamp in remote environments, every ounce of gear matters. [Hiking socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) are not just for comfort; they play critical roles in moisture management and thermal regulation. In cold, wet conditions, the right sock can mean the difference between a comfortable night's sleep and hypothermia. This guide focuses on optimizing weight while ensuring safety through the use of [merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) [hiking socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21).
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -30,7 +30,7 @@ Hiking socks are essential in maintaining foot health and preventing issues such
 
 ### Moisture Management
 
-Merino wool is renowned for its exceptional moisture-wicking properties. This means it can absorb and quickly evaporate sweat from the skin, keeping feet dry even in active conditions.
+[Merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) is renowned for its exceptional moisture-wicking properties. This means it can absorb and quickly evaporate sweat from the skin, keeping feet dry even in active conditions.
 
 - **Moisture Absorption Capacity:** Up to 30% of its own weight.
 - **Evaporation Rate:** Rapid evaporation due to the unique structure of merino fibers which allows for rapid transfer through the fabric.
@@ -76,7 +76,7 @@ When selecting merino wool hiking socks for a remote winter basecamp setup, cons
 
 - **Tents:** Ensure your sleeping system ([sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) and pad) can complement the added thermal layer provided by the merino wool socks.
 - **Boots:** Pair with waterproof, insulated boots to maintain insulation against cold ground temperatures.
-- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** Layering with a hardshell jacket can provide additional protection from wind and rain.
+- **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** Layering with a [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) can provide additional protection from wind and rain.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** Keep your stove warm and functional by staying dry; merino wool socks help prevent moisture buildup.
 
 ### Example Setup
@@ -84,7 +84,7 @@ When selecting merino wool hiking socks for a remote winter basecamp setup, cons
 A typical setup might include:
 
 1. **Sleeping System:**
-   - Sleeping Bag R-value 6
+   - [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) R-value 6
    - Thermarest NeoAir XTherm Insulated [Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21)
 2. **Footwear:**
    - Marmot Moab GTX Waterproof [Hiking Boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21)

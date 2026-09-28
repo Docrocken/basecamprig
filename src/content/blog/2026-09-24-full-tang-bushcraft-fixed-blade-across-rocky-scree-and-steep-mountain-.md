@@ -57,7 +57,7 @@ For day trips or shorter hikes in rocky scree and steep mountain passes, a small
 
 | Gear Item | Specification |
 | --- | --- |
-| [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)daypack+outdoor+gear&tag=basecamprig-21) | Osprey Atmos AG 20, 30L capacity, 17 oz (body only), made with 50D nylon ripstop and 420D poly taffeta fabric |
+| [Daypack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) | Osprey Atmos AG 20, 30L capacity, 17 oz (body only), made with 50D nylon ripstop and 420D poly taffeta fabric |
 
 ### Modular Rig Assembly
 To create a versatile and efficient modular rig, start by assembling your basecamp essentials. Place the tent, sleeping bag, and camp stove in their designated spots. Then, pack your daypack with necessary items like water filter, headlamp, and first-aid kit.
@@ -65,10 +65,10 @@ To create a versatile and efficient modular rig, start by assembling your baseca
 | Gear Item | Placement |
 | --- | --- |
 | Tent | Central area of basecamp |
-| Sleeping Bag | Inside tent or separate shelter |
+| [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) | Inside tent or separate shelter |
 | [Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) | Near cooking area for easy access |
 | Daypack | On the ground near your sleeping area |
 
 ## Conclusion
 
-Navigating rocky scree and steep mountain passes requires a well-prepared and organized kit. By selecting the right full-tang bushcraft fixed blade, along with other essential gear like a high-quality camp stove, sleeping bag, [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21), [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21), [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21), and modular rig configuration, you can ensure safety, comfort, and efficiency throughout your journey. Remember to customize your setup based on specific terrain challenges and weather conditions for the best possible outcomes.
+Navigating rocky scree and steep mountain passes requires a well-prepared and organized kit. By selecting the right full-tang bushcraft fixed blade, along with other essential gear like a high-quality [camp stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21), sleeping bag, [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21), and modular rig configuration, you can ensure safety, comfort, and efficiency throughout your journey. Remember to customize your setup based on specific terrain challenges and weather conditions for the best possible outcomes.

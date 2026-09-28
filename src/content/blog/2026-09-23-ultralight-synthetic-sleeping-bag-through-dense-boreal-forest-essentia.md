@@ -101,4 +101,7 @@ Navigating through the dense boreal forest requires careful planning and a well-
 This guide provides a comprehensive overview of the technical aspects and practical considerations involved in preparing for a backpacking trip through dense boreal forests using ultralight synthetic [sleeping bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21).
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

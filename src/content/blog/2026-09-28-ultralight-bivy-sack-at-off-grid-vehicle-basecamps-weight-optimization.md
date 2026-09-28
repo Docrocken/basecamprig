@@ -9,7 +9,10 @@ category: "Gear & Field Setups"
 
 ## Introduction to Bivy Sacks for Basecamp Use
 
-[Bivy sacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) are essential gear for off-grid vehicle basecamps, offering lightweight and compact shelter solutions. These sacks provide a crucial layer of protection from the elements while maintaining minimal weight, making them indispensable in environments where every gram counts. The key challenge is finding bivy sacks that balance weight optimization with safety and comfort—factors that are often at odds given the harsh conditions encountered during off-grid expeditions.
+[Bivy sacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) are essential gear for off-grid vehicle basecamps, offering lightweight and compact shelter solutions. These sacks provide a crucial layer of protection from the elements while maintaining minimal weight, making them indispensable in environments where every gram counts. The key challenge is finding [bivy sacks](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) that balance weight optimization with safety and comfort—factors that are often at odds given the harsh conditions encountered during off-grid expeditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Quilt]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+quilt+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -31,6 +34,9 @@ Fire safety should not be overlooked in basecamp environments. Bivy sacks must m
 Hydrostatic head measures the fabric's ability to withstand water pressure. For a bivy sack intended for off-grid use, a minimum hydrostatic head of 3000mm is recommended. This ensures that it can handle heavy rain or snow without leaking.
 
 Fabric denier refers to the thickness and weight of the material. A lower denier means lighter weight but potentially less durability. For example, a 50-denier nylon outer shell provides adequate strength while keeping the overall weight down.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Down Jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

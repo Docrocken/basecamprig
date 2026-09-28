@@ -57,7 +57,7 @@ To evaluate the Gravity camp water filter's performance under severe alpine stor
    - It passed with flying colors at 10,500 mm, far exceeding the required 10,000 mm.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 2. **Abrasion Resistance Test:**
    - The housing was repeatedly rubbed against a rough surface (like rocks) and subjected to high-impact drops.
@@ -71,7 +71,7 @@ To evaluate the Gravity camp water filter's performance under severe alpine stor
    - It provided excellent warmth retention, maintaining a comfortable temperature even when exposed to harsh winds and sub-zero temperatures.
 
 4. **Breathability Test:**
-   - A [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) filled with the filter's components was tested for moisture buildup during prolonged use.
+   - A [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) filled with the filter's components was tested for moisture buildup during prolonged use.
    - The backpack remained dry on the inside, while external moisture was effectively kept out, ensuring the contents stayed warm and dry.
 
 ## Conclusion
@@ -84,8 +84,8 @@ To enhance overall performance in alpine environments, consider pairing the Grav
 - **Boots:** Insulated and waterproof boots such as the Salomon X Ultra 3 GTX or La Sportiva Nuptse GTX.
 - **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** Gore-Tex Pro or Pertex Quantum for maximum breathability and water resistance.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** Lightweight, efficient stoves like the MSR WhisperLite Universal or Jetboil Flash.
-- **Sleeping Bags:** Warm and lightweight bags such as the Kelty Trail 20 or Therm-a-Rest NeoAir XTherm.
+- **[Sleeping Bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21):** Warm and lightweight bags such as the Kelty Trail 20 or Therm-a-Rest NeoAir XTherm.
 - **Backpacks:** High-quality backpacks with built-in rain covers from brands like Osprey or Deuter.
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21):** Bright, rechargeable headlamps with high lumens for visibility in low light conditions.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21):** Bright, rechargeable headlamps with high lumens for visibility in low light conditions.
 
 By combining these recommendations with the Gravity camp [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21), you can ensure a well-equipped and prepared expedition through even the harshest alpine storms.

@@ -20,7 +20,7 @@ When selecting down camp booties for humid bog and swamp terrain, several factor
 5. **Comfort**: A well-padded sole and cushioning provide comfort during extended wear.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Hydrostatic Head and Fabric Denier
 ### Hydrostatic Head
@@ -74,8 +74,8 @@ To ensure the best experience in humid bog and swamp terrain, consider the follo
 - **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: For unexpected downpours during outdoor activities.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: For cooking meals and boiling water for hydration.
 - **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose a bag with an appropriate temperature rating, ideally 0°F (-18°C) or lower.
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: A waterproof backpack is essential to carry all the necessary gear.
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: For navigating in low-light conditions.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A waterproof backpack is essential to carry all the necessary gear.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: For navigating in low-light conditions.
 - **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: To purify water from natural sources.
 
 ## Conclusion

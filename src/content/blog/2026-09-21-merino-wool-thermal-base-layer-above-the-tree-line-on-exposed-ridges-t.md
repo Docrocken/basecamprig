@@ -66,6 +66,9 @@ Choosing the right merino wool thermal base layer is crucial for maintaining com
 | **Moisture Management** | Water-repellent surface to prevent over-saturation |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Expedition Tent](https://www.amazon.com/s?k=expedition+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
@@ -74,7 +77,10 @@ Choosing the right merino wool thermal base layer is crucial for maintaining com
 This guide aims to provide a comprehensive understanding of the technical aspects involved in selecting appropriate gear for high-altitude adventures, ensuring that adventurers can focus on their journey rather than their clothing.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Bivy Sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

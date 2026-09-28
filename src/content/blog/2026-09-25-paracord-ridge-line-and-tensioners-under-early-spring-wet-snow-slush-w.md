@@ -59,7 +59,7 @@ Optimizing weight while maintaining safety is a delicate balance when setting up
 
 | **Component**             | **Specification**                        |
 |---------------------------|-----------------------------------------|
-| **[Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21)**              | Strength: 450-500 lbs (200-230 kg)       |
+| **[Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**              | Strength: 450-500 lbs (200-230 kg)       |
 |                          | Flexibility and Weather Resistance       |
 | **Nylon/Polyester Fabric**| Denier: 1050D                           |
 |                          | Hydrostatic Head: ≥10,000mm               |
@@ -69,9 +69,15 @@ Optimizing weight while maintaining safety is a delicate balance when setting up
 | **Load Distribution**     | Even Across Multiple Points             |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By adhering to these specifications and design principles, outdoor professionals can create efficient, safe, and lightweight systems that withstand the rigors of early spring conditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

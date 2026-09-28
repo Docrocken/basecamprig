@@ -70,9 +70,15 @@ Managing internal condensation in an alpine geodesic storm tent is essential for
 | **Tent Repair Kit**         | Seam sealing tape, waterproofing spray             |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By following these guidelines and understanding the technical aspects of moisture management in an alpine setting, expedition members can enhance their comfort and performance on fast-and-light packrafting trips.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

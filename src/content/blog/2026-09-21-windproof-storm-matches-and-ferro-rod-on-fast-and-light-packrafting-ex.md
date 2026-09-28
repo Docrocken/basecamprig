@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 In the realm of fast-and-light packrafting expeditions, maintaining warmth and dryness while minimizing weight is crucial. This guide delves into the technical aspects of windproof storm matches and ferro rods, focusing on their integration with membrane breathability versus wind resistance in various outdoor settings.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hot Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hot+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 At off-grid vehicle basecamps, maintaining a dry environment is crucial for both comfort and safety. The challenge lies in preventing internal condensation and moisture buildup inside the shelter. A common issue encountered by outdoor enthusiasts is the formation of condensation on tent walls and surfaces when the temperature drops at night or when there's a significant difference between indoor and outdoor temperatures.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Analysis
 

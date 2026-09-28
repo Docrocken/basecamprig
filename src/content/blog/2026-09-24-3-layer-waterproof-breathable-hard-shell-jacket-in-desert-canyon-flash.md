@@ -89,4 +89,7 @@ For desert canyon flash-freeze environments:
 By choosing the right gear and understanding the specific requirements of your environment, you can ensure a safer and more comfortable outdoor experience in desert canyon flash-freeze conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

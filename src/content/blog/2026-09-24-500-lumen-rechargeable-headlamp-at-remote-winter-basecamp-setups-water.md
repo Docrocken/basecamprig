@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ### Introduction to Gear Selection in Extreme Conditions
 
-In the realm of winter expeditions, every piece of equipment must perform under harsh conditions. A reliable [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) is a crucial component for basecamps where darkness can descend rapidly, especially during winter months when temperatures plummet and light becomes scarce. The 500-lumen rechargeable headlamp is an essential tool that must withstand the harshest environments while providing sufficient illumination to ensure safety and productivity.
+In the realm of winter expeditions, every piece of equipment must perform under harsh conditions. A reliable [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is a crucial component for basecamps where darkness can descend rapidly, especially during winter months when temperatures plummet and light becomes scarce. The 500-lumen rechargeable headlamp is an essential tool that must withstand the harshest environments while providing sufficient illumination to ensure safety and productivity.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Rain Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -65,7 +65,7 @@ A headlamp with at least 500 lumens provides ample illumination for tasks requir
 A rechargeable battery ensures continuous operation without the need for frequent replacements. Lithium-ion batteries are preferred due to their high energy density and low self-discharge rate:
 
 - **Battery Capacity**: Minimum of 3,700 mAh.
-- **Charging Method**: USB-C or micro-USB for easy recharging from a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) [power bank]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21).
+- **Charging Method**: USB-C or micro-USB for easy recharging from a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) [power bank]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21).
 
 ### Additional Features
 

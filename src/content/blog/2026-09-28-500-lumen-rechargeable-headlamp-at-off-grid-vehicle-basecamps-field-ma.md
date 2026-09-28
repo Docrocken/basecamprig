@@ -47,6 +47,9 @@ In outdoor settings, accidents can happen, leading to tears in the headlamp’s 
    - Sew in a straight line across the tear, making sure to backstitch at the beginning and end for added stability.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Satellite Communicator]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)satellite+communicator+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 3. **Sealing with Fabric Glue:**
@@ -54,11 +57,17 @@ In outdoor settings, accidents can happen, leading to tears in the headlamp’s 
    - This step is optional but recommended for enhanced durability.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Foam Mat](https://www.amazon.com/s?k=foam+mat+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Expedition Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)expedition+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 4. **Testing the Repair:**
    - After allowing the repair to dry completely, test the area by gently pulling and stretching the fabric to ensure no further tearing occurs.
    - Conduct a final check under low light conditions to verify the repair holds up well.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Quilt]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+quilt+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

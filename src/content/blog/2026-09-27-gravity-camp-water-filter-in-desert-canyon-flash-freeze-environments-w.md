@@ -82,4 +82,7 @@ Optimizing the gravity camp water filter for desert canyon flash-freeze environm
 This technical breakdown ensures that the filter can be used effectively in desert canyon flash-freeze environments while maintaining a lightweight design.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

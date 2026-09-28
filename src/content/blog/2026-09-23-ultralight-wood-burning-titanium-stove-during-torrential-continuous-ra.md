@@ -19,6 +19,9 @@ For this ultralight wood burning titanium stove, the hydrostatic head was tested
 - **Test Methodology:** The fabric is placed between two plates, and increasing amounts of water are added until the fabric fails. This can be quantified by the amount of pressure (measured in mm) that the fabric can withstand before water begins to penetrate.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Dome Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dome+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Test Results
@@ -34,6 +37,9 @@ The abrasion test evaluates how well a fabric resists wear and tear, which can b
 For this stove:
 - **Test Methodology:** A specialized machine applies controlled frictional forces to the fabric.
 - **Results Measurement:** The number of cycles before significant wear is noted, typically measured in cycles.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Saw](https://www.amazon.com/s?k=camp+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -72,4 +78,7 @@ The ultralight wood burning titanium stove demonstrated exceptional performance 
 By understanding these technical specifications and practical applications, users can confidently rely on this stove for their next outdoor adventure in challenging weather conditions.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

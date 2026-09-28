@@ -27,7 +27,7 @@ The core of an ultralight down jacket lies in its fill material. The most common
 #### Fabric Properties
 The outer shell fabric should be both durable and water-resistant. A common choice is nylon or polyester, treated with a hydrostatic head that measures the resistance to moisture.
 
-- **Hydrostatic Head**: Indicates how much pressure (in mm) a fabric can withstand before it starts to leak. For ultralight down jackets used in cold environments, a **hydrostatic head of 1500-2000 mm** is recommended.
+- **Hydrostatic Head**: Indicates how much pressure (in mm) a fabric can withstand before it starts to leak. For ultralight [down jackets](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) used in cold environments, a **hydrostatic head of 1500-2000 mm** is recommended.
 - **Denier**: A measure of the thickness of yarn or thread used. A lower denier (e.g., 40D) means finer threads and lighter weight.
 
 ### Breathability
@@ -62,6 +62,9 @@ Breathability is important to prevent condensation build-up inside the jacket, w
 | **Weight**          | <300 grams                                                                     |
 | **Pack Size**       | Fits in a small stuff sack (e.g., 8" x 7")                                     |
 | **Temperature Rating** | -10°C (-14°F) Nominal, -25°C (-13°F) True Comfort Limits                       |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

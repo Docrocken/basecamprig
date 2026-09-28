@@ -100,7 +100,7 @@ Selecting the right 3-layer waterproof breathable hard shell jacket is crucial f
 > **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By adhering to these guidelines and specifications, outdoor enthusiasts can effectively prepare for and manage the challenges of torrential continuous rain.
 

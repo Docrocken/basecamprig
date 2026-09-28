@@ -80,6 +80,9 @@ This guide provides a detailed framework for managing weight while maintaining s
 > **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Foam Mat](https://www.amazon.com/s?k=foam+mat+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

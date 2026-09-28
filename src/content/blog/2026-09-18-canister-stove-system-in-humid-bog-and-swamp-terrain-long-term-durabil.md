@@ -68,7 +68,10 @@ The canister stove system demonstrated excellent long-term durability in humid b
 By understanding the specific requirements and selecting appropriate gear, outdoor enthusiasts can ensure reliable performance of their canister stove systems in challenging boggy environments.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Trekking Poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

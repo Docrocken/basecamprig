@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In the realm of fast-and-light packrafting expeditions, every piece of gear must be carefully chosen. One such essential is a hatchet, which serves multiple purposes from cutting wood for shelters and fires to providing an all-around tool for tasks both mundane and emergency. This guide focuses on selecting a packable camp hatchet that can withstand the rigors of outdoor conditions while maintaining portability.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Bushcraft Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bushcraft+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Key Engineering Specifications
@@ -63,7 +66,7 @@ For a hatchet intended for packrafting and camping expeditions, the choice of me
 Choosing the right membrane for a packable camp hatchet involves considering both breathability and wind resistance. A hatchet that provides excellent protection against rain and wind while maintaining comfort is essential for fast-and-light packrafting expeditions. By weighing these factors, adventurers can ensure they have reliable tools and gear to face any outdoor challenge.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Specifications Table
 
@@ -78,4 +81,4 @@ Choosing the right membrane for a packable camp hatchet involves considering bot
 This table provides a concise comparison of key specifications between two hypothetical hatchets. By understanding these technical details and their implications, outdoor enthusiasts can make informed decisions when equipping themselves for their next adventure.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

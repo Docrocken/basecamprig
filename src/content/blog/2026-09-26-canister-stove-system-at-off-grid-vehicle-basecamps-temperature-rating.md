@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 Canister stoves are a critical component of outdoor survival in off-grid environments. These compact, lightweight devices are designed for use with pressurized gas canisters, offering reliable heat even under challenging conditions. Understanding the temperature ratings and true comfort limits is essential for optimizing performance and ensuring safety during extended backcountry stays.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Backpacking Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+stove+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown of Canister Stoves
@@ -70,6 +73,9 @@ In extremely cold conditions, fuel can freeze within the canister, requiring pre
 Understanding and managing the temperature ratings and comfort limits of canister stoves is crucial for successful outdoor operations at off-grid vehicle basecamps. By carefully selecting appropriate gear and adapting to environmental conditions, users can maximize stove performance and ensure a safer and more comfortable experience in challenging wilderness settings.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dry Bag](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Gear Recommendations
@@ -83,6 +89,9 @@ Understanding and managing the temperature ratings and comfort limits of caniste
 - **Water Filters**: Portable water filters or chemical treatments to ensure safe drinking water.
 
 By integrating these recommendations into your gear selection and operational strategy, you can significantly enhance the reliability and comfort of your off-grid basecamp experience.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Mummy Bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

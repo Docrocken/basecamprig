@@ -80,4 +80,7 @@ In dense boreal forests, choosing a tent with both excellent membrane breathabil
 This guide provides the technical insights necessary to make informed decisions when equipping yourself for your next expedition into the boreal forests.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

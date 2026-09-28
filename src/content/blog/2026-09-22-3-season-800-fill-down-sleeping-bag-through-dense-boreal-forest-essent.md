@@ -61,7 +61,7 @@ Navigating through dense boreal forests in three seasons requires meticulous pla
 | **[Sleeping Pad]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+pad+outdoor+gear&tag=basecamprig-21)**        | 4-season foam or self-inflating pad, temperature rating -20°C (-4°F).                                 |
 | **[Backpacking Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+stove+outdoor+gear&tag=basecamprig-21)**   | Alcohol-based stove or multi-fuel model like MSR PocketRocket 2.                                    |
 | **[Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**        | Gravity-fed filter with a capacity of at least 1.5 liters.                                            |
-| **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**            | High-output LED headlamp, 200+ lumens, minimum runtime 6 hours on low settings.                      |
+| **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**            | High-output LED headlamp, 200+ lumens, minimum runtime 6 hours on low settings.                      |
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

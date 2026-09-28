@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Overview of the 20000mAh Field Power Bank
 
-A rugged 20000mAh field [power bank]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21) is a critical component in outdoor and basecamp setups, providing essential charging capacity for devices like smartphones, cameras, GPS units, and even small portable electronics. When facing torrential continuous rain, ensuring that your power bank remains functional and operational becomes paramount.
+A rugged 20000mAh field [power bank]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21) is a critical component in outdoor and basecamp setups, providing essential charging capacity for devices like smartphones, cameras, GPS units, and even small portable electronics. When facing torrential continuous rain, ensuring that your [power bank](https://www.amazon.com/s?k=power+bank+outdoor+gear&tag=basecamprig-21) remains functional and operational becomes paramount.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -55,7 +55,7 @@ When packing your 20000mAh field power bank for use during torrential continuous
 
 2. **Layered Packaging**: Use multiple layers of protective materials such as plastic wrap, ziplock bags, or even specialized outdoor gear bags. Ensure that all openings are sealed tightly to prevent water infiltration.
 
-3. **Placement in Gear**: Position the power bank strategically within your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) where it is least likely to be exposed directly to rain. For instance, placing it near the base of the pack or inside a [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) compartment can help shield it from splashes and condensation.
+3. **Placement in Gear**: Position the power bank strategically within your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) where it is least likely to be exposed directly to rain. For instance, placing it near the base of the pack or inside a [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) compartment can help shield it from splashes and condensation.
 
 4. **Ventilation Considerations**: Ensure that the power bank has adequate ventilation by avoiding completely sealing it in tight spaces. This will allow for natural airflow and prevent overheating during use.
 

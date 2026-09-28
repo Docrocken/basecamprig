@@ -64,8 +64,8 @@ In addition to windproof storm matches and ferro rods, consider the following:
 ### Lighting and Navigation
 Proper lighting is vital, especially during prolonged exposure to storms:
 
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: Rechargeable headlamps with at least 200 lumens.
-- **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: Portable water filters or purifiers that can handle rough conditions.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: Rechargeable headlamps with at least 200 lumens.
+- **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: Portable [water filters](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) or purifiers that can handle rough conditions.
 
 ## Material Analysis
 

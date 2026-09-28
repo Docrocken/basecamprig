@@ -59,7 +59,7 @@ In a recent multi-day backcountry trek in Alaska, participants used both down an
 
 | **Gear**              | **Material Specifications**             | **Field Role**                      |
 |-----------------------|------------------------------------------|-------------------------------------|
-| **Mummy Bag A**       | Down Fill 650+, R-value 3.8, Hydrostatic head 12,000mm, Breathable membrane        | Primary [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) for extreme cold|
+| **[Mummy Bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21) A**       | Down Fill 650+, R-value 3.8, Hydrostatic head 12,000mm, Breathable membrane        | Primary [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) for extreme cold|
 | **Mummy Bag B**       | Polarguard Gold, R-value 4.2, Weight 4 lbs (1.8 kg), Breathable inner lining      | Backup or second layer of insulation |
 | **[Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) C**    | Thermarest NeoAir XTherm, R-value 5.0     | Insulation under the body            |
 | **Insulated Vest D**  | Synthetic, R-value 3.2, Water-resistant outer fabric                             | Additional warmth during rest periods|

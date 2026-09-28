@@ -75,6 +75,9 @@ In sub-zero winter freeze and snow scenarios, the synthetic grid fleece mid-laye
 | **Weight**                 | Approximately 280g                                                       |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Tunnel Tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

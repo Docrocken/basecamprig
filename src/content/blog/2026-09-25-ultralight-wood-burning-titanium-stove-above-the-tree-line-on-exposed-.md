@@ -82,7 +82,7 @@ An integrated ignition system using either matches or a spark wheel provides rel
 - **Boots**: Insulated, waterproof boots are crucial for trekking in harsh conditions.
 - **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A breathable, water-resistant hardshell jacket provides insulation while maintaining airflow.
 - **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: The ultralight titanium stove as described above.
-- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose a mummy-style sleeping bag with a temperature rating appropriate for the expected low temperatures. Look for bags rated to -20°C (-4°F) or lower.
+- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose a mummy-style [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) with a temperature rating appropriate for the expected low temperatures. Look for bags rated to -20°C (-4°F) or lower.
 - **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: A lightweight, 65L backpack with a hydration bladder will help carry all your gear without adding unnecessary weight.
 - **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: A headlamp with multiple LED settings can provide both light and warmth in cold conditions.
 

@@ -33,13 +33,13 @@ In addition to the tent itself, the sleeping pad and bag also play a role in moi
 |                     | Hydrostatic Head: 3000mm                  |
 |                     | Breathability Index: 5000 g/m²/24h         |
 | **Ventilation**     | Multiple mesh panels and top vents        |
-| **Sleeping Pad**    | R-value: 4-6                              |
+| **[Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21)**    | R-value: 4-6                              |
 |                     | Material: High-density foam or air pad    |
 | **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**    | Fill Power: 500                           |
 |                     | Down fill, synthetic alternative          |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Practical Steps to Mitigate Condensation
 

@@ -57,7 +57,7 @@ Several other pieces of gear can enhance the comfort and functionality of your h
 
 - **Waterproof Trousers and Boots:** Essential for preventing water ingress from muddy ground.
 - **Warm Layers:** A [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) or waterproof shell will keep you warm and dry.
-- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) or Flashlight:** For setting up camp, navigating the area at night, or finding your way in low-light conditions.
+- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) or Flashlight:** For setting up camp, navigating the area at night, or finding your way in low-light conditions.
 
 ## Modular Rig Configuration
 
@@ -76,7 +76,7 @@ To maintain stability in swampy terrain, consider the following setup:
 ### 3. Lighting and Safety
 Proper lighting is crucial for setting up in low light and ensuring safety:
 
-- **Headlamp Placement:** Attach headlamps to your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) or tarp for hands-free illumination.
+- **Headlamp Placement:** Attach headlamps to your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) or tarp for hands-free illumination.
 - **Emergency Signal Gear:** Carry a whistle, mirror, or emergency beacon as part of your safety kit.
 
 ## Conclusion
@@ -84,4 +84,4 @@ Proper lighting is crucial for setting up in low light and ensuring safety:
 Setting up a portable camping [hammock system]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hammock+system+outdoor+gear&tag=basecamprig-21) in humid bog and swamp terrain requires careful consideration of the specific challenges posed by such environments. By selecting appropriate materials and configuring your setup thoughtfully, you can ensure both comfort and safety during extended stays in these demanding conditions. Whether you're a seasoned camper or new to outdoor adventures, understanding the technical aspects of this equipment will help you make informed decisions for your next expedition.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

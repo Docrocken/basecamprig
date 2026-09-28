@@ -41,7 +41,7 @@ The geodesic alpine storm tent is a high-performance shelter designed for extrem
    - Ensure all pouches are securely closed to prevent leaks or damage.
 
 4. **Layering System:**
-   - Place the lighter items (tents, poles) at the bottom of your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) for a lower center of gravity.
+   - Place the lighter items (tents, poles) at the bottom of your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) for a lower center of gravity.
    - Position heavier components like [sleeping bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) and [camp stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) above.
 
 5. **Protective Wrapping:**
@@ -50,7 +50,7 @@ The geodesic alpine storm tent is a high-performance shelter designed for extrem
 
 6. **Stowage of Additional Gear:**
    - Pack boots, [hardshell jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21), and other outerwear at the top for easy access before setting up camp.
-   - Store [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21), [water filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21), and other small items in a dedicated pocket or pouch inside your backpack.
+   - Store [headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), [water filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21), and other small items in a dedicated pocket or pouch inside your backpack.
 
 ## Tips for Maintaining Gear Longevity
 

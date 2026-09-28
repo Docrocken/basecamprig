@@ -33,7 +33,7 @@ While not typically a primary feature of hatchets, considering the insulation pr
 The hatchet should be lightweight and packable to ensure it doesn’t add unnecessary bulk to your load. A compact design allows for easy storage in a backpack or gear bag.
 
 - **Weight:** Approximately 1 kg (2.2 lbs)
-- **Packability:** The hatchet should fit snugly into a dedicated sheath that can be rolled up and packed inside a small compartment of your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21).
+- **Packability:** The hatchet should fit snugly into a dedicated sheath that can be rolled up and packed inside a small compartment of your [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21).
 
 ## Technical Breakdown
 ### Design Considerations
@@ -89,6 +89,9 @@ A packable camp hatchet designed to handle rocky scree and steep mountain passes
 - **Water Filters:** Ensure you have a robust water filter system to provide clean drinking water from natural sources.
 
 By equipping yourself with the right tools and understanding their performance characteristics, your outdoor adventures will be safer and more enjoyable.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Gravity Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gravity+water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

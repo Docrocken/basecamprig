@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to Gear Selection for Basecamps
 
-When setting up a remote winter basecamp in harsh environments like snow and mud, the choice of gear can significantly impact comfort, safety, and efficiency. Among essential items are [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), which protect your lower legs from moisture, cold, and debris while you move through difficult terrain. This guide delves into comparing membrane breathability versus wind resistance in gaiters to help you make informed decisions.
+When setting up a remote winter basecamp in harsh environments like snow and mud, the choice of gear can significantly impact comfort, safety, and efficiency. Among essential items are [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), which protect your lower legs from moisture, cold, and debris while you move through difficult terrain. This guide delves into comparing membrane breathability versus wind resistance in gaiters to help you make informed decisions.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Fleece Hoodie]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)fleece+hoodie+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -21,7 +21,7 @@ In outdoor environments where bears are a significant risk to human safety, bear
 Bear-resistant food canisters are engineered with robust materials to withstand both bear attacks and environmental extremes. The primary components include:
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 - **Shell**: Typically constructed from high-strength polyester or nylon fabric, the shell is coated with a durable layer of polyurethane (PU) or silicone elastomer to prevent water penetration.
   - **Fabric Denier**: Ranges between 1200D to 4200D, providing varying degrees of strength and flexibility.
@@ -58,7 +58,7 @@ The temperature ratings of BRFCs are critical for ensuring food safety and prese
 True comfort limits refer to the practical usability of a BRFC during continuous torrential rain. This includes factors such as weight, ease of use, and overall durability in harsh conditions.
 
 - **Weight**: Generally ranging from 1 to 5 kg (2.2 to 11 lbs), with lighter models preferred for extended backcountry trips.
-  - **Carrying System**: Some canisters come equipped with durable shoulder straps or [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)-compatible attachments.
+  - **Carrying System**: Some canisters come equipped with durable shoulder straps or [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)-compatible attachments.
 - **Ease of Use**: Features such as integrated handles, locking mechanisms, and detachable lids enhance user convenience during bear encounters and routine use.
 - **Durability**: Canisters must withstand repeated attacks from bears without compromising the integrity of stored food. This is tested through rigorous certification processes.
 
@@ -81,7 +81,7 @@ To maximize comfort and safety during torrential continuous rain:
 - **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Select high-quality sleeping bags with excellent water resistance and thermal retention.
 - **Backpacks**: Choose backpacks with weatherproof exteriors and insulated compartments.
 - **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: Ensure you have a reliable headlamp with sufficient battery life for low-light conditions.
-- **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: Carry a portable water filter to ensure safe drinking water in case of contaminated sources.
+- **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: Carry a portable [water filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) to ensure safe drinking water in case of contaminated sources.
 
 ## Conclusion
 

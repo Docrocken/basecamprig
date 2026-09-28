@@ -58,8 +58,8 @@ When selecting a stove for your expedition, consider the following gear items to
 - **[Hardshell Jackets]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: Invest in a high-quality hardshell jacket such as the Patagonia Torrent Rider or The North Face Storm裤。
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: A stove that meets the specified hydrostatic head and abrasion resistance criteria, like the MSR PocketRocket 2 or Snow Peak Litetec.
 - **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A sleeping bag with a temperature rating suitable for your expected conditions. For example, a -15°C rated bag such as the Therm-a-Rest NeoAir XTherm or Mountain Hardware Helium 30.
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: A backpack designed for heavy loads and rough terrain, like the Osprey Exos 65 or Gregory Baltoro 65.
-- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: A reliable headlamp with a long battery life, such as the Black Diamond Spot Plus or Petzl Etoro+ Headlamp.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A backpack designed for heavy loads and rough terrain, like the Osprey Exos 65 or Gregory Baltoro 65.
+- **[Headlamps]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A reliable headlamp with a long battery life, such as the Black Diamond Spot Plus or Petzl Etoro+ Headlamp.
 - **[Water Filters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: A compact water filter like the MSR Guardian or Katadyn Pocket Filter to ensure clean drinking water.
 
 ### Conclusion

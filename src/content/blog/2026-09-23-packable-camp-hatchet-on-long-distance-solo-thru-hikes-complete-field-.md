@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In the realm of long-distance solo thru-hiking, a packable camp hatchet is an essential piece of equipment. It serves multiple purposes, including cutting firewood, preparing meals, and basic shelter maintenance. However, when considering such tools for extended backpacking trips, weight, packability, durability, and overall functionality become critical factors.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Saw](https://www.amazon.com/s?k=camp+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Essential Features and Specifications
@@ -59,6 +62,9 @@ Some hatchets come with built-in fire steel or striker materials for starting fi
 | **Additional Features** | Fire Steel, Built-in Striker            |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Down Jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Bear Canister]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bear+canister+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Selecting the Right Hatchet for Your Thru-Hike
@@ -81,6 +87,9 @@ Consider the **BladeMaster BMT-120**, a popular choice among thru-hikers:
 - **Additional Features**: Integrated Fire Starter
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Saw]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+saw+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Performance in the Field
@@ -89,6 +98,9 @@ In harsh conditions, this hatchet has proven reliable. The high-carbon steel bla
 ## Conclusion
 
 A packable camp hatchet is an indispensable tool for long-distance solo thru-hikes. By carefully selecting materials and features, you can ensure that your hatchet remains lightweight yet durable. Proper selection and maintenance will enhance your hiking experience by providing versatile utility without compromising on weight or functionality.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [First Aid Kit]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)first+aid+kit+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

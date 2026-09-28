@@ -19,7 +19,7 @@ Humid bog and swamp terrains present unique challenges for outdoor enthusiasts a
 - **Woven Structure**: [Merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) is usually knitted in a fine gauge to enhance flexibility and comfort.
   
 ### Thermal Performance
-- **Hydrostatic Head**: While not a typical spec for wool, merino wool can withstand light rain due to its hydrophobic nature. A 100 mm rating would be equivalent but not commonly used.
+- **Hydrostatic Head**: While not a typical spec for wool, [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) can withstand light rain due to its hydrophobic nature. A 100 mm rating would be equivalent but not commonly used.
 
 - **Breathability (Moisture Vapor Transmission Rate - MVTR)**: Typically around 30,000 g/m²/24h for high-quality merino wool, ensuring sweat can evaporate quickly.
   

@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 This field guide provides a comprehensive technical analysis of the Gravity Camp [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)'s performance across rocky scree and steep mountain passes, focusing on long-term durability under harsh environmental conditions. The guide is designed for outdoor professionals and enthusiasts who require reliable water purification equipment in challenging terrains.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Key Specifications
@@ -22,7 +25,10 @@ This field guide provides a comprehensive technical analysis of the Gravity Camp
 
 ## Filter Design and Construction
 
-The Gravity Camp water filter is designed with durability in mind, featuring a robust construction that can withstand the rigors of rocky scree and steep mountain passes.
+The Gravity Camp [water filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is designed with durability in mind, featuring a robust construction that can withstand the rigors of rocky scree and steep mountain passes.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Poles]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+poles+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

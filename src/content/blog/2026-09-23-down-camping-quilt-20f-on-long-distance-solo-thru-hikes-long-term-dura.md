@@ -64,9 +64,15 @@ The Down Camping Quilt 20F is an invaluable piece of gear for long-distance solo
 | **Weight**                  | 31 oz (0.9 kg)                                   |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Tunnel Tent](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Fleece Hoodie]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)fleece+hoodie+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By selecting the Down Camping Quilt 20F, solo hikers can focus on enjoying their journey without worrying about their warmth and comfort, ensuring a successful and enjoyable long-distance hike.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 On long-distance solo thru-hikes, maintaining proper stove performance is crucial for food preparation. One of the common issues faced by hikers using liquid fuel stoves involves internal condensation and moisture buildup. This can lead to reduced cooking efficiency, safety hazards, and a generally unpleasant experience. Understanding and addressing this issue requires knowledge of both the mechanics involved and practical solutions.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## The Mechanism of Condensation
 

@@ -57,6 +57,9 @@ The insulated titanium cook pot with its advanced waterproof hydrostatic head an
 By choosing the right [cook pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21), you enhance your ability to prepare hot meals, stay warm, and maintain hydration in even the most demanding conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Folding Knife](https://www.amazon.com/s?k=folding+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

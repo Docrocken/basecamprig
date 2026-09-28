@@ -80,7 +80,7 @@ In torrential rain conditions, the hollow fiber membrane filter pump must be ful
 - **Tents and Shelter**: Ensure that your shelter is secure and waterproof to prevent rain from seeping inside.
 - **Boots and Gear Protection**: Use waterproof boots and gear bags to protect essential items from moisture.
 - **[Camp Stoves]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) and Cooking Gear**: Keep stove fuel, cooking oil, and other supplies dry. Consider using a waterproof container or cover for the stove.
-- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) and [Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: Ensure that sleeping bags and backpacks are fully sealed and protected from rain.
+- **[Sleeping Bags]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) and [Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: Ensure that [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) and backpacks are fully sealed and protected from rain.
 
 ### Conclusion
 

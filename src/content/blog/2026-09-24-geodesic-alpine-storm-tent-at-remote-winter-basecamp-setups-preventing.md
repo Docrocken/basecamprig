@@ -36,7 +36,7 @@ Condensation occurs when warm, moist air meets a cold surface or cooler air with
 A geodesic design offers multiple benefits in harsh winter conditions, including enhanced stability, better distribution of wind load, and improved interior space for effective ventilation.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Key Features
 - **Fabric**: Silicone-coated nylon with a 10000mm hydrostatic head and 2000g/m²/24h breathability.

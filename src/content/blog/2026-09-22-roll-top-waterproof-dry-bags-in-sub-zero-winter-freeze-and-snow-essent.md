@@ -52,7 +52,7 @@ A modular rig configuration allows for flexible and efficient organization of ge
 ### Scenario 1: Basecamp Setup
 At the base of a mountain, you are setting up camp for an extended winter expedition. The temperature is -20°C with light snowfall. You need to organize your gear to keep it dry and functional:
 
-- **Primary Dry Bags**: Place sleeping bags (with their liners inside) in large dry bags.
+- **Primary [Dry Bags](https://www.amazon.com/s?k=dry+bag+outdoor+gear&tag=basecamprig-21)**: Place [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) (with their liners inside) in large dry bags.
 - **Sub-bags**: Use smaller dry bags for food, clothing layers, and other essential items.
 - **Tarp Cover**: If necessary, cover larger dry bags with a tarp to prevent snow accumulation.
 
@@ -68,6 +68,9 @@ Roll-top waterproof dry bags are crucial in sub-zero winter conditions. Their ro
 ---
 
 This guide provides detailed insights and practical advice for using roll-top waterproof dry bags effectively in sub-zero winter environments, emphasizing both technical specifications and real-world applications.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Folding Saw]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)folding+saw+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

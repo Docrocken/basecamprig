@@ -86,14 +86,17 @@ Selecting the right foldable solar panel charger for a remote winter basecamp se
 
 | Component         | Specifications                                                                                                    |
 |-------------------|------------------------------------------------------------------------------------------------------------------|
-| Solar Panel       | 100W Monocrystalline, foldable design, waterproof connectors, 10,000mm hydrostatic head                         |
+| [Solar Panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21)       | 100W Monocrystalline, foldable design, waterproof connectors, 10,000mm hydrostatic head                         |
 | Battery           | 12V Lithium-ion, high capacity (e.g., 36Ah)                                                                      |
 | Charge Controller | MPPT technology, temperature compensation, voltage range 12-48V DC                                               |
 | Tent              | PTFE-coated polyester or nylon fabric, at least 150D Denier                                                      |
-| Sleeping Bag      | Down fill with a minimum of 600 fill power, R-value of at least 3.5                                             |
+| [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21)      | Down fill with a minimum of 600 fill power, R-value of at least 3.5                                             |
 | Boots             | Goretex membrane with hydrostatic head of at least 10,000mm, synthetic or down insulation                        |
 | [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)  | Goretex membrane with hydrostatic head of at least 10,000mm, synthetic insulation                                |
 | [Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)        | Propane or isobutane canisters, windscreen kits                                                                  |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Backpacking Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

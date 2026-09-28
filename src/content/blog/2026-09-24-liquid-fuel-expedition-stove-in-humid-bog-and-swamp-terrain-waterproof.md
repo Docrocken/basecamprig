@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 Humid bog and swamp terrains present unique challenges for outdoor enthusiasts. These environments are characterized by high humidity levels, often dense vegetation, and a variety of wet conditions that can affect the performance of gear. For an effective cooking solution, especially during extended expeditions, it is crucial to select a stove that can withstand these harsh conditions.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Key Considerations for Stoves in Humid Bog and Swamp Terrain
 
@@ -44,7 +44,7 @@ Insulation is necessary to maintain the stove's internal temperature and prevent
 | Example Stove Model   | 2.5 R                          | 800 Fill       |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown: Waterproof Hydrostatic Head and Abrasion Test
 

@@ -31,6 +31,9 @@ Down provides excellent warmth-to-weight ratio due to its ability to trap air po
 | Mountain Hardware  | Ultralight Mummy | 850                 | 1.3         |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 #### Hydrostatic Head
@@ -43,6 +46,9 @@ Synthetic materials offer consistent warmth retention even when wet but are gene
 | **Brand**     | **Model**          | **Fill Power** | **R-Value** |
 |---------------|--------------------|----------------|-------------|
 | The North Face | Thermoball Mummy  | N/A             | 2.5         |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Wool Base Layer](https://www.amazon.com/s?k=merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -94,6 +100,9 @@ For a successful sub-zero winter trekking experience, the following gear complem
 Selecting a sub-zero winter mummy bag requires careful consideration of insulation type, breathability, and fit. The technical breakdown provided here offers a comprehensive guide for outdoor enthusiasts planning multi-day backcountry treks in extreme cold conditions. By choosing the right gear, adventurers can ensure they stay warm and comfortable during their journey.
 
 By integrating these components into your backpacking setup, you will be well-equipped to handle the challenges of sub-zero temperatures and enjoy a safer and more enjoyable winter trekking experience.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Power Bank](https://www.amazon.com/s?k=power+bank+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trail Running Shoes]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trail+running+shoes+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

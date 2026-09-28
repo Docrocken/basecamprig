@@ -93,7 +93,7 @@ Choosing between a breathable synthetic [sleeping bag](https://www.amazon.com/s?
 
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool Base Layer]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-This technical analysis highlights the trade-offs between these two critical factors, ensuring that your sleeping bag choice aligns with the demands of your outdoor adventure.
+This technical analysis highlights the trade-offs between these two critical factors, ensuring that your [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) choice aligns with the demands of your outdoor adventure.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Rain Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

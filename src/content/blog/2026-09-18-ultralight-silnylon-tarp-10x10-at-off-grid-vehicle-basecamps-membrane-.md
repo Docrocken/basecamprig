@@ -67,7 +67,7 @@ At your off-grid vehicle basecamp, consider the following scenarios:
 2. **Cold Weather Setup**:
    - Position the tarp to provide maximum wind protection.
    - Use additional layers of insulation such as a double-layered tarp or a storm shelter.
-   - Consider using a waterproof/breathable [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) liner for added comfort and protection.
+   - Consider using a waterproof/breathable [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) liner for added comfort and protection.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Tunnel Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)tunnel+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -94,4 +94,4 @@ Choosing between breathability and wind resistance in an ultralight silnylon tar
 
 > **Field Rig Pick:** For harsh field exposure, verified [Power Bank]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-By carefully selecting and configuring your gear, you can optimize the performance of a 10x10 silnylon tarp for various off-grid scenarios, ensuring both comfort and security at your vehicle basecamp.
+By carefully selecting and configuring your gear, you can optimize the performance of a 10x10 [silnylon tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) for various off-grid scenarios, ensuring both comfort and security at your vehicle basecamp.

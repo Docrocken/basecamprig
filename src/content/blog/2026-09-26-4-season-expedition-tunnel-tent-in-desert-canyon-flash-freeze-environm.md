@@ -47,6 +47,9 @@ The abrasion resistance was tested using a Taber abrasion machine, which simulat
 3. **Final Condition:** After abrasion, the fabric was again weighed and measured for any changes in dimensions or thickness.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Dome Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dome+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Results
@@ -83,6 +86,9 @@ For 4-season expeditions in desert canyon flash-freeze environments, the 4-seaso
 | Water Filter       | Portable filter with a minimum 0.2 micron rating    |
 
 This comprehensive guide ensures that you are well-prepared for any challenges faced during your expedition, providing peace of mind and enhancing the overall safety and comfort of your outdoor adventure.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Rain Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

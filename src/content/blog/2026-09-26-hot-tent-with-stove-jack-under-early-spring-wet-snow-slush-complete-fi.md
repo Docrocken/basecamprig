@@ -66,4 +66,7 @@ Setting up a hot tent with a stove jack under early spring wet snow slush requir
 This guide provides a comprehensive framework to help you make informed decisions when selecting tents, stove jacks, and other essential camping equipment for early spring conditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Merino Socks](https://www.amazon.com/s?k=merino+socks+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hot Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hot+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

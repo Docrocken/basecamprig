@@ -77,9 +77,15 @@ A well-designed geodesic alpine storm tent is crucial for navigating sudden temp
 | **Weight**              | 3.5 kg (excluding stakes and guy lines)          |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Foam Mat](https://www.amazon.com/s?k=foam+mat+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By adhering to these specifications, outdoor enthusiasts can ensure a safe and comfortable experience in alpine environments during unpredictable weather conditions.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Silnylon Tarp](https://www.amazon.com/s?k=silnylon+tarp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

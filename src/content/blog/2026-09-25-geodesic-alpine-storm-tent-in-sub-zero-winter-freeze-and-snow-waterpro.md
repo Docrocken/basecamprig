@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 In sub-zero winter conditions, the choice of gear becomes paramount for survival. One critical piece of equipment is the geodesic alpine storm tent designed to withstand extreme cold, strong winds, and heavy snowfall. This field guide delves into the technical aspects of a high-performance geodesic alpine storm tent, focusing on its waterproof hydrostatic head rating and abrasion resistance.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Fleece Hoodie]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)fleece+hoodie+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Specifications
@@ -42,7 +45,10 @@ In sub-zero winter conditions, the choice of gear becomes paramount for survival
 The hydrostatic head test is a critical measure of how well the outer fabric repels water. In this test, a column of water is gradually increased on one side until the fabric fails and water penetration occurs. For our geodesic alpine storm tent:
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 - **Test Method:** The standard ISO 811 test method is applied.
 - **Result:** A hydrostatic head rating of 8000 mm indicates that the outer fabric can resist a column of water measuring 8 meters (26 feet) high before it starts to penetrate. This makes the tent suitable for harsh winter conditions where heavy snow and prolonged rain are common.

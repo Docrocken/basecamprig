@@ -82,6 +82,9 @@ Titanium frames are ideal due to their lightweight and durability. They can with
 | Nasal Pads        | Silicone                         | Memory foam                       |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Bushcraft Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bushcraft+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Additional Considerations

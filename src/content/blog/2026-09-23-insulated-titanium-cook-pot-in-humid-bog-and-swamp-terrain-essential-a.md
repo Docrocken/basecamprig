@@ -36,7 +36,7 @@ A well-configured modular rig can significantly enhance the effectiveness of you
 #### Insulated Titanium Cook Pot Setup
 
 1. **Base Camp Cooking Station**
-   - **Surface Preparation**: Use a portable stove pad to insulate the cook pot from direct contact with damp surfaces.
+   - **Surface Preparation**: Use a portable stove pad to insulate the [cook pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) from direct contact with damp surfaces.
    - **Stove Compatibility**: Opt for a multi-fuel stove that can operate efficiently even when placed on wet ground.
 
 2. **Water Filtration and Purification**
@@ -58,16 +58,16 @@ A well-configured modular rig can significantly enhance the effectiveness of you
    - **Fitting**: Ensure they fit snugly but comfortably to prevent water from pooling under the jacket.
 
 6. **Sleep System**
-   - **Bivy or [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A high R-value sleeping bag (minimum R-value 5) is crucial in damp environments, especially if you need to set up camp at night.
+   - **Bivy or [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A high R-value [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) (minimum R-value 5) is crucial in damp environments, especially if you need to set up camp at night.
    - **Insulation Layer**: Use a synthetic fill with a fill power of 400+ for additional warmth and moisture resistance.
 
 #### Navigation Tools
 
-7. **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**
+7. **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**
    - **Design Features**: A waterproof backpack with internal hydration system can help manage gear and water effectively.
    - **Packing Essentials**: Include a map, compass, GPS device, and emergency whistle in your pack.
 
-8. **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**
+8. **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**
    - **Light Output**: At least 100 lumens for effective visibility in low light conditions.
    - **Battery Life**: Choose rechargeable batteries or solar-powered options to ensure long-lasting illumination without additional weight.
 

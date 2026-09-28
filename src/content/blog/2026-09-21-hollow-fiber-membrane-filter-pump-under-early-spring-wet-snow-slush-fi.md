@@ -75,6 +75,9 @@ Proper field maintenance and repair of your hollow fiber membrane filter pump in
 This guide offers comprehensive advice on handling your hollow fiber membrane filter pump in challenging environments, helping to ensure you have access to clean drinking water even when conditions are at their most demanding.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bushcraft Knife](https://www.amazon.com/s?k=bushcraft+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

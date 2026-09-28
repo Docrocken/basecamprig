@@ -12,7 +12,7 @@ category: "Gear & Field Setups"
 In the context of remote winter basecamps, a full-tang bushcraft fixed blade is an indispensable tool. This guide provides detailed field maintenance procedures to ensure that your knife remains in optimal condition during harsh winter conditions. The focus will be on techniques for drying and tear repair, ensuring that you can maintain functionality and reliability even when working in extreme environments.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown of the Full-tang Bushcraft Fixed Blade
 
@@ -93,9 +93,9 @@ For more severe tears or those involving the blade, consider using specialized t
 - **Boots**: Insulated, waterproof crampons or snow boots with an R-value of at least 2.0 for warmth.
 - **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: With a fabric Denier of 600D to resist abrasion and wear.
 - **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: An ultralight stove like the Snow Peak GEL-1 or MSR PocketRocket for efficient cooking in cold weather.
-- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A down sleeping bag with a fill power of at least 700, designed for temperatures ranging from -20°C to -30°C.
-- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: A lightweight, waterproof backpack with a capacity of 50 liters to carry all essential gear.
-- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: With rechargeable batteries and high-output LEDs for illumination during low-light conditions.
+- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A down [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) with a fill power of at least 700, designed for temperatures ranging from -20°C to -30°C.
+- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A lightweight, waterproof backpack with a capacity of 50 liters to carry all essential gear.
+- **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: With rechargeable batteries and high-output LEDs for illumination during low-light conditions.
 - **[Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21)**: An inline or gravity-fed filter system capable of filtering water from streams and lakes.
 
 ## Conclusion

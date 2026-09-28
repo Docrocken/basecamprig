@@ -70,11 +70,17 @@ Choose stoves that perform well in damp conditions:
 |               | Ventilation            | Multiple vents for air circulation |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Cook Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 | **Boot**      | Hydrostatic head       | 2800mm                    |
 |---------------|------------------------|---------------------------|
 |               | Membrane type          | Gore-Tex                  |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Axe]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+axe+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -92,4 +98,4 @@ Operating in humid bog and swamp terrains requires a well-prepared medical kit t
 By adhering to this guide, you will be better equipped to handle a wide range of medical emergencies while ensuring that your survival gear remains reliable in the most challenging environments.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

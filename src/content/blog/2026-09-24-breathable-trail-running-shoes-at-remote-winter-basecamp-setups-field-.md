@@ -12,11 +12,17 @@ category: "Gear & Field Setups"
 In the winter wilderness, where cold temperatures can quickly turn minor mishaps into major issues, maintaining the functionality of your footwear is crucial. This guide focuses on breathable [trail running shoes]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trail+running+shoes+outdoor+gear&tag=basecamprig-21) specifically designed for remote winter basecamps, detailing effective field maintenance techniques to ensure these shoes remain functional throughout extended expeditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Backpacking Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Engineering Specifications and Fabric Considerations
 
-Trail running shoes must balance breathability with waterproofing in harsh winter conditions. Key specifications include:
+[Trail running shoes](https://www.amazon.com/s?k=trail+running+shoes+outdoor+gear&tag=basecamprig-21) must balance breathability with waterproofing in harsh winter conditions. Key specifications include:
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 - **Hydrostatic Head**: The hydrostatic head rating measures a fabric's ability to withstand water pressure before it starts to leak. For winter use, shoes should have at least 1500mm of hydrostatic head.
   
@@ -73,6 +79,9 @@ For more significant tears, apply a small amount of outdoor-specific adhesive ar
 ### Conclusion
 
 Maintaining breathable trail running shoes in remote winter basecamps is essential for ensuring comfort and performance throughout your expedition. By employing effective drying techniques and knowing how to repair minor tears, you can extend the life of these critical pieces of gear. Always be prepared with the right tools and materials, and follow these guidelines to keep your footwear in top condition.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Down Jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Satellite Communicator]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)satellite+communicator+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

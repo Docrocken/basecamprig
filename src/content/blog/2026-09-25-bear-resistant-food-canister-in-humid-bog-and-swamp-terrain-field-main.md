@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 Humid bog and swamp terrains present a unique set of challenges for outdoor enthusiasts. The high moisture content and potential presence of bears make these environments particularly demanding. For effective food storage, bear-resistant food canisters (BRFCs) are essential. This guide focuses on maintaining BRFCs in such environments to ensure they remain functional.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Gravity Water Filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gravity+water+filter+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Technical Breakdown
@@ -77,6 +80,9 @@ To prevent future tears:
 Proper maintenance and repair of bear-resistant food canisters are crucial when operating in humid bog and swamp terrains. By following this guide, you can ensure that your BRFC remains functional and safe to use, even after exposure to harsh conditions. Regular inspections and timely repairs will extend the lifespan of your canister and keep your food secure from bears and environmental factors.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Specification Table
@@ -93,9 +99,15 @@ Proper maintenance and repair of bear-resistant food canisters are crucial when 
 | Tape Material    | Duct tape (adhesive side water-resistant)     |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This guide provides comprehensive instructions for maintaining and repairing your BRFC in challenging environments. Regular care will help ensure its effectiveness and longevity.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Outdoor Knife](https://www.amazon.com/s?k=outdoor+knife+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -68,7 +68,7 @@ Wind resistance is particularly important when setting up a solar panel charger.
 
 - **Wind Resistance:**
   - Fabric Type with Denier 400 D would be more resistant to high winds, reducing the risk of damage or loss of functionality.
-  - A hardshell [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides an added layer of protection against wind and rain.
+  - A hardshell [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides an added layer of protection against wind and rain.
 
 ### Conclusion
 When navigating through dense boreal forests, choosing gear that balances breathability and wind resistance is crucial. Membrane A with its higher breathability (20,000 g/m²/24h) would be preferable for dealing with high humidity, while a fabric with Denier 400 D ensures better wind resistance. Both factors are essential in maintaining the functionality of a foldable solar panel charger and other critical equipment.

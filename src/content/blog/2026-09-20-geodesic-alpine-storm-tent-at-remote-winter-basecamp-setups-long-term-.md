@@ -12,7 +12,10 @@ category: "Gear & Field Setups"
 Geodesic tents are renowned for their structural efficiency and strength. Unlike traditional pyramid-shaped or A-frame designs, geodesic structures use a network of interconnected triangles that distribute loads evenly across the entire frame. This results in a tent that is more stable under heavy snow and wind conditions, making it an ideal choice for remote winter setups.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Mummy Bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Headlamp](https://www.amazon.com/s?k=[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Solar Panel]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)solar+panel+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

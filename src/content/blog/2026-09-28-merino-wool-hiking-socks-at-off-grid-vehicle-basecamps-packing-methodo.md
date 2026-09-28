@@ -12,13 +12,16 @@ category: "Gear & Field Setups"
 [Merino wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) [hiking socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) are a staple for outdoor enthusiasts due to their superior moisture-wicking, odor-resistance, and temperature-regulating properties. When deployed in off-grid vehicle basecamps, these socks serve as crucial components of the overall gear system, enhancing comfort and performance during extended stays.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Power Bank]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)power+bank+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Specifications of Merino Wool Socks
 
 | **Parameter**          | **Details**                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
-| **Material**           | 100% Merino wool                                                             |
+| **Material**           | 100% [Merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21)                                                             |
 | **Construction**       | Seamless toe, reinforced heel and toe for durability                        |
 | **Fit & Size**         | Medium (fits foot sizes 8-12)                                               |
 | **Weight**             | ~45g per pair                                                                |
@@ -78,7 +81,7 @@ A seasoned hiker documented using merino wool socks during a 10-day expedition t
 
 ## Conclusion
 
-Merino wool hiking socks are an essential part of any outdoor enthusiast's gear for off-grid vehicle basecamps. By understanding their technical specifications and implementing proper packing and maintenance practices, you can ensure these socks enhance your comfort and performance during extended stays in challenging environments.
+Merino wool [hiking socks](https://www.amazon.com/s?k=hiking+socks+outdoor+gear&tag=basecamprig-21) are an essential part of any outdoor enthusiast's gear for off-grid vehicle basecamps. By understanding their technical specifications and implementing proper packing and maintenance practices, you can ensure these socks enhance your comfort and performance during extended stays in challenging environments.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Poles]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+poles+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

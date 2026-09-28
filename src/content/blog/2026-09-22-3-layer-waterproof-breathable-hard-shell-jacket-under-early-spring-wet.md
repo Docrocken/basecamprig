@@ -48,7 +48,7 @@ The primary criterion is the **hydrostatic head rating**, which measures how muc
 
 ### Abrasion Resistance
 
-Abrasion resistance ensures that the fabric does not wear out quickly. This is particularly important when navigating rough terrain or dealing with gear abrasion from [backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) or camping equipment.
+Abrasion resistance ensures that the fabric does not wear out quickly. This is particularly important when navigating rough terrain or dealing with gear abrasion from [backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) or camping equipment.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Backpacking Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

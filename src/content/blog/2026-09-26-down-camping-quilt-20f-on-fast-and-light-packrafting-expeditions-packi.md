@@ -59,4 +59,7 @@ The down camping quilt is a versatile and essential piece of equipment for fast-
 By integrating these recommendations into your packing and usage strategies, you can optimize the performance of your down camping quilt and enhance the overall quality of your packrafting expeditions.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Rain Jacket](https://www.amazon.com/s?k=rain+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Silnylon Tarp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)silnylon+tarp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

@@ -49,7 +49,7 @@ The breathability of merino wool is another key factor. The tiny air pockets wit
 
 ### Layering with Other Gear
 
-When layering merino wool base layers above the tree line, consider the following:
+When layering [merino wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) base layers above the tree line, consider the following:
 
 - **Mid-Layer**: A synthetic mid-layer can provide additional warmth while maintaining breathability.
 - **Outer Shell**: A [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) is necessary to protect against external moisture and wind. Look for a Gore-Tex or similar membrane that offers both waterproofing and breathability.
@@ -58,11 +58,11 @@ When layering merino wool base layers above the tree line, consider the followin
 
 For optimal comfort and performance, the following camping gear should be considered:
 
-- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A high-fill-power down sleeping bag with an R-value of 4+ is recommended for cold nights.
-- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: A lightweight, breathable backpack designed for alpine conditions.
+- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: A high-fill-power down [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) with an R-value of 4+ is recommended for cold nights.
+- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: A lightweight, breathable backpack designed for alpine conditions.
 - **Tent**: A three-season tent with waterproof fly and mesh panels to allow airflow.
 - **Boots**: GORE-TEX [hiking boots]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+boots+outdoor+gear&tag=basecamprig-21) that provide insulation and protection against the elements.
-- **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: An efficient camp stove for cooking hot meals which can help raise body temperature.
+- **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: An efficient [camp stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) for cooking hot meals which can help raise body temperature.
 
 ### Hydration and Nutrition
 

@@ -81,4 +81,7 @@ A well-designed packable camp hatchet is crucial for fast-and-light packrafting 
 By equipping oneself with a durable, packable camp hatchet and the appropriate gear, outdoor enthusiasts can confidently embark on fast-and-light packrafting adventures.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Bear Canister](https://www.amazon.com/s?k=bear+canister+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Rain Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)rain+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

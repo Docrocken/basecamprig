@@ -43,6 +43,9 @@ Immediately after use, especially if the poles have been exposed to moisture or 
    - Ensure the poles are not touching each other and have adequate space for air circulation.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Cook Pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Trail Running Shoes]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trail+running+shoes+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 3. **Proper Storage**:
@@ -95,7 +98,7 @@ Proper maintenance and repair of carbon fiber trekking poles are crucial for ens
 
 ---
 
-This guide provides detailed instructions on how to care for carbon fiber trekking poles, from immediate post-use care to advanced tear repairs. By following these steps, hikers can ensure their equipment remains reliable throughout the entire thru-hike journey.
+This guide provides detailed instructions on how to care for carbon fiber [trekking poles](https://www.amazon.com/s?k=trekking+poles+outdoor+gear&tag=basecamprig-21), from immediate post-use care to advanced tear repairs. By following these steps, hikers can ensure their equipment remains reliable throughout the entire thru-hike journey.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Cook Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

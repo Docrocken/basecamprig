@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction
 
-An off-grid vehicle basecamp is an environment where traditional camping gear may not be sufficient due to harsh conditions such as extreme temperatures, high humidity, or limited access to power. In these situations, a portable [hammock system]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hammock+system+outdoor+gear&tag=basecamprig-21) offers a lightweight, compact solution that can provide comfort and protection while minimizing environmental impact. This guide will detail the selection criteria for materials and components of a hammock system suitable for use in such environments.
+An off-grid vehicle basecamp is an environment where traditional camping gear may not be sufficient due to harsh conditions such as extreme temperatures, high humidity, or limited access to power. In these situations, a portable [hammock system]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hammock+system+outdoor+gear&tag=basecamprig-21) offers a lightweight, compact solution that can provide comfort and protection while minimizing environmental impact. This guide will detail the selection criteria for materials and components of a [hammock system](https://www.amazon.com/s?k=hammock+system+outdoor+gear&tag=basecamprig-21) suitable for use in such environments.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Dry Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)dry+bag+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -19,7 +19,7 @@ An off-grid vehicle basecamp is an environment where traditional camping gear ma
 A complete hammock setup consists of several key components: the hammock itself, suspension straps or trees, a bug net (if necessary), and optional accessories like guylines, tie-offs, and repair kits. Each component must be carefully selected to ensure durability and functionality in an off-grid setting.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### 1. Hammock Fabric
 
@@ -69,7 +69,7 @@ Depending on the climate and duration of stay, consider bringing additional gear
 - **[Hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)** for windy conditions
 - **[Sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)** rated appropriately for low temperatures
 - **[Camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)** for cooking
-- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)** with hydration system and food supplies
+- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)** with hydration system and food supplies
 
 ## Specifications Table
 
@@ -85,7 +85,7 @@ Depending on the climate and duration of stay, consider bringing additional gear
 
 Suppose you are setting up a basecamp in an area with high humidity and occasional rain. You decide to use a 1200D polyester hammock, which has a hydrostatic head of 3500 mm to handle light to moderate rainfall. For suspension, you opt for 1200D nylon webbing straps rated at 500 lbs per strap. To combat insects and provide additional privacy, you also bring a mesh bug net with adjustable straps.
 
-For added comfort in colder conditions, you bring a sleeping bag rated to -10°C (14°F) and a lightweight hardshell jacket for wind protection. A small camp stove, backpacking cookware, and a hydration system complete your gear list, ensuring you are well-prepared for any weather or activity at the basecamp.
+For added comfort in colder conditions, you bring a [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) rated to -10°C (14°F) and a lightweight hardshell jacket for wind protection. A small [camp stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21), backpacking cookware, and a hydration system complete your gear list, ensuring you are well-prepared for any weather or activity at the basecamp.
 
 ## Conclusion
 

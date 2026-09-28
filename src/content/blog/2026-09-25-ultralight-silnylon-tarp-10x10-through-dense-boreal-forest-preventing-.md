@@ -40,7 +40,7 @@ Select a high ground or slightly elevated area that allows for good air circulat
 ### Additional Layers
 
 - **Rainfly (Optional)**: If you have one, use a rainfly over your tarp for added protection during heavy rains.
-- **Floor Liners**: Consider using waterproof floor liners under your sleeping bags and equipment. These can help reduce moisture transfer to the inner surfaces of your tent.
+- **Floor Liners**: Consider using waterproof floor liners under your [sleeping bags](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) and equipment. These can help reduce moisture transfer to the inner surfaces of your tent.
 
 ## Managing Moisture Buildup
 
@@ -58,7 +58,7 @@ Ensure adequate ventilation within your shelter by leaving small gaps in the tar
 ### Dehumidification Techniques
 
 - **Heating Elements**: If possible, use small heating elements like hand warmers or a portable heater to increase internal temperature slightly.
-- **Air Circulation**: Utilize passive air circulation by positioning your [camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) or [lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) in a way that promotes airflow without creating drafts directly on the sleeping area.
+- **Air Circulation**: Utilize passive air circulation by positioning your [camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21) or [lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) in a way that promotes airflow without creating drafts directly on the sleeping area.
 
 ## Conclusion
 
@@ -78,7 +78,7 @@ By understanding and addressing the key factors contributing to internal condens
 - **Tent**: A lightweight, waterproof tent with effective ventilation.
 - **Boots**: Gortex or similar waterproof boots to keep feet dry.
 - **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: For added protection against rain and wind.
-- **Camp Stove**: For heating elements if needed.
+- **[Camp Stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21)**: For heating elements if needed.
 - **Sleeping Bag**: High fill power for warmth.
 - **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: Lightweight and durable for carrying gear.
 - **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21)**: For lighting in the dark to manage condensation checks.

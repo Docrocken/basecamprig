@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 The 2-person [backpacking tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpacking+tent+outdoor+gear&tag=basecamprig-21) is designed for lightweight yet robust use in various outdoor conditions. Key engineering specs include a hydrostatic head of 4000 mm, ensuring water resistance against heavy rains, and a fabric denier of 150D for durability while maintaining a low weight. The internal volume is optimized at 200 liters to accommodate two people comfortably. With an R-value of 1.8, it provides adequate insulation in cooler temperatures. The tent features a breathable mesh on the walls (40% of total surface area) and a waterproof fly for maximum ventilation.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Titanium Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)titanium+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Field Maintenance: Drying Procedures
@@ -67,10 +70,13 @@ The 2-person [backpacking tent]([https://www.amazon.com/s?k=](https://www.amazon
 ## Additional Tips for Extended Use
 
 - **Regular Maintenance Checks**: Inspect your tent regularly, especially before long trips, and address any minor issues early to prevent larger problems.
-- **Use of Quality Gear**: Invest in high-quality boots, [backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21), and camping gear that can withstand the rigors of off-grid travel without damaging the tent.
+- **Use of Quality Gear**: Invest in high-quality boots, [backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21), and camping gear that can withstand the rigors of off-grid travel without damaging the tent.
 - **Proper Campsite Selection**: Choose sites with flat ground and minimal vegetation to reduce wear on the tent from stakes or guy lines.
 
-By following these detailed guidelines for field maintenance and tear repair, you can ensure your 2-person backpacking tent remains in excellent condition even during extended off-grid vehicle basecamp use.
+By following these detailed guidelines for field maintenance and tear repair, you can ensure your 2-person [backpacking tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) remains in excellent condition even during extended off-grid vehicle basecamp use.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Bivy Sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Silnylon Tarp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)silnylon+tarp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

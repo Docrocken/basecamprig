@@ -62,7 +62,7 @@ At the basecamp, a more robust setup can be employed to take advantage of stable
 ### Hiking Rig
 For hiking through dense boreal forests, a more compact setup is necessary. Key components include:
 
-- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) Stove Mount:** A lightweight mount integrated into your backpack to secure the stove and canister.
+- **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) Stove Mount:** A lightweight mount integrated into your backpack to secure the stove and canister.
 - **Portable Fuel Canister Pouches:** Multiple pockets on your pack or belt for carrying additional fuel.
 
 ## Detailed Gear Recommendations
@@ -143,7 +143,7 @@ A portable water filter is essential to ensure safe drinking water.
 Navigating through dense boreal forests requires careful planning and the right gear. By selecting appropriate fuel canisters, stoves, cooking equipment, and personal protection gear, you can ensure a safe and comfortable experience in these challenging environments. A modular approach to your rig configuration allows for flexibility depending on whether you are setting up basecamp or hiking through the forest.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ---
 

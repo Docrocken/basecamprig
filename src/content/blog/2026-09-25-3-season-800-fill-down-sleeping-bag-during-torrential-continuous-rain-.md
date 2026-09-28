@@ -35,7 +35,7 @@ Wind resistance is critical in maintaining warmth by preventing cold air from en
 
 **Technical Specifications**
 - **Fabric Denier**: 60D nylon or polyester with a thin layer of PTFE coating.
-- **Wind Resistance Rating**: The sleeping bag should have a wind resistance rating that withstands speeds up to 50 km/h (31 mph), ensuring minimal heat loss from the outside environment.
+- **Wind Resistance Rating**: The [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) should have a wind resistance rating that withstands speeds up to 50 km/h (31 mph), ensuring minimal heat loss from the outside environment.
 
 ### Combined Impact
 When both breathability and wind resistance are balanced, they complement each other in providing an optimal microclimate. A breathable membrane allows for efficient moisture management, while adequate wind resistance ensures that the insulation remains effective despite external winds.

@@ -21,7 +21,7 @@ For outdoor enthusiasts pushing the boundaries of their adventures into rugged t
 The hydrostatic head test measures how well a fabric can resist water penetration when subjected to a column of water. A higher hydrostatic head value indicates better waterproofing capabilities. For this stove setup, we consider a tent with a 10,000 mm hydrostatic head rating. This means the fabric can withstand being submerged in a vertical column of water that reaches 10 meters before it starts to leak through.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Abrasion Test
 
@@ -36,7 +36,7 @@ The abrasion test evaluates how well a material withstands wear and tear from re
 |------------------------|------------------------------------------|
 | Tent                   | 3-season, 4-person, 70D ripstop nylon     |
 | Hydrostatic Head       | 10,000 mm                                |
-| Hardshell Jacket       | 650 fill power, R-Value: 2.5             |
+| [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21)       | 650 fill power, R-Value: 2.5             |
 | Stove                  | Alcohol liquid fuel                       |
 | Waterproofing           | Coated with DWR (Durable Water Repellent)|
 | Abrasion Resistance    | Martindale test: 12,000 cycles            |

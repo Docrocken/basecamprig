@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to Thru-Hiking Gear Selection
 
-Long-distance solo thru-hikes demand rigorous gear that can withstand the harsh elements of nature. Among these essentials are reinforced [trekking pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21), which play a crucial role in protecting hikers from abrasion, moisture, and extreme conditions. This guide delves into the technical aspects of selecting and configuring trekking pants for extended solo treks.
+Long-distance solo thru-hikes demand rigorous gear that can withstand the harsh elements of nature. Among these essentials are reinforced [trekking pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21), which play a crucial role in protecting hikers from abrasion, moisture, and extreme conditions. This guide delves into the technical aspects of selecting and configuring [trekking pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) for extended solo treks.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool Base Layer]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+base+layer+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -53,7 +53,7 @@ Effective moisture management is critical to maintaining hiker comfort and preve
 
 Reinforced trekking pants are best integrated into a comprehensive modular rig that includes:
 
-- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21)**: Lightweight backpacks (20-35L capacity) designed to distribute weight evenly.
+- **[Backpacks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21)**: Lightweight backpacks (20-35L capacity) designed to distribute weight evenly.
 - **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A waterproof, breathable shell jacket for full-body protection during wet conditions.
 - **Tent and [Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Compact yet warm sleeping solutions with a focus on lightweight materials.
 

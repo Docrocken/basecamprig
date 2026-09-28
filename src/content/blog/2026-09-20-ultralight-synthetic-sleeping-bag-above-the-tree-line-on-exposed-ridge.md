@@ -71,6 +71,9 @@ Implement a layering system for optimal warmth and breathability:
 | The North Face Storm Pant | Waterproof and wind-resistant outer shell for extremities protection.                          | N/A     | N/A        | N/A      | 420+         |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Down Quilt](https://www.amazon.com/s?k=down+quilt+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

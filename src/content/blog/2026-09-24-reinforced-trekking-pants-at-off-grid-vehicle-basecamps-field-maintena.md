@@ -70,9 +70,15 @@ Maintaining and repairing trekking pants is crucial for ensuring safety and comf
 | **Breathability**  | 20,000 mm²/24hr                                                              |
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Mummy Bag](https://www.amazon.com/s?k=mummy+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 This guide provides a comprehensive approach to managing your [trekking pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) in the field, ensuring they remain functional and reliable throughout extended outdoor adventures.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Silnylon Tarp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)silnylon+tarp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

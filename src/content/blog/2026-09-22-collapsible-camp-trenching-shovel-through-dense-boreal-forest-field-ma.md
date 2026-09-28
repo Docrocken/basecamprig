@@ -56,6 +56,9 @@ Maintaining and repairing your collapsible camp trenching shovel in dense boreal
 This guide provides a comprehensive approach to managing your collapsible camp trenching shovel in challenging outdoor environments, ensuring that you are well-prepared for any situation encountered during your expeditions through dense boreal forests.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Sleeping Pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 

@@ -58,7 +58,7 @@ Stakes ensure that the tent remains securely anchored to the ground.
 
 ### Air Inflation Systems
 
-For 4-season tunnel tents, an air inflation system can be a game-changer. These systems use battery-powered fans to quickly inflate the tent.
+For 4-season [tunnel tents](https://www.amazon.com/s?k=tunnel+tent+outdoor+gear&tag=basecamprig-21), an air inflation system can be a game-changer. These systems use battery-powered fans to quickly inflate the tent.
 
 **Specifications:**
 - **Battery Type**: Rechargeable lithium-ion.

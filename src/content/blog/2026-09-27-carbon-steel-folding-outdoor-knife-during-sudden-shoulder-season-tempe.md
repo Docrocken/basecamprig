@@ -52,7 +52,7 @@ The handle material's thermal properties can significantly affect the knife’s 
 A well-insulated knife sheath can help maintain the handle's temperature, making it more comfortable to grip. Materials like neoprene or synthetic fleece provide excellent insulation.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 - **Insulation Material:**
   - Neoprene (2mm thick): Provides moderate warmth.

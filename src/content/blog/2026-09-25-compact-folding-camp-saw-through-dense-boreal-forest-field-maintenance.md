@@ -60,7 +60,7 @@ Common areas for tearing include:
    - Ensure each stitch is tight and secure to prevent further tearing.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)paracord+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Paracord]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[paracord](https://www.amazon.com/s?k=paracord+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 3. **Sewing Machine (Optional):**
    - If using a sewing machine, place the fabric in an appropriate presser foot for durability.
@@ -68,7 +68,7 @@ Common areas for tearing include:
    - Reinforce by backstitching at both ends of the repair to add extra strength.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)lantern+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Lantern]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 4. **Finishing Touches:**
    - Once the stitching is complete, use a seam sealant or waterproofing spray to coat the repaired area for added protection against moisture and wear.

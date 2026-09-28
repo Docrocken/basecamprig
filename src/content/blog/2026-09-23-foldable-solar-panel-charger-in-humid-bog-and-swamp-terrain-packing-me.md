@@ -67,9 +67,15 @@ When navigating through humid bogs and swamps, a well-packaged and maintained fo
 | **Storage Conditions** | Cool, dry place (below 60% RH) |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Hiking Socks]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hiking+socks+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
-By adhering to these guidelines and maintaining your solar panel charger properly, you can ensure reliable power in even the most challenging outdoor environments.
+By adhering to these guidelines and maintaining your [solar panel](https://www.amazon.com/s?k=solar+panel+outdoor+gear&tag=basecamprig-21) charger properly, you can ensure reliable power in even the most challenging outdoor environments.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Water Purification Tablets](https://www.amazon.com/s?k=water+purification+tablets+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

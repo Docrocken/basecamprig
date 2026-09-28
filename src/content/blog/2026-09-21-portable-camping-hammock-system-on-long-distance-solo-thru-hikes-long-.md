@@ -44,7 +44,7 @@ Harsh weather conditions such as heavy rain, strong winds, and extreme temperatu
 
 - **Rain**: A high HH rating is essential to prevent water from seeping through the fabric.
 - **Winds**: Hammocks with reinforced corners and a more robust suspension system are better suited for windy environments.
-- **Temperatures**: In cold climates, an additional insulation layer or a higher R-value sleeping pad can be necessary.
+- **Temperatures**: In cold climates, an additional insulation layer or a higher R-value [sleeping pad](https://www.amazon.com/s?k=sleeping+pad+outdoor+gear&tag=basecamprig-21) can be necessary.
 
 ### Terrain
 Different terrains pose unique challenges. Rocky or uneven ground requires a more durable hammock and suspension system to prevent damage.
@@ -75,6 +75,9 @@ Selecting a durable hammock system for long-distance solo thru-hikes is crucial 
 | **Suspension System**     | Dyneema ropes offer superior tensile strength and UV resistance compared to nylon straps. |
 | **Insulation R-value**    | Measures thermal effectiveness; higher values indicate better warmth retention. |
 | **Fill Power**            | Indicates the quality of insulation, with higher fill power providing more effective warmth. |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Hardshell Jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

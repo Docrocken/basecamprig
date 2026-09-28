@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 For solo thru-hikers navigating through varied terrains and climates, the choice of gear can significantly impact safety and efficiency. One piece of essential equipment is a collapsible camp trenching shovel—designed for digging trenches to improve tent placement or creating barriers against wind and rain. This guide delves into the long-term durability analysis of such a tool under harsh conditions, focusing on the specific model, its engineering specifications, and performance in diverse environments.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Dome Tent](https://www.amazon.com/s?k=dome+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Trekking Pants](https://www.amazon.com/s?k=trekking+pants+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
@@ -64,6 +67,9 @@ Drop tests from various heights (1-3 meters) showed no significant damage to eit
 ## Conclusion
 
 The Hikemaster Collapsible Camp Trenching Shovel demonstrates strong long-term durability under a variety of harsh conditions. Its aluminum and stainless steel construction ensures it remains effective even in extreme environments, making it an invaluable tool for solo thru-hikers. While some minor wear was noted on the handle after extended use, overall performance remained excellent.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Sleeping Bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

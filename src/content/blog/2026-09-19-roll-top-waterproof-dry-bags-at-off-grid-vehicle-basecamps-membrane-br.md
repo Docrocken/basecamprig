@@ -52,7 +52,7 @@ For off-grid vehicle basecamps where conditions can be both wet and windy, a bal
    - Model B might be more suitable due to its enhanced wind resistance and robust construction.
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Gaiters](https://www.amazon.com/s?k=[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Backpacking Tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.

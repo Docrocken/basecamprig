@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 Above the tree line, exposed ridges present unique challenges for outdoor enthusiasts. These areas are characterized by extreme weather conditions, including heavy snowfall, slushy mud, and frequent winds. Ensuring proper protection against these elements is critical for maintaining safety and comfort during your expedition.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Titanium Pot](https://www.amazon.com/s?k=titanium+pot+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Bushcraft Knife]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bushcraft+knife+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Key Considerations
@@ -69,7 +72,10 @@ A reliable headlamp with a minimum output of 100 lumens, such as the Petzl Ekapr
 
 ## Conclusion
 
-Choosing [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) for above-the-tree-line ridges requires careful consideration of material properties and functional requirements. By selecting high-performance fabrics with robust waterproofing and breathability, you can ensure that your gear stands up to the harshest conditions while maintaining comfort and ease of use. Remember to integrate these gaiters with other essential gear like boots, tents, and jackets for a comprehensive protection system against snow and mud.
+Choosing [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[gaiters](https://www.amazon.com/s?k=gaiters+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) for above-the-tree-line ridges requires careful consideration of material properties and functional requirements. By selecting high-performance fabrics with robust waterproofing and breathability, you can ensure that your gear stands up to the harshest conditions while maintaining comfort and ease of use. Remember to integrate these gaiters with other essential gear like boots, tents, and jackets for a comprehensive protection system against snow and mud.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Gravity Water Filter](https://www.amazon.com/s?k=gravity+water+filter+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Foam Mat]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)foam+mat+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -81,6 +87,9 @@ Choosing [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gai
 | Outer Shell (GORE-TEX Pro) | Hydrostatic Head: 30,000 mm; Breathability: 27,000 g/m²/24h; Duragrip Coating |
 | Lining (Polartec NeoShell) | R-value: 1.6; Fill Power: 500-600 down or synthetic; Breathable and Wind-resistant |
 | Seam Taping               | Double-seam construction, ensuring maximum waterproofing |
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Fleece Hoodie](https://www.amazon.com/s?k=fleece+hoodie+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Merino Wool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)merino+wool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

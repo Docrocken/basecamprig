@@ -9,7 +9,10 @@ category: "Gear & Field Setups"
 
 ## Introduction to Basecamp Filters
 
-For outdoor enthusiasts and those who set up off-grid vehicle basecamps, the choice of a reliable [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) is paramount. In this guide, we focus on the specific needs of basecamp users, particularly in comparing membrane breathability against wind resistance for Gravity Camp water filters. Both factors play crucial roles in ensuring effective filtration while minimizing environmental impact and maintaining comfort during extended stays.
+For outdoor enthusiasts and those who set up off-grid vehicle basecamps, the choice of a reliable [water filter]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)water+filter+outdoor+gear&tag=basecamprig-21) is paramount. In this guide, we focus on the specific needs of basecamp users, particularly in comparing membrane breathability against wind resistance for Gravity Camp [water filters](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21). Both factors play crucial roles in ensuring effective filtration while minimizing environmental impact and maintaining comfort during extended stays.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Daypack](https://www.amazon.com/s?k=daypack+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trail Running Shoes]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trail+running+shoes+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -17,6 +20,9 @@ For outdoor enthusiasts and those who set up off-grid vehicle basecamps, the cho
 ### Key Components of Gravity Camp Filters
 
 Gravity camp water filters typically consist of a hollow fiber membrane that filters out contaminants such as protozoa, bacteria, and sediment. The performance of these membranes can be significantly influenced by their breathability (ability to allow air flow) and resistance to wind (structural integrity).
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Satellite Communicator](https://www.amazon.com/s?k=satellite+communicator+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Saw]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+saw+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

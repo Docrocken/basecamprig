@@ -12,6 +12,9 @@ category: "Gear & Field Setups"
 On long-distance solo thru-hikes, especially in variable weather conditions, moisture buildup inside tents can significantly reduce comfort and increase the risk of hypothermia. This is particularly a concern when using wood-burning stoves that generate steam and other condensate during cooking. The challenge lies in preventing internal condensation within the tent while maintaining airflow necessary for stove operation.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Saw](https://www.amazon.com/s?k=camp+saw+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Camp Booties]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+booties+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Understanding Condensation
@@ -19,7 +22,10 @@ On long-distance solo thru-hikes, especially in variable weather conditions, moi
 Condensation occurs when warm, humid air comes into contact with cooler surfaces inside the tent. This process can lead to water droplets forming on surfaces such as the tent walls and poles, affecting overall comfort and potentially damaging gear. The presence of a wood-burning stove exacerbates this issue due to the release of steam from burning wood.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** When operating in these environments, reliable [Hiking Boots](https://www.amazon.com/s?k=hiking+boots+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
+> **Field Rig Pick:** For harsh field exposure, verified [Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ## Engineering Specifications
 

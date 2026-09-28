@@ -9,7 +9,7 @@ category: "Gear & Field Setups"
 
 ## Introduction to the Scenario
 
-When planning an expedition that involves navigating rocky scree fields and steep mountain passes, choosing the right [bivy sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) is crucial for maintaining warmth, comfort, and protection from the elements. The key challenges include managing water exposure due to potential precipitation and abrasion resistance against rough surfaces. This guide delves into the technical aspects of selecting a bivy sack that can withstand these conditions, focusing on specific engineering specifications such as hydrostatic head ratings and abrasion tests.
+When planning an expedition that involves navigating rocky scree fields and steep mountain passes, choosing the right [bivy sack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)bivy+sack+outdoor+gear&tag=basecamprig-21) is crucial for maintaining warmth, comfort, and protection from the elements. The key challenges include managing water exposure due to potential precipitation and abrasion resistance against rough surfaces. This guide delves into the technical aspects of selecting a [bivy sack](https://www.amazon.com/s?k=bivy+sack+outdoor+gear&tag=basecamprig-21) that can withstand these conditions, focusing on specific engineering specifications such as hydrostatic head ratings and abrasion tests.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Titanium Pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)titanium+pot+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -51,9 +51,9 @@ To achieve adequate warmth without adding too much weight, consider a fill power
 
 - **Tent**: A lightweight, waterproof tent is essential for use in mixed weather conditions. Look for tents rated to -20°C or lower.
 - **Boots**: Sturdy mountaineering boots with good ankle support are necessary for navigating rocky scree fields safely. Waterproof options with insulation and [gaiters]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)gaiters+outdoor+gear&tag=basecamprig-21) provide better protection from the elements.
-- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A hardshell jacket offers additional protection against wind, rain, and snow, complementing the bivy sack's waterproof properties.
-- **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: For cooking in harsh conditions, a compact camp stove that can burn both solid fuel and liquid fuel is ideal. Ensure it has good insulation to prevent condensation from affecting food.
-- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose a sleeping bag with an appropriate temperature rating based on the expected weather conditions. A mummy-style bag with an R-value of 3 or higher will keep you warm in cold temperatures.
+- **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21)**: A [hardshell jacket](https://www.amazon.com/s?k=hardshell+jacket+outdoor+gear&tag=basecamprig-21) offers additional protection against wind, rain, and snow, complementing the bivy sack's waterproof properties.
+- **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21)**: For cooking in harsh conditions, a compact [camp stove](https://www.amazon.com/s?k=camp+stove+outdoor+gear&tag=basecamprig-21) that can burn both solid fuel and liquid fuel is ideal. Ensure it has good insulation to prevent condensation from affecting food.
+- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21)**: Choose a [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) with an appropriate temperature rating based on the expected weather conditions. A mummy-style bag with an R-value of 3 or higher will keep you warm in cold temperatures.
 
 ## Conclusion
 

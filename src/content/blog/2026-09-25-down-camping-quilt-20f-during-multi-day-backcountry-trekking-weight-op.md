@@ -65,9 +65,15 @@ Optimizing the weight of a 20°F down camping quilt involves careful considerati
 | Weight            | <3 lbs (1.4 kg) for a standard quilt |
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Expedition Tent](https://www.amazon.com/s?k=expedition+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** For harsh field exposure, verified [Expedition Tent]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)expedition+tent+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 By adhering to these specifications and considerations, outdoor enthusiasts can enjoy the benefits of a lightweight down camping quilt while ensuring their safety and comfort during multi-day backcountry treks.
+
+
+> **Field Rig Pick:** When operating in these environments, reliable [Down Jacket](https://www.amazon.com/s?k=down+jacket+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Down Quilt]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)down+quilt+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.

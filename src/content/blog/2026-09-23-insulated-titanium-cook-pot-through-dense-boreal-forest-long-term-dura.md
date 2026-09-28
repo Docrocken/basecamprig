@@ -12,13 +12,13 @@ category: "Gear & Field Setups"
 This guide focuses on the long-term durability analysis of an insulated titanium [cook pot]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)cook+pot+outdoor+gear&tag=basecamprig-21) through dense boreal forest conditions. The objective is to evaluate its performance under challenging outdoor scenarios, including fluctuating temperatures, moisture exposure, and physical stress from rigorous use.
 
 
-> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)multitool+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
+> **Field Rig Pick:** For harsh field exposure, verified [Multitool]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[multitool](https://www.amazon.com/s?k=multitool+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
 
 ### Materials and Specifications
 
 | **Component**           | **Specs**                      |
 |-------------------------|-------------------------------|
-| **Cook Pot Material**    | Insulated Titanium             |
+| **[Cook Pot](https://www.amazon.com/s?k=cook+pot+outdoor+gear&tag=basecamprig-21) Material**    | Insulated Titanium             |
 | **Insulation Type**      | Microfiber                      |
 | **Insulation R-value**   | 3.2                             |
 | **Hydrostatic Head**     | 15,000 mm                      |
@@ -63,7 +63,7 @@ The hydrostatic head rating of 15,000 mm was tested against various moisture lev
 
 ### Portability and Field Usability
 
-The cook pot's compact size and lightweight design made it highly portable. It was carried in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21) alongside other essential gear such as a tent, boots, [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21), [camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21), [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21), and [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21). The handle’s ergonomic design ensured comfortable handling even with gloved hands.
+The cook pot's compact size and lightweight design made it highly portable. It was carried in a [backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[backpack](https://www.amazon.com/s?k=backpack+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) alongside other essential gear such as a tent, boots, [hardshell jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21), [camp stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21), [sleeping bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21), and [headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)[headlamp](https://www.amazon.com/s?k=headlamp+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21). The handle’s ergonomic design ensured comfortable handling even with gloved hands.
 
 - **Versatility**: The pot doubled as a water carrier when needed, reducing the need for additional hydration bottles.
 - **Storage**: Despite its insulation layer, the cook pot did not add significant bulk to backpacks or packs, making it an ideal companion in dense forest environments.

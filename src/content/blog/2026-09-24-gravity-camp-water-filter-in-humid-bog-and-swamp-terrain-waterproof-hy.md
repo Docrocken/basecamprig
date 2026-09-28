@@ -18,7 +18,7 @@ In the challenging environment of humid bogs and swamps, reliable water filtrati
 
 ### Hydrostatic Head Test
 
-The hydrostatic head test measures a material's ability to repel water by simulating rainfall or submersion pressure. For the Gravity Camp Water Filter, the focus is on its container and filter housing. The filter housing must withstand prolonged submersion without allowing water ingress into the system.
+The hydrostatic head test measures a material's ability to repel water by simulating rainfall or submersion pressure. For the Gravity Camp [Water Filter](https://www.amazon.com/s?k=water+filter+outdoor+gear&tag=basecamprig-21), the focus is on its container and filter housing. The filter housing must withstand prolonged submersion without allowing water ingress into the system.
 
 
 > **Field Rig Pick:** For harsh field exposure, verified [Trekking Pants]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)trekking+pants+outdoor+gear&tag=basecamprig-21) provides reliable durability and safety margins.
@@ -91,7 +91,7 @@ The Gravity Camp Water Filter is meticulously engineered to meet the demanding r
 - **Boots:** Sturdy, waterproof boots designed for muddy terrain.
 - **[Hardshell Jacket]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)hardshell+jacket+outdoor+gear&tag=basecamprig-21):** For added protection from rain and moisture.
 - **[Camp Stove]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)camp+stove+outdoor+gear&tag=basecamprig-21):** For boiling water as an additional purification method if needed.
-- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** A high R-value sleeping bag to ensure warmth in damp environments.
+- **[Sleeping Bag]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)sleeping+bag+outdoor+gear&tag=basecamprig-21):** A high R-value [sleeping bag](https://www.amazon.com/s?k=sleeping+bag+outdoor+gear&tag=basecamprig-21) to ensure warmth in damp environments.
 - **[Backpack]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)backpack+outdoor+gear&tag=basecamprig-21):** A durable, waterproof backpack with sufficient capacity for emergency supplies.
 - **[Headlamp]([https://www.amazon.com/s?k=](https://www.amazon.com/s?k=)headlamp+outdoor+gear&tag=basecamprig-21):** Essential for navigating dark, wet areas.
 

@@ -51,6 +51,9 @@ Choosing between a packable camp hatchet with high breathability or strong wind 
 By understanding these technical specifications, you can make an informed decision that enhances your safety and efficiency during long-distance solo thru-hikes. Remember, the right combination of materials will ensure your hatchet remains reliable in any outdoor setting.
 
 
+> **Field Rig Pick:** When operating in these environments, reliable [Camp Axe](https://www.amazon.com/s?k=camp+axe+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+
+
 > **Field Rig Pick:** When operating in these environments, reliable [Backpacking Tent](https://www.amazon.com/s?k=backpacking+tent+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
@@ -69,7 +72,7 @@ By understanding these technical specifications, you can make an informed decisi
 | **Breathability (g/m²/24h)** | 2500                                      | 2500                                 |
 
 
-> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
+> **Field Rig Pick:** When operating in these environments, reliable [Lantern](https://www.amazon.com/s?k=[lantern](https://www.amazon.com/s?k=lantern+outdoor+gear&tag=basecamprig-21)+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
 
 
 > **Field Rig Pick:** When operating in these environments, reliable [Merino Wool](https://www.amazon.com/s?k=merino+wool+outdoor+gear&tag=basecamprig-21) is essential for safety and thermal efficiency.
