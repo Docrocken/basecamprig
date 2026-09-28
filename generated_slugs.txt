@@ -484,3 +484,6 @@ ultralight-bivy-sack-at-off-grid-vehicle-basecamps-weight-optimization
 packable-camp-hatchet-in-humid-bog-and-swamp-terrain-waterproof-hydros
 wilderness-trauma-medical-kit-in-humid-bog-and-swamp-terrain-essential
 compact-folding-camp-saw-during-torrential-continuous-rain-packing-met
+portable-camping-hammock-system-in-humid-bog-and-swamp-terrain-essenti
+ultralight-freestanding-dome-tent-under-early-spring-wet-snow-slush-pr
+ultralight-freestanding-dome-tent-in-sub-zero-winter-freeze-and-snow-e
